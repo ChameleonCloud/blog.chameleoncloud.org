@@ -1,0 +1,55 @@
+---
+abstract: '<p><span style="color: rgb(0, 0, 0); font-family: Arial; font-size: 14.6667px;
+  white-space: pre-wrap;">Many things can go wrong when deploying a large cluster
+  of nodes. We thought it would be helpful for some of you to include some useful
+  tips and tricks for deploying 20+ node clusters when some of the nodes may cause
+  you problems.</span></p>'
+authors:
+- Jacob Colleran
+categories:
+- Tips and Tricks
+date: '2019-04-11 22:20:44+00:00'
+featured: false
+hide_image: true
+image: ''
+slug: how-maintain-your-sanity-when-deploying-20-nodes
+subtitle: ''
+title: How to Maintain Your Sanity When Deploying 20+ Nodes
+---
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-cef332cd-7fff-148a-2297-9f615581118c"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Many things can go wrong when deploying a large cluster of nodes. We thought it would be helpful for some of you to include some useful tips and tricks for deploying 20+ node clusters when some of the nodes may cause you problems.</span></span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-cef332cd-7fff-148a-2297-9f615581118c"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">LEASE MORE NODES THAN YOU NEED</span></span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">We never thought we advocate this, but in a bare metal installation where nodes are subject to a lot of wear and tear node failures can happen more often -- the larger the number of nodes you ask for the greater the probability that some of them might fail -- so in this case asking for a </span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">little</span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"> bit more can be justified. The advantage of that is that Chameleon will attempt to launch </span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">all</span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"> the nodes from your lease so that if one or two fail you may still end up with the number you requested. For instance, say you leased 32 nodes in order to launch a 30 node cluster. If one of your nodes is faulty then Chameleon will skip over that node and attempt to launch the instance on the remaining nodes. If you had only leased 30 nodes, then your only alternative would be to settle for a smaller cluster or file a </span><a href="https://www.chameleoncloud.org/user/help/" style=""><span style="font-size: 11pt; font-family: Arial; color: rgb(17, 85, 204); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">ticket</span></a><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"> to have one of our team members replace the faulty node in your lease. However, please be cognizant that you are sharing resources with other users: do not lease </span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">unreasonably </span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">more nodes than you need to ensure can launch your full cluster.</span></span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">STAGGER YOUR DEPLOYMENTS</span></span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">You don’t have to launch a cluster all in one go. So long as each instance is on the same network (e.g. sharednet1), your nodes can communicate with each other via their private network (</span><a href="https://www.chameleoncloud.org/blog/2019/02/27/save-planet-use-fewer-ips/" style=""><span style="font-size: 11pt; font-family: Arial; color: rgb(17, 85, 204); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Don’t give them all floating ip addresses!</span></a><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">). Instead of launching one 30 node cluster, you can launch three 10 node clusters and modify your control node. This both manages network congestion that is a frequent cause of failures and allows you to debug your deployment bit by bit as needed. </span></span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-cef332cd-7fff-148a-2297-9f615581118c"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">USE ORCHESTRATION</span></span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-cef332cd-7fff-148a-2297-9f615581118c"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Chameleon’s Orchestration service (Heat) allows you to define and launch all the resources you need for your experiment in one </span><a href="https://chameleoncloud.readthedocs.io/en/latest/technical/complex.html#heat-orchestration-templates" style=""><span style="font-size: 11pt; font-family: Arial; color: rgb(17, 85, 204); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">HOT Template</span></a><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">. A Heat Orchestration Template (HOT) is a yaml file that allows to you to describe your entire experiment -- from something as simple as launching multiple nodes to as complex as an experiment involving more </span><a href="https://chameleoncloud.readthedocs.io/en/latest/technical/networks/networks_vlan.html#isolated-network-vlans" style=""><span style="font-size: 11pt; font-family: Arial; color: rgb(17, 85, 204); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">complex network configurations</span></a><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"> -- and then launch it with one click. Rather than launching multiple nodes and reconfiguring them each time your 7-day lease ends, you can simply upload your template by clicking the `+Launch Stack` button in the Stacks section of </span><a href="https://chameleoncloud.readthedocs.io/en/latest/technical/complex.html#heat-orchestration-templates" style=""><span style="font-size: 11pt; font-family: Arial; color: rgb(17, 85, 204); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Chameleon’s Orchestration service in the GUI</span></a><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"> and the experiment will be launched automatically when the experiment starts. </span></span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-cef332cd-7fff-148a-2297-9f615581118c"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">The orchestrator can also be used to take advantage of the tips mentioned above. If your reservation is larger than the cluster defined in your HOT template, it will retry instances on alternative nodes, or you can stagger your cluster across multiple stacks. Working with yaml files can be frustrating and difficult to debug, but defining your experiment configuration to launch in one-click can save you considerable time in the long run and make your experiments more easily reproducible.</span></span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span id="docs-internal-guid-cef332cd-7fff-148a-2297-9f615581118c"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">HELP DESK</span></span></p>
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><br>
+<span id="docs-internal-guid-cef332cd-7fff-148a-2297-9f615581118c"><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">If all else fails, we are here for you. Submit a ticket via the </span><a href="https://www.chameleoncloud.org/user/help/" style=""><span style="font-size: 11pt; font-family: Arial; color: rgb(17, 85, 204); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;">Help Desk</span></a><span style="font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; white-space: pre-wrap;"> and we will do our best to get your experiment on its way quickly.</span></span></p>
