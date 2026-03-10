@@ -1,0 +1,498 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+:root {
+  --brand-primary: #9ad61a;
+  --brand-success: #74a93c;
+  --brand-info: #239ff0;
+  --brand-blue: #4564e2;
+  --grey: #7e7e7e;
+  --grey-dark: #333;
+}
+
+html,
+body {
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.42857;
+  color: #333;
+}
+
+a {
+  color: var(--brand-blue);
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #2144d3;
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 400;
+  margin: 0.3rem 0;
+}
+
+h1,
+h3 {
+  color: var(--brand-info);
+  border-color: var(--brand-info);
+}
+
+h2 {
+  color: var(--brand-success);
+  border-color: var(--brand-success);
+}
+
+h1 a,
+h2 a,
+h3 a,
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h1 a:focus,
+h2 a:focus,
+h3 a:focus {
+  color: inherit;
+}
+
+.site-header {
+  background-image: url("https://chameleoncloud.org/static/images/nav-bg.jpg");
+  background-color: #2a2a2a;
+}
+
+.navbar-chameleon {
+  min-height: 70px;
+  margin-bottom: 0;
+  border: 1px solid transparent;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-chameleon>div {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.navbar-brand {
+  padding: 5px 15px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  margin-left: -20px;
+  text-decoration: none;
+}
+
+.navbar-brand img {
+  height: 60px;
+  width: auto;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.nav {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.navbar-nav {
+  margin: 0 -15px;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    margin: 0;
+  }
+
+  .navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+
+.navbar-nav>li>a {
+  display: block;
+  padding: 10px 14px;
+  line-height: 22px;
+  color: var(--brand-blue);
+  text-decoration: none;
+}
+
+.site-header .nav>li>a:hover,
+.site-header .nav>li>a:focus {
+  background-color: rgba(238, 238, 238, 0.25);
+  text-decoration: none;
+  color: var(--brand-blue);
+}
+
+.site-header .nav>li.active>a {
+  background-color: rgba(51, 51, 51, 0.1);
+  color: var(--brand-blue);
+}
+
+.main {
+  background-color: #fff;
+  background-image: url("https://chameleoncloud.org/static/images/bg.jpg");
+  background-repeat: repeat-x;
+  padding-top: 0.5em;
+  padding-bottom: 1.5em;
+}
+
+.main>.container {
+  position: relative;
+}
+
+.app-blog {
+  padding: 0.25em 0 1em;
+  overflow: hidden;
+}
+
+.blog-layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.blog-list {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .blog-layout {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+  }
+
+  .blog-list {
+    width: 70%;
+  }
+
+  .blog-sidebar {
+    width: 30%;
+    padding: 0 0 0 2em;
+  }
+}
+
+@media (max-width: 767px) {
+  .blog-list {
+    display: block;
+  }
+
+  .blog-sidebar {
+    display: block;
+    padding: 0;
+    margin-top: 1.5em;
+  }
+}
+
+section.blog-list article::after {
+  display: none;
+}
+
+article.post-item {
+  padding: 0.9em 0;
+  overflow: hidden;
+}
+
+article.post-item:last-of-type {
+  border-bottom: none;
+}
+
+article.post-item header h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+  border-bottom: none;
+  color: var(--brand-info);
+  margin: 0 0 0.1em;
+  line-height: 1.3;
+}
+
+article.post-item header h3 a {
+  color: var(--brand-info);
+}
+
+article.post-item header h3 a:hover {
+  color: #1483c9;
+  text-decoration: underline;
+}
+
+article.post-item header h4 {
+  font-size: 0.97em;
+  font-weight: 400;
+  color: #555;
+  margin: 0 0 0.35em;
+  border: none;
+}
+
+ul.post-detail {
+  padding: 0;
+  list-style: none;
+  margin: 0 0 0.35em;
+  font-size: 0.9em;
+  color: var(--grey);
+}
+
+ul.post-detail li {
+  display: inline;
+}
+
+article.post-item footer.read-more {
+  margin-top: 0.3em;
+  display: flex;
+  justify-content: flex-end;
+}
+
+article.post-item footer.read-more a {
+  color: var(--brand-info);
+  font-size: 0.9em;
+}
+
+article.post-item footer.read-more a:hover {
+  text-decoration: underline;
+}
+
+/* ── Sidebar ──────────────────────────────────────────────── */
+.blog-sidebar h4 {
+  font-size: 1em;
+  font-weight: 700;
+  margin: 0.5em 0 0.4em;
+  color: var(--grey-dark);
+  border-bottom: none;
+}
+
+ul.sidebar-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0.5em;
+}
+
+ul.sidebar-list li {
+  padding: 0 0 0.5em 0;
+  list-style: none;
+}
+
+ul.sidebar-list li a {
+  color: var(--brand-info);
+  font-size: 0.9em;
+}
+
+ul.sidebar-list li a:hover {
+  text-decoration: underline;
+}
+
+.blog-sidebar hr {
+  margin: 0.5em 0;
+  border: 0;
+  border-top: 1px solid #ddd;
+}
+
+.sidebar-section h1 {
+  font-size: 1.2em;
+  border-bottom: none;
+  color: black;
+  margin: 0 0 0.1em;
+  line-height: 1.3;
+}
+
+/* ── Pagination ───────────────────────────────────────────── */
+nav.pagination {
+  clear: both;
+  padding: 0.75em 0;
+  border-top: 2px solid var(--brand-success);
+  font-size: 0.95em;
+}
+
+nav.pagination a {
+  color: var(--brand-info);
+  margin: 0 0.4em;
+}
+
+nav.pagination a:hover {
+  text-decoration: underline;
+}
+
+nav.pagination .current {
+  color: var(--grey);
+}
+
+/* ── Single post ──────────────────────────────────────────── */
+article.post-single {
+  padding: 0.5em 0 1.5em;
+}
+
+article.post-single .post-header h1 {
+  font-size: 1.75em;
+  margin-bottom: 0.25em;
+}
+
+
+article.post-single .post-image {
+  margin-bottom: 1em;
+}
+
+article.post-single .post-body {
+  line-height: 1.6;
+}
+
+article.post-single .post-body h2,
+article.post-single .post-body h3 {
+  margin-top: 1.25em;
+}
+
+article.post-single .post-footer {
+  margin-top: 1.5em;
+  padding-top: 1em;
+  border-top: 2px solid var(--brand-success);
+}
+
+article.post-single .post-categories {
+  margin-bottom: 0.75em;
+  font-size: 0.9em;
+  color: var(--grey);
+}
+
+article.post-single .post-categories a {
+  color: var(--brand-info);
+}
+
+/* ── Read-more button ─────────────────────────────────────── */
+.read-more-link {
+  display: inline-block;
+  position: relative;
+  text-transform: uppercase;
+  padding: 0;
+  color: var(--brand-success);
+  background-color: transparent;
+  border: 0;
+  text-decoration: none;
+  font-size: 0.85em;
+  font-weight: bold;
+}
+
+/* ── Taxonomy pages ───────────────────────────────────────── */
+.taxonomy-list {
+  list-style: none;
+  padding: 0;
+}
+
+.taxonomy-list li {
+  padding: 0.3em 0;
+  border-bottom: 1px solid #eee;
+}
+
+.taxonomy-list li a {
+  color: var(--brand-info);
+}
+
+.taxonomy-list .count {
+  color: var(--grey);
+  font-size: 0.85em;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
+.site-footer {
+  background-color: #f2f2f2;
+  border-top: 3px solid var(--brand-primary);
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  text-align: center;
+}
+
+.site-footer p {
+  margin-bottom: 0.5em;
+  line-height: 1.3;
+  font-size: 0.9em;
+}
+
+.site-footer p:last-child {
+  margin-bottom: 0;
+}
+
+.site-footer a {
+  color: gray;
+}
+
+.site-footer a:hover {
+  color: #333;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.post-date {
+  font-weight: bold;
+}
+
+.post-tags {
+  display: inline;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.post-tags li {
+  display: inline;
+  margin-right: 0.25em;
+}
+
+.meta {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}

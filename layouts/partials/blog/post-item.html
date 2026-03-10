@@ -1,0 +1,19 @@
+<article class="post-item">
+  <h2>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </h2>
+  {{ if .Params.subtitle }}
+  <h3>
+    {{ .Params.subtitle }}
+  </h3>
+  {{ end }}
+
+  {{ partial "blog/meta.html" . }}
+
+  <div class="post-content">
+    {{ .Params.abstract | safeHTML}}
+  </div>
+  <footer class="read-more">
+    <a class="read-more-link" href="{{ .Permalink }}">Read more</a>
+  </footer>
+</article>

@@ -1,0 +1,15 @@
+{{- $featured := where .Site.RegularPages ".Params.categories" "intersect" (slice "Featured") -}}
+[
+  {{ range $i, $post := $featured -}}
+  {{- if $i }},{{ end }}
+  {
+    "title": {{ $post.Title | jsonify }},
+    "subtitle": {{ $post.Params.subtitle | jsonify }},
+    "url": {{ $post.Permalink | jsonify }},
+    "date": {{ $post.Date.Format "2006-01-02" | jsonify }},
+    "abstract": {{ $post.Params.abstract | jsonify }},
+    "image": {{ $post.Params.image | jsonify }},
+    "authors": {{ $post.Params.authors | jsonify }}
+  }
+  {{- end }}
+]

@@ -1,0 +1,26 @@
+baseURL = "https://blog.chameleoncloud.org/"
+languageCode = "en-us"
+title = "Blog | Chameleon"
+
+[outputFormats.FeaturedJSON]
+mediaType = "application/json"
+baseName = "featured"
+isPlainText = true
+notAlternative = true
+
+[outputs]
+home = ["HTML", "FeaturedJSON"]
+
+[params]
+description = "The Chameleon Blog"
+mainSections = ["posts"]
+
+[taxonomies]
+category = "categories"
+author = "authors"
+
+# Allow raw HTML in posts
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true

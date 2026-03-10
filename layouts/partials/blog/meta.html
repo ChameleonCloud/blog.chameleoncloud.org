@@ -1,0 +1,17 @@
+<div class="meta">
+    <span>
+        <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+        <span>
+            {{ with .GetTerms "authors" }}
+            by {{ range . }}<a href="{{ .Permalink }}">{{ .LinkTitle }}</a>{{ end }}
+            {{ end }}
+        </span>
+    </span>
+    <ul class="post-tags">
+        <i class="fa fa-tags" aria-hidden="true" style="padding-right: .5em;"></i>
+        {{ $terms := .GetTerms "categories" }}
+        {{ range $i, $term := $terms }}
+        <li><a href="{{ $term.Permalink }}">{{ $term.LinkTitle }}</a>{{ if lt (add $i 1) (len $terms) }}, {{ end }}</li>
+        {{ end }}
+    </ul>
+</div>

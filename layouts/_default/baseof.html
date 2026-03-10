@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default " en" }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ with .OutputFormats.Get "rss" }}
+  <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+  {{ end }}
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href='{{ "css/blog.css" | relURL }}'>
+  {{ block "head" . }}{{ end }}
+</head>
+
+<body>
+
+  {{ partial "blog/header.html" . }}
+
+  <div class="main">
+    <div class="container">
+      <div class="app app-blog">
+        <div class="blog-layout">
+          <section class="blog-list">
+            {{ block "main" . }}{{ end }}
+          </section>
+          {{ partial "blog/sidebar.html" . }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{ partial "blog/footer.html" . }}
+
+</body>
+
+</html>

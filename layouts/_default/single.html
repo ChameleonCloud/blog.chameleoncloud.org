@@ -1,0 +1,23 @@
+{{ define "main" }}
+<article class="post-single">
+  <header class="post-header">
+    <h1>{{ .Title }}</h1>
+  </header>
+  {{ partial "blog/meta.html" . }}
+
+
+
+  {{ if .Params.hide_image | not}}
+  <!--Imported posts have embedded images, so we hide them.-->
+  {{ with .Params.image }}
+  <div class="post-image">
+    <img src="{{ . }}" alt="{{ $.Title }}">
+  </div>
+  {{ end }}
+  {{ end }}
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

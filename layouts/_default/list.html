@@ -1,0 +1,27 @@
+{{ define "main" }}
+{{ if not .IsHome }}
+<h1>
+  {{ if .Parent }}{{ .Parent.Title }} &ndash; {{ .Title }}
+  {{ else }}{{ .Title }}
+  {{ end }}
+</h1>
+{{ end }}
+
+{{ range .Paginator.Pages }}
+{{ partial "blog/post-item.html" . }}
+{{ else }}
+<p>No posts found.</p>
+{{ end }}
+
+{{ if or .Paginator.HasPrev .Paginator.HasNext }}
+<nav class="pagination">
+  {{ if .Paginator.HasPrev }}
+  <a href="{{ .Paginator.Prev.URL }}">&laquo; previous</a>
+  {{ end }}
+  <span class="current">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+  {{ if .Paginator.HasNext }}
+  <a href="{{ .Paginator.Next.URL }}">next &raquo;</a>
+  {{ end }}
+</nav>
+{{ end }}
+{{ end }}

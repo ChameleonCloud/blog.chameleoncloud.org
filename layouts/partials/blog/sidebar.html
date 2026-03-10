@@ -1,0 +1,19 @@
+<aside class="blog-sidebar">
+  <div class="sidebar-section">
+    <h1>Categories</h1>
+    <ul class="sidebar-list">
+      {{ range .Site.Taxonomies.categories }}
+      <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+
+  <div class="sidebar-section">
+    <h1>Featured Posts</h1>
+    <ul class="sidebar-list">
+      {{ range where .Site.RegularPages ".Params.categories" "intersect" (slice "Featured") }}
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</aside>
