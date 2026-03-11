@@ -39,7 +39,7 @@ a:focus {
 }
 
 img {
-  max-width: 100%;
+  max-width: 60%;
   height: auto;
   vertical-align: middle;
 }
@@ -130,6 +130,7 @@ h3 a:focus {
 .navbar-brand img {
   height: 60px;
   width: auto;
+  max-width: 100%;
 }
 
 .sr-only {
@@ -246,6 +247,7 @@ section.blog-list article::after {
 article.post-item {
   padding: 0.9em 0;
   overflow: hidden;
+  border-bottom: 2px solid var(--brand-success);
 }
 
 article.post-item:last-of-type {
@@ -495,4 +497,10 @@ article.post-single .post-categories a {
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: space-between;
+}
+
+.post-forum {
+  margin-top: 1.5em;
+  padding-top: 1em;
+  border-top: 2px solid var(--brand-success);
 }

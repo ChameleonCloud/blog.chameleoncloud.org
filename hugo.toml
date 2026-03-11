@@ -14,6 +14,7 @@ home = ["HTML", "FeaturedJSON"]
 [params]
 description = "The Chameleon Blog"
 mainSections = ["posts"]
+baseForumURL = "https://forum.chameleoncloud.org"
 
 [taxonomies]
 category = "categories"
@@ -24,3 +25,7 @@ author = "authors"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+
+[services]
+[services.googleAnalytics]
+id = 'G-72XD87G2YK'

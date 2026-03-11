@@ -19,5 +19,28 @@
   <div class="post-body">
     {{ .Content }}
   </div>
+
+  {{ with .Params.related_posts }}
+  <div class="post-related">
+    <h3>Related Posts</h3>
+    <ul>
+      {{ range . }}
+      <li>
+        <a href="/posts/{{ .slug }}">{{ .title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  <div class="post-forum">
+    {{ with .Params.forum_link }}
+    <a href="{{ . }}">Discuss this post on the Chameleon forum</a>
+    {{ else }}
+    {{ with site.Params.baseForumURL }}
+    <a href="{{ . }}">Create a new thread to discuss this post on the Chameleon forum</a>
+    {{ end }}
+    {{ end }}
+  </div>
 </article>
 {{ end }}

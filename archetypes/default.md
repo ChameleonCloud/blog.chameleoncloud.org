@@ -15,4 +15,6 @@ categories:
 - Featured
 date: '{{ .Date }}'
 image:
+forum_link:
+related_slugs:
 ---
