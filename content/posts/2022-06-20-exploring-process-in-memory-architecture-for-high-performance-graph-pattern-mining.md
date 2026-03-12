@@ -12,6 +12,7 @@ date: '2022-06-20 18:31:14+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/16/34/163493c0-79a1-4cca-843b-84fc9acd1ed0/experiment_authors.png
+related_posts: []
 slug: exploring-process-in-memory-architecture-for-high-performance-graph-pattern-mining
 subtitle: ''
 title: Exploring Process-in-memory Architecture for High-performance Graph Pattern

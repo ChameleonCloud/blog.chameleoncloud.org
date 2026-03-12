@@ -13,6 +13,13 @@ date: '2025-09-30 18:38:27+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/49/1a/491aca35-f6c0-4c4d-9a43-ca4ce7946107/echoes_install.png
+related_posts:
+- slug: chameleon-takes-flight-at-sc24-advancing-research-and-collaboration
+  title: 'Chameleon Takes Flight at SC24: Advancing Research and Collaboration'
+- slug: chameleon-presents-at-sc23
+  title: Chameleon presents AutoLearn, IndySCC'23 success, and more at SC'23
+- slug: chameleon-at-sc-23
+  title: Chameleon at SC '23
 slug: student-spotlight-three-chameleon-projects-heading-to-sc25
 subtitle: 'Bioacoustics, Snapshots, and AI: Student Innovations Pushing the Boundary
   of Science'

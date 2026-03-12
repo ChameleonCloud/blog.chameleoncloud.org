@@ -13,6 +13,13 @@ date: '2023-12-13 21:44:49+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/c9/9d/c99d98a0-4c98-463c-894d-b2456201f377/indyscc-uc-boulder.jpg
+related_posts:
+- slug: chameleon-presents-at-sc23
+  title: Chameleon presents AutoLearn, IndySCC'23 success, and more at SC'23
+- slug: chameleon-at-sc-23
+  title: Chameleon at SC '23
+- slug: indyscc-2022-on-chameleon
+  title: IndySCC 2022 on Chameleon!
 slug: indyscc-site-open-to-all-chameleon-users-until-january-5th-explore-now
 subtitle: Early holiday gift comes to Chameleon Cloud
 title: IndySCC Site Open to All Chameleon Users Until January 5th - Explore Now!

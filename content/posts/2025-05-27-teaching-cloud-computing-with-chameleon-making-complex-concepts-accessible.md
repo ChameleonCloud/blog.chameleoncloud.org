@@ -13,6 +13,19 @@ date: '2025-05-27 16:55:40+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/e3/79/e3795ae1-7bf6-43a7-abba-9eb15d9db8da/coruna2025.png
+related_posts:
+- slug: from-edge-to-cloud-at-the-university-of-missouri
+  title: Teaching from Edge to Cloud at the University of Missouri
+- slug: educating-with-chameleon-at-vanderbilt
+  title: Educating with Chameleon at Vanderbilt
+- slug: jose-monsalve-education-user-blog-post-interview
+  title: 'Using Chameleon for HPC Education: an OpenMP Tutorial'
+- slug: chameleon-education-iits-intro-parallel-programming
+  title: "Chameleon for Education: IIT\u2019s Intro to Parallel Programming"
+- slug: teaching-high-performance-computing-with-chameleon
+  title: Teaching High Performance Computing with Chameleon
+- slug: getting-started-chameleon
+  title: Getting started with Chameleon
 slug: teaching-cloud-computing-with-chameleon-making-complex-concepts-accessible
 subtitle: How Chameleon Cloud Transforms Computer Science Education Across Europe
 title: 'Teaching Cloud Computing with Chameleon: Making Complex Concepts Accessible'

@@ -10,6 +10,15 @@ date: '2025-02-26 22:14:53+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/79/b6/79b6b3dd-ddcd-4794-b4aa-4309a63d0edc/screenshot_2025-02-26_at_40629pm.png
+related_posts:
+- slug: if-at-first-you-dont-succeed-try-try-again-insights-and-llm-informed-tooling-for-detecting-retry-bugs-in-software-systems
+  title: If At First You Don't Succeed, Try, Try, Again...? Insights and LLM-Informed
+    Tooling for Detecting Retry Bugs in Software Systems
+- slug: chameleon-and-simulating-self-propagating-malware-to-evaluate-detection-technology
+  title: Chameleon, and Simulating Self Propagating Malware to Evaluate Detection
+    Technology
+- slug: automated-fast-flux-detection-using-machine-learning-and-genetic-algorithms
+  title: Automated Fast-flux Detection using Machine Learning and Genetic Algorithms
 slug: less-data-better-results-how-active-learning-improves-workflow-anomaly-detection
 subtitle: Chameleon-Powered Research Shows the Path to Efficient Scientific Computing
 title: 'Less Data, Better Results: How Active Learning Improves Workflow Anomaly Detection'

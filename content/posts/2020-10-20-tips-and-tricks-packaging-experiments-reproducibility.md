@@ -12,6 +12,7 @@ date: '2020-10-20 22:16:57+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: tips-and-tricks-packaging-experiments-reproducibility
 subtitle: ''
 title: Packaging Experiments for Reproducibility

@@ -11,6 +11,7 @@ date: '2018-03-14 19:02:44+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: new-chameleon-hardware-available
 subtitle: ''
 title: New Chameleon Hardware Available

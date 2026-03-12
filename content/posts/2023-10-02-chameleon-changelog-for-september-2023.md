@@ -10,6 +10,7 @@ date: '2023-10-02 21:48:56+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/c5/75/c575132d-315f-4f40-840b-2cf0f6686f07/sep_changelog.jpg
+related_posts: []
 slug: chameleon-changelog-for-september-2023
 subtitle: ''
 title: Chameleon Changelog for September 2023

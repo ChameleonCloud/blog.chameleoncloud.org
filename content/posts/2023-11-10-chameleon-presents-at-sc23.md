@@ -16,6 +16,11 @@ date: '2023-11-10 23:05:12+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/ac/c8/acc8c67f-9e2c-40b6-be48-5e5655810a9d/sc23_ver_blackcolor4x.png
+related_posts:
+- slug: chameleon-at-sc-23
+  title: Chameleon at SC '23
+- slug: announcing-digital-educational-artifact-autonomous-vehicles-at-the-edge
+  title: Announcing Digital Educational Artifact, autonomous vehicles at the edge
 slug: chameleon-presents-at-sc23
 subtitle: Chameleon talks, papers, posters, and more - all to be found at SC'23
 title: Chameleon presents AutoLearn, IndySCC'23 success, and more at SC'23

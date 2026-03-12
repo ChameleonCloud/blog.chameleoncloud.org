@@ -16,6 +16,7 @@ date: '2021-12-14 20:32:39+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/eb/0a/eb0a9c1a-018f-4216-a782-01c121822711/screen_shot_2021-12-14_at_122654_pm.png
+related_posts: []
 slug: tickets-of-the-year-2021-edition
 subtitle: ''
 title: 'Tickets of the Year: 2021 Edition'

@@ -13,6 +13,7 @@ date: '2019-08-14 17:54:31+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: five-ways-get-what-you-want-chameleon
 subtitle: ''
 title: Five Ways to Get What You Want on Chameleon

@@ -9,6 +9,7 @@ date: '2024-11-01 21:02:52+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/88/ce/88ced487-0511-4b90-9bdc-5796c1823afc/54068530630_2a80d38f93_c.jpg
+related_posts: []
 slug: chameleon-changelog-for-october-2024
 subtitle: ''
 title: Chameleon Changelog for October 2024

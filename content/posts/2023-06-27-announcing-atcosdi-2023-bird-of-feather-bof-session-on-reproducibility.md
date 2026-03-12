@@ -11,6 +11,7 @@ date: '2023-06-27 23:35:14+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/1e/fa/1efa66b8-3267-4287-82d5-35af0fb979a1/repro_bof.png
+related_posts: []
 slug: announcing-atcosdi-2023-bird-of-feather-bof-session-on-reproducibility
 subtitle: ''
 title: Announcing ATC/OSDI 2023 Bird-of-Feather (BoF) Session on Reproducibility

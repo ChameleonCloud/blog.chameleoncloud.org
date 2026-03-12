@@ -16,6 +16,7 @@ date: '2020-08-14 16:32:29+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: four-more-years-chameleon
 subtitle: ''
 title: Four More Years of Chameleon

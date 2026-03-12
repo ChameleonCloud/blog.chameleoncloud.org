@@ -14,6 +14,7 @@ date: '2018-01-17 21:12:13+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: making-instance-snapshots-chameleon
 subtitle: ''
 title: Making Instance Snapshots on Chameleon

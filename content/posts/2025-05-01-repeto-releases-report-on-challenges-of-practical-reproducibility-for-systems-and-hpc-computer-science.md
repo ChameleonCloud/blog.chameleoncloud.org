@@ -15,6 +15,14 @@ date: '2025-05-01 15:20:10+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/b2/34/b234b2c5-a2ec-4699-8a78-99d6facc0e90/cwpr2024.jpeg
+related_posts:
+- slug: importing-github-repositories-to-trovi-a-step-by-step-guide
+  title: 'Importing GitHub Repositories to Trovi: A Step-by-Step Guide'
+- slug: chameleon-takes-flight-at-sc24-advancing-research-and-collaboration
+  title: 'Chameleon Takes Flight at SC24: Advancing Research and Collaboration'
+- slug: full-agenda-out-now-community-workshop-on-reproducibility-in-atl-nov-18
+  title: "Full Agenda Out Now \u2013 Community Workshop on Reproducibility in ATL\
+    \ Nov. 18"
 slug: repeto-releases-report-on-challenges-of-practical-reproducibility-for-systems-and-hpc-computer-science
 subtitle: Findings from the November 2024 Community Workshop on Practical Reproducibility
   in HPC

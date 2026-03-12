@@ -12,6 +12,7 @@ date: '2020-07-10 16:39:09+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-experiments-using-direct-network-connections-public-clouds-aws
 subtitle: ''
 title: Chameleon Experiments using Direct Network Connections to Public Clouds like

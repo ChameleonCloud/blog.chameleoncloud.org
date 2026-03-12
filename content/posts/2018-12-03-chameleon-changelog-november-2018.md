@@ -11,6 +11,7 @@ date: '2018-12-03 22:08:48+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-november-2018
 subtitle: ''
 title: Chameleon Changelog for November 2018

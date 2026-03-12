@@ -12,6 +12,13 @@ date: '2025-11-19 20:04:51+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/7b/ff/7bff7f50-4513-4cc2-b502-39caeb44d686/image2.png
+related_posts:
+- slug: importing-github-repositories-to-trovi-a-step-by-step-guide
+  title: 'Importing GitHub Repositories to Trovi: A Step-by-Step Guide'
+- slug: storage-research-experiment-patterns-on-chameleon-cloud-and-trovi
+  title: Storage Research Experiment Patterns on Chameleon Cloud and Trovi
+- slug: sharing-experiments-with-trovi
+  title: Sharing Experiments with Trovi
 slug: from-github-to-publication-using-trovi-effectively
 subtitle: How to organize, share, and publish your Chameleon experiments
 title: 'From GitHub to Publication: Using Trovi Effectively'

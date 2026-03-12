@@ -14,6 +14,7 @@ date: '2025-12-17 21:56:16+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: happy-holidays-2025-from-the-chameleon-team
 subtitle: Updates on Chameleon during the winter break
 title: Happy Holidays 2025 from the Chameleon Team!

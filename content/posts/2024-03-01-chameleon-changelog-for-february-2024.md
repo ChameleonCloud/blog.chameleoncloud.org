@@ -11,6 +11,7 @@ date: '2024-03-01 23:03:01+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/6e/7c/6e7c8bd2-aa53-4bfb-a8bb-b7faf52a635f/feb_2024_changelog.png
+related_posts: []
 slug: chameleon-changelog-for-february-2024
 subtitle: ''
 title: Chameleon Changelog for February 2024

@@ -10,6 +10,7 @@ date: '2014-11-01 04:31:23+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: deadline-nsfcloud-workshop-extended
 subtitle: ''
 title: Deadline for the NSFCloud Workshop extended

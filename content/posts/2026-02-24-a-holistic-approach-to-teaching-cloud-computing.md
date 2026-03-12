@@ -13,6 +13,20 @@ date: '2026-02-24 16:26:22+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/63/ca/63ca65ca-d3d6-42a9-9ba6-02ae1a064226/macleod_headshot.jpeg
+related_posts:
+- slug: online-now-fraida-fund-nyu-presents-her-large-scale-mlops-class-on-chameleon
+  title: "Online Now \u2013 Fraida Fund (NYU) presents her large-scale MLOps Class\
+    \ on Chameleon"
+- slug: teaching-cloud-computing-with-chameleon-making-complex-concepts-accessible
+  title: 'Teaching Cloud Computing with Chameleon: Making Complex Concepts Accessible'
+- slug: from-edge-to-cloud-at-the-university-of-missouri
+  title: Teaching from Edge to Cloud at the University of Missouri
+- slug: educating-with-chameleon-at-vanderbilt
+  title: Educating with Chameleon at Vanderbilt
+- slug: chameleon-education-iits-intro-parallel-programming
+  title: "Chameleon for Education: IIT\u2019s Intro to Parallel Programming"
+- slug: teaching-high-performance-computing-with-chameleon
+  title: Teaching High Performance Computing with Chameleon
 slug: a-holistic-approach-to-teaching-cloud-computing
 subtitle: How Chameleon Cloud Helped One Community College Bring Hands-On Cloud Education
   to Hundreds of Students

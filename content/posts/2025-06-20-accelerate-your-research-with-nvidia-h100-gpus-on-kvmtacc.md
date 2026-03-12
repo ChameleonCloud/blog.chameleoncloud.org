@@ -11,6 +11,13 @@ date: '2025-06-20 17:44:12+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/b2/45/b245516b-3014-43db-868a-0a2d4e177ed8/h100_nodes.png
+related_posts:
+- slug: teaching-cloud-computing-with-chameleon-making-complex-concepts-accessible
+  title: 'Teaching Cloud Computing with Chameleon: Making Complex Concepts Accessible'
+- slug: leveraging-new-and-improved-chameleon-images
+  title: Leveraging New and Improved Chameleon Images
+- slug: faster-multimodal-ai-lower-gpu-costs
+  title: Faster Multimodal AI, Lower GPU Costs
 slug: accelerate-your-research-with-nvidia-h100-gpus-on-kvmtacc
 subtitle: Tips and tricks for making the most of Chameleon's new GPU resources and
   reservation-based workflow

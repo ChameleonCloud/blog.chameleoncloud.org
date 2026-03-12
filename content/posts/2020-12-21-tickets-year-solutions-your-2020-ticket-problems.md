@@ -18,6 +18,7 @@ date: '2020-12-21 17:55:10+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: tickets-year-solutions-your-2020-ticket-problems
 subtitle: ''
 title: 'Tickets of the Year: Solutions to Your 2020 (Ticket) Problems'

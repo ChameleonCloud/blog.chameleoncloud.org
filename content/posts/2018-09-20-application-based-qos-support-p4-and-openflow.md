@@ -12,6 +12,7 @@ date: '2018-09-20 15:15:13+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: application-based-qos-support-p4-and-openflow
 subtitle: ''
 title: Application-based QoS support with P4 and OpenFlow

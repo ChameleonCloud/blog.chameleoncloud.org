@@ -10,6 +10,7 @@ date: '2025-02-04 23:00:06+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-for-january-2025
 subtitle: ''
 title: Chameleon Changelog for January 2025

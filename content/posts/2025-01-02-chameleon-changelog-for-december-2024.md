@@ -13,6 +13,7 @@ date: '2025-01-02 22:54:52+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/9b/49/9b499a4b-21bf-4ac8-a3df-096cf11dd69c/dec_changelog.jpg
+related_posts: []
 slug: chameleon-changelog-for-december-2024
 subtitle: ''
 title: Chameleon Changelog for December 2024

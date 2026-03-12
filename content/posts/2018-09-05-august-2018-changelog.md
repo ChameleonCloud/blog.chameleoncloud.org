@@ -10,6 +10,7 @@ date: '2018-09-05 15:03:49+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: august-2018-changelog
 subtitle: ''
 title: Chameleon Changelog for August 2018

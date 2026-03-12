@@ -10,6 +10,7 @@ date: '2022-01-31 23:14:03+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/7d/d1/7dd1a160-13c9-4ece-ac39-caff6483cad7/screen_shot_2022-01-31_at_110852_pm.png
+related_posts: []
 slug: interview-with-the-indyscc-team
 subtitle: ''
 title: Using Chameleon for IndySCC 2021

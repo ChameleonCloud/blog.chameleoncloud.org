@@ -11,6 +11,7 @@ date: '2019-09-18 17:09:12+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: teaching-high-performance-computing-with-chameleon
 subtitle: ''
 title: Teaching High Performance Computing with Chameleon

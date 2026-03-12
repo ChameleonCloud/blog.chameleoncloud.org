@@ -11,6 +11,7 @@ date: '2015-09-26 04:06:34+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: new-openstack-kvm-cloud-available
 subtitle: ''
 title: New OpenStack KVM cloud available

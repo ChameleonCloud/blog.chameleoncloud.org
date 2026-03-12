@@ -11,6 +11,7 @@ date: '2024-01-04 16:28:54+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/65/75/65755da6-34f2-4f24-9976-d614098d2161/pierre-bamin-k3qqlulqvvg-unsplash.jpg
+related_posts: []
 slug: chameleon-changelog-for-december-2023
 subtitle: ''
 title: Chameleon Changelog for December 2023

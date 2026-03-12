@@ -16,6 +16,14 @@ date: '2025-08-27 20:34:34+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/b6/d2/b6d24f18-c96a-4a8e-b930-b31e3e997a1a/yibo_huang.jpg
+related_posts:
+- slug: minimizing-out-of-memory-failures-in-genomics-workflow-execution
+  title: Minimizing Out-of-Memory Failures in Genomics Workflow Execution
+- slug: rethinking-memory-management-for-multi-tiered-systems
+  title: Rethinking Memory Management for Multi-Tiered Systems
+- slug: exploring-process-in-memory-architecture-for-high-performance-graph-pattern-mining
+  title: Exploring Process-in-memory Architecture for High-performance Graph Pattern
+    Mining
 slug: tigon-a-distributed-database-for-a-cxl-pod
 subtitle: Leveraging Shared CXL Memory to Break Through Traditional Network Bottlenecks
 title: 'Tigon: A Distributed Database for a CXL Pod'

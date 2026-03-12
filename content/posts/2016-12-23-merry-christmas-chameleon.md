@@ -9,6 +9,7 @@ date: '2016-12-23 17:54:39+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: merry-christmas-chameleon
 subtitle: ''
 title: Merry Christmas from Chameleon!

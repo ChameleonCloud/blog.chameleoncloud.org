@@ -10,6 +10,7 @@ date: '2016-01-30 05:02:02+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: research-highlight-circumventing-cyber-attacks
 subtitle: ''
 title: 'Research Highlight: Circumventing Cyber Attacks'

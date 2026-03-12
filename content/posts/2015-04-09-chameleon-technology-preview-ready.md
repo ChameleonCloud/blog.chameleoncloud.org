@@ -11,6 +11,7 @@ date: '2015-04-09 04:16:32+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-technology-preview-ready
 subtitle: ''
 title: The Chameleon Technology Preview is ready

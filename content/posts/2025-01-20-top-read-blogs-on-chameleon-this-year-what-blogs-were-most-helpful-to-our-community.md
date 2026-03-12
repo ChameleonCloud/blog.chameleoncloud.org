@@ -13,6 +13,11 @@ date: '2025-01-20 18:57:32+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/bb/37/bb379255-923c-4308-8e9b-a39bee006e7d/chameleon_light_bulb.jpg
+related_posts:
+- slug: composible-hardware-on-chameleon-now
+  title: Composable Hardware on Chameleon NOW!
+- slug: power-measurement-and-management-on-chameleon
+  title: Power Measurement and Management on Chameleon
 slug: top-read-blogs-on-chameleon-this-year-what-blogs-were-most-helpful-to-our-community
 subtitle: Read about which Tips&Tricks blogs were most helpful to our community
 title: Top Blogs on Chameleon Last Year (2024)

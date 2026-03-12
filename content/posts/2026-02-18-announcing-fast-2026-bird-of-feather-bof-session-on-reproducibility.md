@@ -6,11 +6,15 @@ abstract: <p>Two PhD students selected through the Reproducibility Ambassador pr
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-02-18 22:13:01+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/98/f7/98f70798-b9a0-4bde-a2eb-0e2ac8bdf94a/fast26_banner_social-media_1200x630.png
+related_posts:
+- slug: chameleon-is-coming-to-fast-2024
+  title: Chameleon Is Coming to FAST 2024
+- slug: chameleon-at-fast
+  title: Chameleon at FAST
 slug: announcing-fast-2026-bird-of-feather-bof-session-on-reproducibility
 subtitle: "Our Reproducibility Ambassadors Are Heading to FAST '26 \u2014 Here's What\
   \ to Expect"

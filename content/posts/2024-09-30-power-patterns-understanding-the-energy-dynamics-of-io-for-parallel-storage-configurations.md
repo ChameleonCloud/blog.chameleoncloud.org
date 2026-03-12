@@ -9,6 +9,13 @@ date: '2024-09-30 17:16:40+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/b4/79/b4790644-2a5d-4e5b-a5f5-a77508eb613b/photo.jpg
+related_posts:
+- slug: power-measurement-and-management-on-chameleon
+  title: Power Measurement and Management on Chameleon
+- slug: maximizing-performance-distributed-system-power-budget
+  title: Maximizing Performance in Distributed Systems with a Power Budget
+- slug: monitoring-power-consumption-low-power-nodes
+  title: 'Power to People: Monitoring Power Consumption of Low Power Nodes'
 slug: power-patterns-understanding-the-energy-dynamics-of-io-for-parallel-storage-configurations
 subtitle: 'Powering Through Data: Energy Insights for Parallel Storage Systems'
 title: 'Power Patterns: Understanding the Energy Dynamics of I/O for Parallel Storage

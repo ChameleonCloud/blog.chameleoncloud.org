@@ -13,6 +13,7 @@ date: '2023-02-20 23:48:04+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/9e/47/9e471916-cc70-4321-855a-281c3d468569/rafael.png
+related_posts: []
 slug: sc-the-largest-reproducibility-laboratory
 subtitle: ''
 title: 'SC: The largest Reproducibility Laboratory'

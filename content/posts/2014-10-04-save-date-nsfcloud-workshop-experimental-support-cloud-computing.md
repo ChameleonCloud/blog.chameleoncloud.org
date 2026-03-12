@@ -14,6 +14,7 @@ date: '2014-10-04 04:35:42+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: save-date-nsfcloud-workshop-experimental-support-cloud-computing
 subtitle: ''
 title: Save the Date for NSFCloud Workshop on Experimental Support for Cloud Computing

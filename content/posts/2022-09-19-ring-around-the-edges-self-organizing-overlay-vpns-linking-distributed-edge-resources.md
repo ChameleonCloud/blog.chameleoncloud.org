@@ -11,6 +11,9 @@ date: '2022-09-19 20:26:47+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/53/24/53245518-f9ba-48df-bcda-dd84f5089f22/class.jpg
+related_posts:
+- slug: conducting-research-on-the-edge-chiedge
+  title: 'Conducting Research on the Edge: CHI@Edge'
 slug: ring-around-the-edges-self-organizing-overlay-vpns-linking-distributed-edge-resources
 subtitle: ''
 title: 'Ring around the edges: self-organizing overlay VPNs linking distributed edge

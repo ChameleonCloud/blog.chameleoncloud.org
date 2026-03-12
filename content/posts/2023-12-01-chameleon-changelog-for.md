@@ -11,6 +11,7 @@ date: '2023-12-01 22:28:53+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/7d/61/7d61d7f9-dc06-4642-b506-6f3ce794f257/nov_changelog.jpg
+related_posts: []
 slug: chameleon-changelog-for
 subtitle: ''
 title: Chameleon Changelog for November 2023

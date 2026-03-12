@@ -8,6 +8,13 @@ date: '2024-04-05 21:55:13+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/d7/68/d768085c-0f96-43fb-acdc-b7cfcd861bd7/sc-tutorial-image.png
+related_posts:
+- slug: chameleon-presents-at-sc23
+  title: Chameleon presents AutoLearn, IndySCC'23 success, and more at SC'23
+- slug: chameleon-at-sc-23
+  title: Chameleon at SC '23
+- slug: sc-the-largest-reproducibility-laboratory
+  title: 'SC: The largest Reproducibility Laboratory'
 slug: announcing-sc24-artifact-tutorial-on-april-25-2024-save-the-date
 subtitle: Unlock the Potential of Chameleon for Your SC24 Research
 title: Announcing SC24 Artifact Tutorial on April 25, 2024 - SAVE THE DATE!

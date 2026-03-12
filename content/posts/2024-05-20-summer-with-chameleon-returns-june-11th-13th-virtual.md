@@ -25,6 +25,9 @@ date: '2024-05-20 22:03:49+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/cc/0d/cc0d9481-6c7d-420a-b042-b6d92b8db735/summerwithchameleon.png
+related_posts:
+- slug: summer-with-chameleon
+  title: Summer with Chameleon
 slug: summer-with-chameleon-returns-june-11th-13th-virtual
 subtitle: A series of introductory tutorials on Chameleon
 title: Summer with Chameleon Returns - June 11th & 13th (Virtual)

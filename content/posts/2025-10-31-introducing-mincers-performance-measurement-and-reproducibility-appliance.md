@@ -16,6 +16,14 @@ date: '2025-10-31 19:05:01+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/31/ed/31ed5344-9756-4849-9e0d-f9d8743c3574/headshot.jpg
+related_posts:
+- slug: repeto-releases-report-on-challenges-of-practical-reproducibility-for-systems-and-hpc-computer-science
+  title: REPETO Releases Report on Challenges of Practical Reproducibility for Systems
+    and HPC Computer Science
+- slug: autoappendix-towards-one-click-reproduction-of-computational-artifacts
+  title: 'AutoAppendix: Towards One-Click Reproduction of Computational Artifacts'
+- slug: building-mpi-clusters-on-chameleon-a-practical-guide
+  title: 'Building MPI Clusters on Chameleon: A Practical Guide'
 slug: introducing-mincers-performance-measurement-and-reproducibility-appliance
 subtitle: Building a Standardized Framework for Reproducible Performance Measurements
   Across Diverse HPC Architectures

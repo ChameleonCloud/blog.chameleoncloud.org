@@ -9,6 +9,7 @@ date: '2020-02-04 18:15:13+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-january-2020
 subtitle: ''
 title: Chameleon Changelog for January 2020

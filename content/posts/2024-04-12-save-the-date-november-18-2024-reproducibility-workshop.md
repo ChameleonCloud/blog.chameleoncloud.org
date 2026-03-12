@@ -12,6 +12,14 @@ date: '2024-04-12 22:11:13+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/25/c8/25c811a2-8298-46b2-8c88-0f0ebe75edb9/chameleon_user_workshop_5.png
+related_posts:
+- slug: announcing-sc24-artifact-tutorial-on-april-25-2024-save-the-date
+  title: Announcing SC24 Artifact Tutorial on April 25, 2024 - SAVE THE DATE!
+- slug: a-roadmap-to-deeper-learning-using-research-infrastructure
+  title: 'Announcing Chameleon User Meeting Keynote: Fraida Fund will Talk about Teaching
+    with Testbeds'
+- slug: the-practical-reproducibility-opportunity
+  title: The Practical Reproducibility Opportunity
 slug: save-the-date-november-18-2024-reproducibility-workshop
 subtitle: Community Workshop on Practical Reproducibility - Monday, November 18, 2024
   - Atlanta GA

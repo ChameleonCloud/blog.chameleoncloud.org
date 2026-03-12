@@ -11,6 +11,7 @@ date: '2018-01-30 15:46:34+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: orchestrating-and-deploying-complex-appliances
 subtitle: ''
 title: Orchestrating and Deploying Complex Appliances

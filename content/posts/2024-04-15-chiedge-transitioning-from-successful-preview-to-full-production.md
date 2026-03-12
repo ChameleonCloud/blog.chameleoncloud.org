@@ -21,6 +21,13 @@ date: '2024-04-15 17:33:11+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/d5/63/d5635bf0-774e-4a87-be06-73abf9d45524/chiedge_logo_resized.jpg
+related_posts:
+- slug: driving-autonomous-cars-from-edge-to-cloud-with-chiedge
+  title: Driving Autonomous Cars From Edge to Cloud with CHI@Edge
+- slug: conducting-research-on-the-edge-chiedge
+  title: 'Conducting Research on the Edge: CHI@Edge'
+- slug: chiedge-community-workshop-report
+  title: CHI@Edge Community Workshop Report
 slug: chiedge-transitioning-from-successful-preview-to-full-production
 subtitle: Unlock the power of edge computing with CHI@Edge - In production now!
 title: 'CHI@Edge: Transitioning from Successful Preview to Full Production'

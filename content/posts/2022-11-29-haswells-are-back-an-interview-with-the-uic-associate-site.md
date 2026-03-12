@@ -12,6 +12,7 @@ date: '2022-11-29 02:58:26+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/60/e5/60e58a64-abf8-45c4-b51e-7c92c27288b2/continuum.png
+related_posts: []
 slug: haswells-are-back-an-interview-with-the-uic-associate-site
 subtitle: ''
 title: 'Haswells are Back: an Interview with the UIC Associate Site'

@@ -11,6 +11,7 @@ date: '2016-02-12 18:03:54+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-love
 subtitle: ''
 title: From Chameleon, with Love

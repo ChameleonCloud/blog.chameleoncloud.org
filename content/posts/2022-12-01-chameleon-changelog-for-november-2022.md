@@ -13,6 +13,7 @@ date: '2022-12-01 22:57:36+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/20/98/2098269e-e80c-415a-8f26-8a6e7f02e9a4/pierre-bamin-ezsd1s9-oso-unsplash.jpg
+related_posts: []
 slug: chameleon-changelog-for-november-2022
 subtitle: ''
 title: Chameleon Changelog for November 2022

@@ -13,6 +13,7 @@ date: '2022-10-19 18:24:39+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: fugaku-nodes-now-at-chitacc
 subtitle: ''
 title: Fugaku Nodes now at CHI@TACC

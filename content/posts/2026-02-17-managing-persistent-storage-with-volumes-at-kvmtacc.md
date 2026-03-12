@@ -14,6 +14,13 @@ date: '2026-02-17 21:43:41+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/7a/81/7a81f256-1aa3-421a-a293-ca93608bfc80/figure1.png
+related_posts:
+- slug: bare-metal-or-kvm-which-should-you-choose-and-when
+  title: Bare Metal or KVM? Which Should You Choose and When
+- slug: storage-research-experiment-patterns-on-chameleon-cloud-and-trovi
+  title: Storage Research Experiment Patterns on Chameleon Cloud and Trovi
+- slug: data-storage-management-and-sharing-on-chameleon
+  title: Data Storage, Management, and Sharing on Chameleon
 slug: managing-persistent-storage-with-volumes-at-kvmtacc
 subtitle: A guide to creating, attaching, and managing persistent volumes for VMs
 title: Managing Persistent Storage with Volumes at KVM@TACC

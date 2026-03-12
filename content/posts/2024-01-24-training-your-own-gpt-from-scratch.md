@@ -26,6 +26,14 @@ date: '2024-01-24 20:51:34+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/1e/40/1e401d69-d2ce-470d-b875-46b583b8d987/akash_kundu.jpg
+related_posts:
+- slug: reproduce-rerun-repeat-the-fun-way-to-learn-machine-learning
+  title: 'Reproduce, Rerun, Repeat: The Fun Way to Learn Machine Learning!'
+- slug: automated-fast-flux-detection-using-machine-learning-and-genetic-algorithms
+  title: Automated Fast-flux Detection using Machine Learning and Genetic Algorithms
+- slug: announcing-virtual-reproducibility-hackathon-december-15th-2023-hold-the-date
+  title: "Announcing Virtual Reproducibility Hackathon \u2013 December 15th, 2023\
+    \ \u2013 HOLD THE DATE"
 slug: training-your-own-gpt-from-scratch
 subtitle: An experiment reproducing NanoGPT and lessons learned
 title: How to Train a GPT From Scratch

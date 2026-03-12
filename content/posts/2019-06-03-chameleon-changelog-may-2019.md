@@ -13,6 +13,7 @@ date: '2019-06-03 22:26:24+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-may-2019
 subtitle: ''
 title: Chameleon Changelog for May 2019

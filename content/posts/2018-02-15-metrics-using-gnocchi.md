@@ -10,6 +10,7 @@ date: '2018-02-15 17:14:51+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: metrics-using-gnocchi
 subtitle: ''
 title: Metrics using Gnocchi

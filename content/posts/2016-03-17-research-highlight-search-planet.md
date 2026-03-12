@@ -10,6 +10,7 @@ date: '2016-03-17 17:01:31+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: research-highlight-search-planet
 subtitle: ''
 title: 'RESEARCH HIGHLIGHT: IN SEARCH OF A PLANET'

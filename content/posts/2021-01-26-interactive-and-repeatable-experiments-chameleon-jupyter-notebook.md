@@ -16,6 +16,7 @@ date: '2021-01-26 00:15:36+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: interactive-and-repeatable-experiments-chameleon-jupyter-notebook
 subtitle: ''
 title: Interactive and Repeatable Experiments on Chameleon with Jupyter Notebook

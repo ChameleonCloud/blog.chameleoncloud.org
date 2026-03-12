@@ -18,6 +18,13 @@ date: '2024-07-15 16:04:23+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/bd/7a/bd7aa209-1232-49a2-ad97-6639a255605f/for-beginners.png
+related_posts:
+- slug: seamless-ssh-container-access-with-chiedge
+  title: Seamless SSH Container Access with CHI@Edge
+- slug: chiedge-transitioning-from-successful-preview-to-full-production
+  title: 'CHI@Edge: Transitioning from Successful Preview to Full Production'
+- slug: driving-autonomous-cars-from-edge-to-cloud-with-chiedge
+  title: Driving Autonomous Cars From Edge to Cloud with CHI@Edge
 slug: expanding-horizons-with-chiedge-new-peripheral-support
 subtitle: Enhancing Edge Computing Research with Advanced Sensors and Cameras
 title: 'Expanding Horizons with CHI@Edge: New Peripheral Support'

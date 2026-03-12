@@ -11,6 +11,7 @@ date: '2021-09-27 19:38:27+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/7c/33/7c335c5a-4c1f-4ab3-a82c-de14fa6ff478/logo-favicon.png
+related_posts: []
 slug: chameleon-on-the-networking-channel
 subtitle: ''
 title: Chameleon on the Networking Channel

@@ -16,6 +16,7 @@ date: '2021-03-15 23:47:00+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/e7/b0/e7b01ed1-ae8b-4f57-8cd4-5678d6c9ead6/carbon.png
+related_posts: []
 slug: cloud-wrangling-chameleons-python-library
 subtitle: ''
 title: Cloud-Wrangling with Chameleon's Python Library

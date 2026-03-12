@@ -16,6 +16,7 @@ date: '2018-10-01 22:18:51+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-september-2018
 subtitle: ''
 title: Chameleon Changelog for September 2018

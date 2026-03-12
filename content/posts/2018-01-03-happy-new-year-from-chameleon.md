@@ -9,6 +9,7 @@ date: '2018-01-03 17:44:57+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: happy-new-year-from-chameleon
 subtitle: ''
 title: Happy New Year from Chameleon!

@@ -10,6 +10,7 @@ date: '2023-05-01 21:41:07+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/16/4a/164ae5f5-c010-4de1-ba05-35ae3ec6faa4/april.jpg
+related_posts: []
 slug: chameleon-changelog-for-april-2023
 subtitle: ''
 title: Chameleon Changelog for April 2023

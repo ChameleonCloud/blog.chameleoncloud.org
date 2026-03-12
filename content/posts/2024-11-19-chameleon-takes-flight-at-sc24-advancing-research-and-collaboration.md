@@ -12,6 +12,13 @@ date: '2024-11-19 17:18:04+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/aa/d3/aad3a1fd-fc92-4cc5-a609-de0b7f7e4097/sc24_h_black_shaded.png
+related_posts:
+- slug: full-agenda-out-now-community-workshop-on-reproducibility-in-atl-nov-18
+  title: "Full Agenda Out Now \u2013 Community Workshop on Reproducibility in ATL\
+    \ Nov. 18"
+- slug: final-call-for-early-bird-registration-community-workshop-on-practical-reproducibility-in-hpc-nov-18-2024
+  title: Final Call for Early Bird Registration - Community Workshop on Practical
+    Reproducibility in HPC (Nov. 18, 2024)
 slug: chameleon-takes-flight-at-sc24-advancing-research-and-collaboration
 subtitle: Read on to see what we'll be up to during SC24 week! Nov. 17 to 20
 title: 'Chameleon Takes Flight at SC24: Advancing Research and Collaboration'

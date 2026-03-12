@@ -12,6 +12,11 @@ date: '2024-10-21 20:02:10+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/4b/65/4b65fb1e-abac-4f3b-9997-ad09d9f7e109/stoica-bogdan-resize-250x250.jpg
+related_posts:
+- slug: alert-accurate-anytime-learning-for-energy-and-timeliness-in-software-systems
+  title: 'ALERT: Accurate Anytime Learning for energy and timeliness in software systems'
+- slug: software-defined-networking-openflow-chameleon
+  title: Software Defined Networking with OpenFLow on Chameleon
 slug: if-at-first-you-dont-succeed-try-try-again-insights-and-llm-informed-tooling-for-detecting-retry-bugs-in-software-systems
 subtitle: Using Chameleon to Hunt Down Elusive Retry Bugs in Software Systems
 title: If At First You Don't Succeed, Try, Try, Again...? Insights and LLM-Informed

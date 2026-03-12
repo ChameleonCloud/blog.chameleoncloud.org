@@ -12,6 +12,7 @@ date: '2019-12-23 19:52:59+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: implementing-chameleons-history-command
 subtitle: ''
 title: "The \u201CHistory Command\u201D of Chameleon"

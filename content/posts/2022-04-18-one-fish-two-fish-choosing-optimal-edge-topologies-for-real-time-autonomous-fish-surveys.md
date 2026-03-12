@@ -11,6 +11,7 @@ date: '2022-04-18 23:12:55+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/c3/07/c30726cb-1231-4595-a800-03ee3c1558c3/screen_shot_2022-04-19_at_120550_am.png
+related_posts: []
 slug: one-fish-two-fish-choosing-optimal-edge-topologies-for-real-time-autonomous-fish-surveys
 subtitle: ''
 title: 'One Fish, Two Fish: Choosing Optimal Edge Topologies for Real-Time Autonomous

@@ -12,6 +12,13 @@ date: '2025-08-18 20:50:44+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/51/1d/511d0d87-5ae4-4457-8121-e713be049c5f/chameleon-at-work.png
+related_posts:
+- slug: data-storage-management-and-sharing-on-chameleon
+  title: Data Storage, Management, and Sharing on Chameleon
+- slug: choosing-right-orchestration-chameleon
+  title: Choosing the right orchestration in Chameleon
+- slug: getting-started-chameleon
+  title: Getting started with Chameleon
 slug: back-to-school-graduating-from-the-getting-started-guide
 subtitle: 'Beyond the Basics: A Guide to the Command Line and Data Management'
 title: 'Back to School: Graduating from the Getting Started Guide'

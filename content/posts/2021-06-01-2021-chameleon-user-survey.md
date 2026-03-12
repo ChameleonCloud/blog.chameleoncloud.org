@@ -17,6 +17,7 @@ date: '2021-06-01 21:45:40+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/31/6c/316c58e0-06bc-4f62-b14e-bd6466b96c0d/opinion2.png
+related_posts: []
 slug: 2021-chameleon-user-survey
 subtitle: ''
 title: 2021 Chameleon User Survey

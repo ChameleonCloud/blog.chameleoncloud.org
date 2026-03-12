@@ -10,6 +10,7 @@ date: '2021-01-21 00:11:10+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: biometric-research-cloud
 subtitle: ''
 title: Biometric Research in The Cloud

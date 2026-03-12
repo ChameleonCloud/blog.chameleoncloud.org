@@ -16,6 +16,7 @@ date: '2026-02-02 21:08:27+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/df/b7/dfb73484-5466-401e-ae7a-db9d9902e832/chameleon_feb_2026.jpg
+related_posts: []
 slug: chameleon-newsletter-changelog-january-2026
 subtitle: Testbed updates, new features, webinars, and other exciting news from our
   user community

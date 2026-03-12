@@ -11,6 +11,7 @@ date: '2017-12-11 21:58:13+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: getting-started-chameleon
 subtitle: ''
 title: Getting started with Chameleon

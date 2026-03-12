@@ -16,6 +16,7 @@ date: '2026-01-05 22:53:15+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/71/3b/713ba884-f6c7-4720-a3f0-a5748421eee5/chameleon.jpg
+related_posts: []
 slug: chameleon-newsletter-changelog-december-2025
 subtitle: Testbed updates, new features, webinars, and other exciting news from our
   user community

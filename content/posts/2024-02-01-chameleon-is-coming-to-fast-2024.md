@@ -13,6 +13,15 @@ date: '2024-02-01 18:39:26+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/89/b3/89b38db1-4f32-40b1-ad6c-20f9b1f2fafb/fast_2024_image.png
+related_posts:
+- slug: join-us-in-advancing-scientific-research-through-reproducibility-on-chameleon-cloud
+  title: Join Us in Advancing Scientific Research through Reproducibility on Chameleon
+    Cloud
+- slug: announcing-virtual-reproducibility-hackathon-december-15th-2023-hold-the-date
+  title: "Announcing Virtual Reproducibility Hackathon \u2013 December 15th, 2023\
+    \ \u2013 HOLD THE DATE"
+- slug: chameleon-at-fast
+  title: Chameleon at FAST
 slug: chameleon-is-coming-to-fast-2024
 subtitle: Chameleon plans to co-host two BoF sessions to showcase FAST'24 artifacts
   created on Chameleon

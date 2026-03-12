@@ -13,6 +13,7 @@ date: '2019-05-21 13:18:38+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: towards-elastic-data-transfer-infrastructure
 subtitle: ''
 title: Towards an Elastic Data Transfer Infrastructure

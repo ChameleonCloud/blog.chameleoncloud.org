@@ -14,6 +14,7 @@ date: '2019-01-03 17:35:55+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-december-2018
 subtitle: ''
 title: Chameleon Changelog for December 2018

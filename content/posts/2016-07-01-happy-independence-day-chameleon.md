@@ -9,6 +9,7 @@ date: '2016-07-01 16:59:37+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: happy-independence-day-chameleon
 subtitle: ''
 title: Happy Independence Day from Chameleon!

@@ -11,6 +11,7 @@ date: '2015-07-29 04:11:00+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-now-publicly-available
 subtitle: ''
 title: Chameleon is Now Publicly Available

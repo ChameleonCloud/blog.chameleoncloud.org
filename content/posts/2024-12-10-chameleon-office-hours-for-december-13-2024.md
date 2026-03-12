@@ -19,6 +19,7 @@ date: '2024-12-10 22:21:26+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-office-hours-for-december-13-2024
 subtitle: ''
 title: Chameleon Office Hours for December 13, 2024

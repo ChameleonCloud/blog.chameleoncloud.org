@@ -16,5 +16,5 @@ categories:
 date: '{{ .Date }}'
 image:
 forum_link:
-related_slugs:
+related_posts: []
 ---

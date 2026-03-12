@@ -12,6 +12,7 @@ date: '2021-09-20 17:27:55+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/82/a8/82a84a26-7598-4312-91ae-bf7a45b0dd9f/screen_shot_2021-09-20_at_70906_pm.png
+related_posts: []
 slug: a-statistics-based-performance-testing-methodology-for-cloud-applications
 subtitle: ''
 title: A Statistics-Based Performance Testing Methodology for Cloud Applications

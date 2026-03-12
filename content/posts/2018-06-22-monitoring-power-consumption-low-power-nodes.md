@@ -23,6 +23,7 @@ date: '2018-06-22 19:58:06+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: monitoring-power-consumption-low-power-nodes
 subtitle: ''
 title: 'Power to People: Monitoring Power Consumption of Low Power Nodes'

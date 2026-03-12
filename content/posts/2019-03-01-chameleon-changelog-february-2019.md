@@ -24,6 +24,7 @@ date: '2019-03-01 20:38:29+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-february-2019
 subtitle: ''
 title: Chameleon Changelog for February 2019

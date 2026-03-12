@@ -12,6 +12,11 @@ date: '2024-11-25 15:52:41+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/5b/3d/5b3d6a46-5230-4a06-9c5f-9d1dbdb3fa10/image2.jpg
+related_posts:
+- slug: building-mpi-clusters-on-chameleon-a-practical-guide
+  title: 'Building MPI Clusters on Chameleon: A Practical Guide'
+- slug: high-performance-federated-learning-systems
+  title: High-Performance Federated Learning Systems
 slug: empowering-the-edge-breaking-heterogeneity-barriers-in-cloud-based-ml-training
 subtitle: Optimizing Federated Learning for Heterogeneous Edge Devices
 title: 'Empowering the Edge: Breaking Heterogeneity Barriers in Cloud-based ML Training'

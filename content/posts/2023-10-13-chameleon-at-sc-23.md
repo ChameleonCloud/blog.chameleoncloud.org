@@ -11,6 +11,7 @@ date: '2023-10-13 18:59:03+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-at-sc-23
 subtitle: ''
 title: Chameleon at SC '23

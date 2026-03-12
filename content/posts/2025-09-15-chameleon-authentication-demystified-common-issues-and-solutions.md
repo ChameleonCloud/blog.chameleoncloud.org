@@ -12,6 +12,13 @@ date: '2025-09-15 18:02:30+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/f3/77/f377c6f9-de57-45ff-9487-12224af93f28/head.jpg
+related_posts:
+- slug: chameleon-changelog-for-august-2025
+  title: Chameleon Changelog for August 2025
+- slug: experiment-pattern-bastion-host
+  title: 'Experiment Pattern: Bastion Host'
+- slug: chameleon-access-federated-login-coming-soon
+  title: Chameleon Access via Federated Login Coming Soon!
 slug: chameleon-authentication-demystified-common-issues-and-solutions
 subtitle: Navigating Federated Identity, Multiple Accounts, and Common Pitfalls
 title: 'Chameleon Authentication Demystified: Common Issues and Solutions'

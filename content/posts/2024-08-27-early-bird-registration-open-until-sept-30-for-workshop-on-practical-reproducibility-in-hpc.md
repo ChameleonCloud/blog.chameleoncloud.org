@@ -11,6 +11,14 @@ date: '2024-08-27 21:14:38+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/4d/0e/4d0edd2d-013d-4b1b-b256-43b12846c70b/gemini_generated_image_p34pepp34pepp34p.jpg
+related_posts:
+- slug: announcing-sc24-artifact-tutorial-on-april-25-2024-save-the-date
+  title: Announcing SC24 Artifact Tutorial on April 25, 2024 - SAVE THE DATE!
+- slug: indyscc-site-open-to-all-chameleon-users-until-january-5th-explore-now
+  title: IndySCC Site Open to All Chameleon Users Until January 5th - Explore Now!
+- slug: join-us-in-advancing-scientific-research-through-reproducibility-on-chameleon-cloud
+  title: Join Us in Advancing Scientific Research through Reproducibility on Chameleon
+    Cloud
 slug: early-bird-registration-open-until-sept-30-for-workshop-on-practical-reproducibility-in-hpc
 subtitle: Seats are limited; act now to reserve your spot!
 title: Early Bird Registration Open Until Sept. 30 for Workshop on Practical Reproducibility

@@ -13,6 +13,7 @@ date: '2021-05-03 21:49:54+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/6c/2e/6c2ead0c-6e6d-40ba-ae70-b47722718583/img_5889.jpeg
+related_posts: []
 slug: chameleon-legacy-hardware
 subtitle: ''
 title: Chameleon Legacy Hardware

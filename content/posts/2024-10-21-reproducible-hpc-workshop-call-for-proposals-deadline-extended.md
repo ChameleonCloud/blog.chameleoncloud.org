@@ -7,6 +7,13 @@ date: '2024-10-21 02:26:29+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/4d/0e/4d0edd2d-013d-4b1b-b256-43b12846c70b/gemini_generated_image_p34pepp34pepp34p.jpg
+related_posts:
+- slug: registration-extended-community-workshop-on-practical-reproducibility-in-hpc
+  title: REGISTRATION EXTENDED - Community Workshop on Practical Reproducibility in
+    HPC
+- slug: save-the-date-november-18-2024-reproducibility-workshop
+  title: 'SAVE THE DATE: November 18, 2024 - Reproducibility Workshop in Atlanta,
+    GA'
 slug: reproducible-hpc-workshop-call-for-proposals-deadline-extended
 subtitle: We will be accepting all proposals that are submitted by Oct. 21 at 11:59
   PM any where on earth. Be sure to get your proposal in now!

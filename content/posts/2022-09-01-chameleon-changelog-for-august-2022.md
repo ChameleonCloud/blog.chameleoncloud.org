@@ -13,6 +13,7 @@ date: '2022-09-01 22:47:56+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/65/24/6524b800-9c28-4516-8059-eee2bf91d6ee/liqid1.png
+related_posts: []
 slug: chameleon-changelog-for-august-2022
 subtitle: ''
 title: Chameleon Changelog for August 2022

@@ -9,6 +9,7 @@ date: '2017-02-24 17:53:19+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-user-survey
 subtitle: ''
 title: Chameleon User Survey

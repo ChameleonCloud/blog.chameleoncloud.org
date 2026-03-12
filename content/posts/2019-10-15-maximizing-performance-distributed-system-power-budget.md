@@ -11,6 +11,7 @@ date: '2019-10-15 17:05:04+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: maximizing-performance-distributed-system-power-budget
 subtitle: ''
 title: Maximizing Performance in Distributed Systems with a Power Budget

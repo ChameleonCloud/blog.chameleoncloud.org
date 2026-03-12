@@ -13,6 +13,7 @@ date: '2022-11-22 16:53:40+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/e8/37/e83761ab-5495-4b77-b1f3-7b4f4e175111/zeus.png
+related_posts: []
 slug: zeus-gpu-energy-as-a-first-class-resource-in-dnn-training
 subtitle: ''
 title: 'Zeus: GPU Energy as a First-Class Resource in DNN Training'

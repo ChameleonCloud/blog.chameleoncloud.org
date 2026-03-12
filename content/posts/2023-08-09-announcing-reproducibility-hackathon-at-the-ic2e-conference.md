@@ -14,6 +14,7 @@ date: '2023-08-09 20:20:49+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/da/e5/dae5f01e-ede6-402f-9198-557430ffc432/hackathon.jpg
+related_posts: []
 slug: announcing-reproducibility-hackathon-at-the-ic2e-conference
 subtitle: We hope to see you all on September 25th in Boston!
 title: Announcing Reproducibility Hackathon at the IC2E Conference

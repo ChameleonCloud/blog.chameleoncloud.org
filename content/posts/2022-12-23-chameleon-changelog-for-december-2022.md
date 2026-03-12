@@ -13,6 +13,7 @@ date: '2022-12-23 15:30:19+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/b5/62/b562003f-3a89-4ad0-8b2b-f7fb52d66026/screenshot_2022-12-23_at_92309_am.png
+related_posts: []
 slug: chameleon-changelog-for-december-2022
 subtitle: ''
 title: Chameleon Changelog for December 2022

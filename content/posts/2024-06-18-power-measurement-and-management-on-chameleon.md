@@ -15,6 +15,11 @@ date: '2024-06-18 22:01:24+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/56/a2/56a23811-f1ea-4a7d-9edd-3b7aa4fe3fe0/power_grafana.png
+related_posts:
+- slug: maximizing-performance-distributed-system-power-budget
+  title: Maximizing Performance in Distributed Systems with a Power Budget
+- slug: monitoring-power-consumption-low-power-nodes
+  title: 'Power to People: Monitoring Power Consumption of Low Power Nodes'
 slug: power-measurement-and-management-on-chameleon
 subtitle: Exploring Power Monitoring Techniques with RAPL, DCMI, and Scaphandre
 title: Power Measurement and Management on Chameleon

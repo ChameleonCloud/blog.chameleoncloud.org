@@ -10,6 +10,13 @@ date: '2023-12-19 00:39:19+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/b3/d7/b3d7b535-0b78-49e0-ba7f-16c6f8669bcc/dalle_2023-12-18_155045_-_a_digital_illustration_featuring_a_group_of_chameleons.png
+related_posts:
+- slug: tickets-of-the-year-2022
+  title: 'Tickets of the Year: 2022'
+- slug: tickets-of-the-year-2021-edition
+  title: 'Tickets of the Year: 2021 Edition'
+- slug: tickets-year-solutions-your-2020-ticket-problems
+  title: 'Tickets of the Year: Solutions to Your 2020 (Ticket) Problems'
 slug: tickets-of-the-year-on-chameleon-2023
 subtitle: Read our tips and tricks for some common issues that users faced in 2023
 title: Tickets of the Year on Chameleon (2023)

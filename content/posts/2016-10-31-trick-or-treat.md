@@ -9,6 +9,7 @@ date: '2016-10-31 16:55:53+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: trick-or-treat
 subtitle: ''
 title: Trick or Treat?

@@ -9,6 +9,7 @@ date: '2022-10-04 22:09:49+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/fe/e4/fee4c080-a291-4466-9859-df303e772fee/iit-changelog.jpeg
+related_posts: []
 slug: chameleon-changelog-for-september-2022
 subtitle: ''
 title: Chameleon Changelog for September 2022

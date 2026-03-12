@@ -10,6 +10,7 @@ date: '2024-12-02 22:00:56+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/55/d0/55d02ce2-5c52-48ba-8349-c73271886f20/chameleon_sweeping.png
+related_posts: []
 slug: chameleon-changelog-for-november-2024
 subtitle: ''
 title: Chameleon Changelog for November 2024

@@ -10,6 +10,7 @@ date: '2016-02-29 18:02:38+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: research-highlight-exascale-computing
 subtitle: ''
 title: 'Research Highlight: Exascale Computing'

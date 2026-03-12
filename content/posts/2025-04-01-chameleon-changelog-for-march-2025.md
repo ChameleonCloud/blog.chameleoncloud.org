@@ -10,6 +10,7 @@ date: '2025-04-01 21:52:45+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/5e/fd/5efde162-ee66-4918-bdb3-3d1de25dbdc2/54405141082_05f813a704_w.jpg
+related_posts: []
 slug: chameleon-changelog-for-march-2025
 subtitle: ''
 title: Chameleon Changelog for March 2025

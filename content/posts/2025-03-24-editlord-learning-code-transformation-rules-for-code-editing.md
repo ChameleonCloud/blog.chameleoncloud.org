@@ -12,6 +12,12 @@ date: '2025-03-24 17:11:32+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/f4/fb/f4fbb5f3-c13e-4319-94d4-fed1d967e979/weichen_li.jpg
+related_posts:
+- slug: if-at-first-you-dont-succeed-try-try-again-insights-and-llm-informed-tooling-for-detecting-retry-bugs-in-software-systems
+  title: If At First You Don't Succeed, Try, Try, Again...? Insights and LLM-Informed
+    Tooling for Detecting Retry Bugs in Software Systems
+- slug: training-your-own-gpt-from-scratch
+  title: How to Train a GPT From Scratch
 slug: editlord-learning-code-transformation-rules-for-code-editing
 subtitle: Making code edits more effective, robust, and transparent through explicit
   transformation rules

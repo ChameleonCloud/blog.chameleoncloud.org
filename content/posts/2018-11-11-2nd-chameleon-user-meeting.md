@@ -10,6 +10,7 @@ date: '2018-11-11 17:43:39+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: 2nd-chameleon-user-meeting
 subtitle: ''
 title: The 2nd Chameleon User Meeting

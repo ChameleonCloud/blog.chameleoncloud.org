@@ -13,6 +13,9 @@ date: '2021-08-09 22:50:51+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts:
+- slug: reproducibility-chameleon-trovi-meets-youtube
+  title: 'Reproducibility on Chameleon: Trovi meets YouTube'
 slug: chameleon-hackathon-2021-experiments-reproducibility-and-packagability
 subtitle: Call For Participations
 title: Chameleon Hackathon 2021 -- Experiments Reproducibility and Packagability

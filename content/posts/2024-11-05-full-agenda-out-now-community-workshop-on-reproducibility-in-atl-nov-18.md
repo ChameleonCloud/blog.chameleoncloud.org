@@ -10,6 +10,16 @@ date: '2024-11-05 22:40:25+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/2c/ae/2cae0936-c72b-4aa3-86c8-6c34326656ac/screenshot_2024-11-05_at_43948pm.png
+related_posts:
+- slug: call-for-presentations-community-workshop-on-practical-reproducibility-in-hpc
+  title: Call for Presentations - Community Workshop on Practical Reproducibility
+    in HPC
+- slug: early-bird-registration-open-until-sept-30-for-workshop-on-practical-reproducibility-in-hpc
+  title: Early Bird Registration Open Until Sept. 30 for Workshop on Practical Reproducibility
+    in HPC!
+- slug: save-the-date-november-18-2024-reproducibility-workshop
+  title: 'SAVE THE DATE: November 18, 2024 - Reproducibility Workshop in Atlanta,
+    GA'
 slug: full-agenda-out-now-community-workshop-on-reproducibility-in-atl-nov-18
 subtitle: ''
 title: "Full Agenda Out Now \u2013 Community Workshop on Reproducibility in ATL Nov.\

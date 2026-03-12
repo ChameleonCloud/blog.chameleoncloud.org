@@ -10,6 +10,7 @@ date: '2025-09-03 21:05:17+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/d7/09/d709d2c4-8974-42f4-a5fa-f12b34a4dfa3/54565034108_0f4f215511_w.jpg
+related_posts: []
 slug: chameleon-changelog-for-august-2025
 subtitle: ''
 title: Chameleon Changelog for August 2025

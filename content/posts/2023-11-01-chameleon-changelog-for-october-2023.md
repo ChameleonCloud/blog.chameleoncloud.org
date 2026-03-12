@@ -9,6 +9,7 @@ date: '2023-11-01 21:55:25+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/8d/58/8d58eaea-043c-48eb-8b34-909ab737c17c/oct_changelog.jpg
+related_posts: []
 slug: chameleon-changelog-for-october-2023
 subtitle: ''
 title: Chameleon Changelog for October 2023

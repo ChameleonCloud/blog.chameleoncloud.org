@@ -12,6 +12,7 @@ date: '2018-07-17 21:56:42+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: popper-devops-approach-carrying-out-experiments-chameleon
 subtitle: ''
 title: 'Popper: A DevOps Approach to Carrying Out Experiments on Chameleon'

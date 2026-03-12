@@ -11,6 +11,13 @@ date: '2026-03-02 22:54:41+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/33/7b/337bbae3-a02e-45d0-838a-562f93ef3728/sunira-moses-mlqzti51lta-unsplash.jpg
+related_posts:
+- slug: chameleon-newsletter-changelog-january-2026
+  title: Chameleon Newsletter & Changelog - January 2026
+- slug: chameleon-newsletter-changelog-december-2025
+  title: Chameleon Newsletter & Changelog - December 2025
+- slug: chameleon-newsletter-changelog-november-2025
+  title: Chameleon Newsletter & Changelog - November 2025
 slug: chameleon-newsletter-changelog-february-2026
 subtitle: Welcome to the Chameleon February 2026 Newsletter!
 title: Chameleon Newsletter & Changelog February 2026

@@ -16,6 +16,7 @@ date: '2024-12-13 17:28:38+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/44/f2/44f2f9e7-6190-4428-9a6e-76c232a1de87/chameleon_christmas_2023.png
+related_posts: []
 slug: happy-holidays-2024
 subtitle: Updates on Chameleon during the winter break
 title: Happy Holidays 2024 from the Chameleon Team!

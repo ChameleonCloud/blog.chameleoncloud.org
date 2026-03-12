@@ -9,6 +9,7 @@ date: '2017-09-06 16:49:25+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-testbed-renewed-second-phase
 subtitle: ''
 title: Chameleon Testbed Renewed for Second Phase

@@ -13,6 +13,7 @@ date: '2022-03-29 11:12:05+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/61/f6/61f6bf64-c5e4-4810-a478-6f8d6ee61d27/screen_shot_2022-03-29_at_111715_am.png
+related_posts: []
 slug: maximizing-storage-research-on-chameleon
 subtitle: ''
 title: Conducting Storage Research on Chameleon

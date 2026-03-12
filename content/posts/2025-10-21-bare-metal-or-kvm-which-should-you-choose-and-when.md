@@ -14,6 +14,13 @@ date: '2025-10-21 20:49:14+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/51/c8/51c8abe2-e544-45cc-a442-5fe108795396/group_8.png
+related_posts:
+- slug: accelerate-your-research-with-nvidia-h100-gpus-on-kvmtacc
+  title: Accelerate Your Research with NVIDIA H100 GPUs on KVM@TACC
+- slug: data-storage-management-and-sharing-on-chameleon
+  title: Data Storage, Management, and Sharing on Chameleon
+- slug: best-practices-making-your-experiments-secure
+  title: Best Practices for Making Your Experiments Secure
 slug: bare-metal-or-kvm-which-should-you-choose-and-when
 subtitle: A detailed comparison of hardware access, reservation systems, and storage
   options for users

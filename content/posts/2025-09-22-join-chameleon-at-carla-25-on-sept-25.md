@@ -14,6 +14,7 @@ date: '2025-09-22 18:31:25+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/92/62/9262dc65-a48f-4411-986a-88c23e5d4e8d/carla25.jpeg
+related_posts: []
 slug: join-chameleon-at-carla-25-on-sept-25
 subtitle: Kate Keahey to give keynote on Chameleon
 title: Join Chameleon at CARLA 25 on Sept. 25!

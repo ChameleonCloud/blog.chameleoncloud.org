@@ -11,6 +11,7 @@ date: '2023-02-02 22:10:18+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/86/59/8659210d-7e42-4ba0-b899-c887a89c4f09/jan_changelog.png
+related_posts: []
 slug: 2023-january-changelog
 subtitle: ''
 title: Chameleon Changelog for January 2023

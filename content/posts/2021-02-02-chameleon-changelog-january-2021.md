@@ -13,6 +13,7 @@ date: '2021-02-02 00:54:29+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-january-2021
 subtitle: ''
 title: Chameleon Changelog for January 2021

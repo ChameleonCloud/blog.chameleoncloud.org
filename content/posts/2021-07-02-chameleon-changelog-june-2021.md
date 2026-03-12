@@ -12,6 +12,7 @@ date: '2021-07-02 16:10:17+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/4d/79/4d79b93f-4e82-4b92-b32b-5d94071573ec/pxl_20210528_221216206.jpg
+related_posts: []
 slug: chameleon-changelog-june-2021
 subtitle: ''
 title: Chameleon Changelog for June 2021

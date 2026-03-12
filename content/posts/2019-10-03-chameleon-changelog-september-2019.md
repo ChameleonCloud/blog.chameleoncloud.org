@@ -14,6 +14,7 @@ date: '2019-10-03 18:35:28+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-september-2019
 subtitle: ''
 title: Chameleon Changelog for September 2019

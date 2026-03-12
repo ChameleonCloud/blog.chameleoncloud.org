@@ -14,6 +14,7 @@ date: '2014-12-04 05:29:14+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: first-release-chameleon-user-portal
 subtitle: ''
 title: First release of the Chameleon user portal

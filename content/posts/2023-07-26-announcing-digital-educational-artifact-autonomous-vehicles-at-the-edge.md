@@ -19,6 +19,7 @@ date: '2023-07-26 21:50:56+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/70/d4/70d4e4c3-aa2f-49f6-9eaf-8071d676cc9c/chameleon_car_4.png
+related_posts: []
 slug: announcing-digital-educational-artifact-autonomous-vehicles-at-the-edge
 subtitle: ''
 title: Announcing Digital Educational Artifact, autonomous vehicles at the edge

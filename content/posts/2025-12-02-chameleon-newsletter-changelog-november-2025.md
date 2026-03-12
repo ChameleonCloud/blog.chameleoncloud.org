@@ -12,6 +12,9 @@ date: '2025-12-02 22:14:04+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/45/ab/45ab956c-92bc-4375-b5cd-eb480bda1831/54227546483_d8ec90edd8_w.jpg
+related_posts:
+- slug: chameleon-newsletter-changelog-october-2025
+  title: Chameleon Newsletter & Changelog - October 2025
 slug: chameleon-newsletter-changelog-november-2025
 subtitle: Testbed updates, new features, webinars, and other exciting news from our
   user community

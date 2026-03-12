@@ -15,6 +15,13 @@ date: '2024-05-21 16:47:55+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/e6/ee/e6ee63f7-f3de-4395-9a1d-efe4509ceb8a/pxl_20210528_221216206.jpg
+related_posts:
+- slug: chiedge-transitioning-from-successful-preview-to-full-production
+  title: 'CHI@Edge: Transitioning from Successful Preview to Full Production'
+- slug: chiedge-community-workshop-report
+  title: CHI@Edge Community Workshop Report
+- slug: chiedge-webinar
+  title: CHI@Edge Webinars
 slug: seamless-ssh-container-access-with-chiedge
 subtitle: Simplifying Your Development Process
 title: Seamless SSH Container Access with CHI@Edge

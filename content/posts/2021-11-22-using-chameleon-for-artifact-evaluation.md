@@ -10,6 +10,7 @@ date: '2021-11-22 21:21:18+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/9e/ed/9eedc783-c03f-4849-958c-1dcd8ac232b9/screen_shot_2021-11-22_at_102055_pm.png
+related_posts: []
 slug: using-chameleon-for-artifact-evaluation
 subtitle: ''
 title: Using Chameleon for Artifact Evaluation

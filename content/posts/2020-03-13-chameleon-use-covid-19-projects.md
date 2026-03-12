@@ -13,6 +13,7 @@ date: '2020-03-13 15:56:43+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-use-covid-19-projects
 subtitle: ''
 title: Chameleon use for COVID-19 projects

@@ -14,6 +14,7 @@ date: '2014-08-21 02:42:28+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-will-be-launching-soon
 subtitle: ''
 title: Chameleon will be launching soon

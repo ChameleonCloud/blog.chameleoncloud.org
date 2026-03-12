@@ -11,6 +11,7 @@ date: '2018-08-02 18:33:47+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-july-2018
 subtitle: ''
 title: Chameleon Changelog for July 2018

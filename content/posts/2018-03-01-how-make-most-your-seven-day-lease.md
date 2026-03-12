@@ -13,6 +13,7 @@ date: '2018-03-01 21:54:40+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: how-make-most-your-seven-day-lease
 subtitle: ''
 title: How to Make the Most of your Seven Day Lease

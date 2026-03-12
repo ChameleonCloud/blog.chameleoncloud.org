@@ -10,6 +10,7 @@ date: '2025-10-01 22:22:19+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/0e/70/0e7018c1-36b6-4f28-b26e-9a4ebee80fd7/49058450518_671fd78f2e_w.jpg
+related_posts: []
 slug: chameleon-changelog-for-september-2025
 subtitle: ''
 title: Chameleon Changelog for September 2025

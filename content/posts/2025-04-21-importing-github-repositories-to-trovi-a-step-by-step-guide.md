@@ -12,6 +12,13 @@ date: '2025-04-21 16:19:52+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/d3/99/d399f8f0-4c85-4b41-8b93-587f8ae93e8e/trovi-json.png
+related_posts:
+- slug: fabric-updated-trovi-example-for-using-fabric-with-chameleon
+  title: 'FABRIC: Updated Trovi Example for using FABRIC with Chameleon'
+- slug: storage-research-experiment-patterns-on-chameleon-cloud-and-trovi
+  title: Storage Research Experiment Patterns on Chameleon Cloud and Trovi
+- slug: sharing-experiments-with-trovi
+  title: Sharing Experiments with Trovi
 slug: importing-github-repositories-to-trovi-a-step-by-step-guide
 subtitle: Streamline Your Research Workflow with Trovi's New GitHub Integration
 title: 'Importing GitHub Repositories to Trovi: A Step-by-Step Guide'

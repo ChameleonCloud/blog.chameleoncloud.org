@@ -12,6 +12,7 @@ date: '2025-07-01 21:48:52+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/41/9e/419e83b3-0ea2-4e51-80eb-03834ca59891/54555435914_a9c7057247_w.jpg
+related_posts: []
 slug: chameleon-changelog-for-june-2025
 subtitle: ''
 title: Chameleon Changelog for June 2025

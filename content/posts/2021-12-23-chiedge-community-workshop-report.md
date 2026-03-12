@@ -12,6 +12,7 @@ date: '2021-12-23 23:34:19+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/62/ab/62abc3ff-14bd-4290-8ccd-b0bea427fe64/self-driving-cars.png
+related_posts: []
 slug: chiedge-community-workshop-report
 subtitle: ''
 title: CHI@Edge Community Workshop Report

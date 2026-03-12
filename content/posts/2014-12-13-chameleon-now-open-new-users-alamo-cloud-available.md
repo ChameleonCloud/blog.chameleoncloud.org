@@ -10,6 +10,7 @@ date: '2014-12-13 05:26:10+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-now-open-new-users-alamo-cloud-available
 subtitle: ''
 title: Chameleon now open to new users & Alamo cloud available

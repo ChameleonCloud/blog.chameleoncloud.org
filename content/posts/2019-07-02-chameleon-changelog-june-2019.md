@@ -10,6 +10,7 @@ date: '2019-07-02 01:28:37.153734+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-june-2019
 subtitle: ''
 title: Chameleon Changelog for June 2019

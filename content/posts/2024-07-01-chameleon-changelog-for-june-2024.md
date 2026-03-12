@@ -10,6 +10,7 @@ date: '2024-07-01 23:14:21+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/9a/c9/9ac93787-ee91-4146-b60b-126f8a0c7fe6/chameleon-3051482_1280.jpg
+related_posts: []
 slug: chameleon-changelog-for-june-2024
 subtitle: ''
 title: Chameleon Changelog for June 2024

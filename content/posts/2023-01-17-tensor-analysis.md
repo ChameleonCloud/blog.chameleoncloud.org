@@ -9,6 +9,7 @@ date: '2023-01-17 20:40:10+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/6a/b6/6ab6d758-6499-4509-9546-a45e475527be/mao-lin-li.png
+related_posts: []
 slug: tensor-analysis
 subtitle: ''
 title: Tensor Analysis

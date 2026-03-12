@@ -18,6 +18,13 @@ date: '2024-02-27 18:42:47+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/83/63/83633785-178a-43a5-8e5f-287ffd60f5b7/author_image.jpg
+related_posts:
+- slug: chameleon-is-coming-to-fast-2024
+  title: Chameleon Is Coming to FAST 2024
+- slug: chameleon-at-fast
+  title: Chameleon at FAST
+- slug: reproducing-solid-state-drive-simulator-research-results-chameleon
+  title: Reproducing Solid State Drive Simulator Research Results on Chameleon
 slug: metis-unleashed-a-new-dawn-for-file-system-integrity
 subtitle: ''
 title: 'Metis Unleashed: A New Dawn for File System Integrity'

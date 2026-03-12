@@ -9,6 +9,13 @@ date: '2023-11-13 22:19:23+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/05/2a/052a447f-0fde-42e0-857f-b3eac4b67d2d/dalle_2023-11-13_161804.png
+related_posts:
+- slug: running-experiments-inside-a-jupyter-notebook
+  title: Running experiments inside a Jupyter Notebook
+- slug: registration-grants-for-reproducibility-hackathon-at-the-ic2e-conference
+  title: Registration Grants for Reproducibility Hackathon at the IC2E Conference
+- slug: announcing-reproducibility-hackathon-at-the-ic2e-conference
+  title: Announcing Reproducibility Hackathon at the IC2E Conference
 slug: announcing-virtual-reproducibility-hackathon-december-15th-2023-hold-the-date
 subtitle: Learning how to produce reproducible experiments on Chameleon
 title: "Announcing Virtual Reproducibility Hackathon \u2013 December 15th, 2023 \u2013\

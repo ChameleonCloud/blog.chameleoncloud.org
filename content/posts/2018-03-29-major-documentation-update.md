@@ -9,6 +9,7 @@ date: '2018-03-29 21:55:22.594906+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: major-documentation-update
 subtitle: ''
 title: A (Major) Documentation Update

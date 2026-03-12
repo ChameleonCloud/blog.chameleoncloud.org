@@ -13,6 +13,13 @@ date: '2024-09-16 19:36:43+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/b0/c5/b0c5eb17-43e1-427c-90d9-bb8f0429ce58/gemini_generated_image_t2nxoft2nxoft2nx.jpg
+related_posts:
+- slug: summer-with-chameleon-returns-june-11th-13th-virtual
+  title: Summer with Chameleon Returns - June 11th & 13th (Virtual)
+- slug: chiedge-transitioning-from-successful-preview-to-full-production
+  title: 'CHI@Edge: Transitioning from Successful Preview to Full Production'
+- slug: announcing-sc24-artifact-tutorial-on-april-25-2024-save-the-date
+  title: Announcing SC24 Artifact Tutorial on April 25, 2024 - SAVE THE DATE!
 slug: back-to-school-with-chameleon
 subtitle: A roundup of all the recent updates to our documentation and tutorials
 title: '"Back to School" with Chameleon'

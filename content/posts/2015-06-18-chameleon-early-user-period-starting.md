@@ -10,6 +10,7 @@ date: '2015-06-18 04:14:13+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-early-user-period-starting
 subtitle: ''
 title: The Chameleon Early User period is starting!

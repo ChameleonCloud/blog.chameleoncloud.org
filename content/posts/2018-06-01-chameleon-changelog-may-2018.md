@@ -16,6 +16,7 @@ date: '2018-06-01 23:01:29+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-may-2018
 subtitle: ''
 title: Chameleon Changelog for May 2018

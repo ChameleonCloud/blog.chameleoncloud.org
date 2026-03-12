@@ -8,6 +8,7 @@ date: '2016-08-25 16:58:25+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: research-highlight-machine-learning-cooldown-data-center
 subtitle: ''
 title: 'Research Highlight: A Machine Learning Cooldown for the Data Center'

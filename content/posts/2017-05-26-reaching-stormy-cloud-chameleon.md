@@ -9,6 +9,7 @@ date: '2017-05-26 16:52:12+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: reaching-stormy-cloud-chameleon
 subtitle: ''
 title: Reaching for the Stormy Cloud with Chameleon

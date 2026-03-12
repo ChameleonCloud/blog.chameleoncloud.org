@@ -13,6 +13,25 @@ date: '2023-03-20 20:45:12+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/ff/44/ff4460af-6a20-4587-9c19-ec490c2bc672/142655589_recursive_mirrors___photograph__matte_painting__hq__4k.png
+related_posts:
+- slug: sc-the-largest-reproducibility-laboratory
+  title: 'SC: The largest Reproducibility Laboratory'
+- slug: sharing-experiments-with-trovi
+  title: Sharing Experiments with Trovi
+- slug: chameleon-hackathon-2021-experiments-reproducibility-and-packagability
+  title: Chameleon Hackathon 2021 -- Experiments Reproducibility and Packagability
+- slug: reproducibility-chameleon-trovi-meets-youtube
+  title: 'Reproducibility on Chameleon: Trovi meets YouTube'
+- slug: reproducing-solid-state-drive-simulator-research-results-chameleon
+  title: Reproducing Solid State Drive Simulator Research Results on Chameleon
+- slug: trovi-google-drive-chameleon-experiments
+  title: 'Trovi: the Google Drive for Chameleon Experiments'
+- slug: chameleon-and-reproducibility-linnos-case-study
+  title: 'Chameleon and Reproducibility: LinnOS Case Study'
+- slug: tips-and-tricks-packaging-experiments-reproducibility
+  title: Packaging Experiments for Reproducibility
+- slug: reproducible-workflow-jupyter-chameleon
+  title: A reproducible workflow with Jupyter on Chameleon
 slug: the-practical-reproducibility-opportunity
 subtitle: ''
 title: The Practical Reproducibility Opportunity

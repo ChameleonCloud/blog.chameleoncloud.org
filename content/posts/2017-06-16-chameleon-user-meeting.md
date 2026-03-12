@@ -10,6 +10,7 @@ date: '2017-06-16 16:50:38+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-user-meeting
 subtitle: ''
 title: Chameleon User Meeting

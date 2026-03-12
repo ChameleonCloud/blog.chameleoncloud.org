@@ -10,6 +10,7 @@ date: '2019-11-05 16:10:46+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-october-2019
 subtitle: ''
 title: Chameleon Changelog for October 2019

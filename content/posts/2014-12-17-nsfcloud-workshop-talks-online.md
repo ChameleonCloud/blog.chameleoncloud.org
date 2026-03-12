@@ -11,6 +11,7 @@ date: '2014-12-17 05:23:35+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: nsfcloud-workshop-talks-online
 subtitle: ''
 title: NSFCloud Workshop Talks Online

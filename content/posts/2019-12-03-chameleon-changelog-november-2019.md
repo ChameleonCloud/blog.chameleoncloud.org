@@ -9,6 +9,7 @@ date: '2019-12-03 16:36:37+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-november-2019
 subtitle: ''
 title: Chameleon Changelog for November 2019

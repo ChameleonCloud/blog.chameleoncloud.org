@@ -11,6 +11,7 @@ date: '2022-05-02 22:56:10+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/7e/4c/7e4c0346-0132-4e56-861e-65a67754e422/dino-croppedjpg__2181x2181_q85_subsampling-2.jpg
+related_posts: []
 slug: chameleon-changelog-for-april-2022
 subtitle: ''
 title: Chameleon Changelog for April 2022

@@ -13,6 +13,13 @@ date: '2025-07-21 16:53:55+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/6c/a6/6ca6e73f-68ac-42b1-be86-de51bc6d59a4/hackathon-600x400.jpg
+related_posts:
+- slug: chameleon-changelog-for-may-2025
+  title: Chameleon Changelog for May 2025
+- slug: chameleon-changelog-for-april-2025
+  title: Chameleon Changelog for April 2025
+- slug: major-documentation-update
+  title: A (Major) Documentation Update
 slug: the-hitchhikers-guide-to-chameleon-documentation-finding-answers-fast
 subtitle: How to navigate Chameleon docs effectively
 title: "The Hitchhiker\u2019s Guide to Chameleon Documentation: Finding Answers Fast"

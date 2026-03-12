@@ -13,6 +13,13 @@ date: '2022-06-28 01:21:47+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/47/c6/47c61298-faf0-4ec8-9287-11e569f0e0c3/chameleon_box.png
+related_posts:
+- slug: chincar-an-interview-with-the-newest-associate-site
+  title: 'CHI@NCAR: An Interview with the Newest Associate Site'
+- slug: turn-your-hardware-chameleon-associate-site-chi-box
+  title: Turn Your Hardware into a Chameleon Associate Site with CHI-in-a-Box
+- slug: setting-associate-site-interview-northwestern-university
+  title: 'Setting Up an Associate Site: An Interview With Northwestern University'
 slug: chi-in-a-box-update
 subtitle: ''
 title: CHI-in-a-Box Update

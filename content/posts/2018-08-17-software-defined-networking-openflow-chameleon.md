@@ -10,6 +10,7 @@ date: '2018-08-17 16:57:09+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: software-defined-networking-openflow-chameleon
 subtitle: ''
 title: Software Defined Networking with OpenFLow on Chameleon

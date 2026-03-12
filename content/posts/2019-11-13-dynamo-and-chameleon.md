@@ -12,6 +12,7 @@ date: '2019-11-13 20:11:29+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: dynamo-and-chameleon
 subtitle: ''
 title: Dynamo and Chameleon Aid Weather Scientists

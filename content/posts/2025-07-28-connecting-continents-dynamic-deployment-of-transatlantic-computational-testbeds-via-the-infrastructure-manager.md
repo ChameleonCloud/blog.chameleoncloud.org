@@ -11,6 +11,14 @@ date: '2025-07-28 18:04:09+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/0c/9c/0c9ca148-634a-4981-9cc4-bf96905f0243/headshot.png
+related_posts:
+- slug: infrastructure-without-scaling-limits
+  title: Infrastructure without Scaling Limits
+- slug: connecting-slices-ri-and-chameleon
+  title: Connecting SLICES-RI and Chameleon
+- slug: one-fish-two-fish-choosing-optimal-edge-topologies-for-real-time-autonomous-fish-surveys
+  title: 'One Fish, Two Fish: Choosing Optimal Edge Topologies for Real-Time Autonomous
+    Fish Surveys'
 slug: connecting-continents-dynamic-deployment-of-transatlantic-computational-testbeds-via-the-infrastructure-manager
 subtitle: Breaking down the barriers between cloud computing 'silos' to create unified,
   large-scale scientific environments that span across Europe and the United States.

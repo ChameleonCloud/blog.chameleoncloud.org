@@ -10,6 +10,7 @@ date: '2016-09-16 16:57:24+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: nsf-cloud-everyone-workshop
 subtitle: ''
 title: NSF Cloud For Everyone Workshop

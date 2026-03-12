@@ -14,6 +14,7 @@ date: '2023-02-20 19:42:50+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/fa/59/fa593306-b9c5-427e-a521-0a9a625928eb/fast23_bof_flyer_2.png
+related_posts: []
 slug: chameleon-at-fast
 subtitle: ''
 title: Chameleon at FAST

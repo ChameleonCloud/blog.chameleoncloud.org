@@ -17,6 +17,7 @@ date: '2020-04-23 20:55:40+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: scalable-cyberinfrastructure-repeatable-ecological-research
 subtitle: ''
 title: A Scalable Cyberinfrastructure for Repeatable Ecological Research

@@ -14,6 +14,7 @@ date: '2020-12-31 19:52:12+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: 2020-end-year-changelog
 subtitle: ''
 title: 2020 End-of-year Changelog

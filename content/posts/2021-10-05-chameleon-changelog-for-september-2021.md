@@ -12,6 +12,7 @@ date: '2021-10-05 18:22:03+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/1e/a3/1ea3e204-6b54-4470-a4ff-39c7914873e0/review_day_pass_request.png
+related_posts: []
 slug: chameleon-changelog-for-september-2021
 subtitle: ''
 title: Chameleon Changelog for September 2021

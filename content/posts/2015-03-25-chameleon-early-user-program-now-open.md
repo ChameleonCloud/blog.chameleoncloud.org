@@ -12,6 +12,7 @@ date: '2015-03-25 04:21:48+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-early-user-program-now-open
 subtitle: ''
 title: The Chameleon Early User Program is Now Open!

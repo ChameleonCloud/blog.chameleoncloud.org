@@ -8,6 +8,7 @@ date: '2022-06-28 20:38:17+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/f4/74/f474ef6c-26b9-451b-85f3-0927ba1de495/pearc22.jpg
+related_posts: []
 slug: chameleon-wins-best-paper-award-at-pearc-22
 subtitle: ''
 title: Chameleon Wins Best Paper Award at PEARC '22

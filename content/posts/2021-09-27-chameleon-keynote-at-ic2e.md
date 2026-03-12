@@ -10,6 +10,7 @@ date: '2021-09-27 19:50:11+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/84/2e/842ea9ac-9e3a-4e3c-90b1-3a65a966eef8/ieee-cs_logotm-orange.png
+related_posts: []
 slug: chameleon-keynote-at-ic2e
 subtitle: ''
 title: Chameleon Keynote at IEEE's International Conference on Cloud Engineering (IC2E)

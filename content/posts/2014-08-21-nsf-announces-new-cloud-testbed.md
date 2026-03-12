@@ -13,6 +13,7 @@ date: '2014-08-21 04:41:03+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: nsf-announces-new-cloud-testbed
 subtitle: ''
 title: NSF Announces New Cloud Testbed

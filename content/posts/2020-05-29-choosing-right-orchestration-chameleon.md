@@ -12,6 +12,7 @@ date: '2020-05-29 13:56:00+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: choosing-right-orchestration-chameleon
 subtitle: ''
 title: Choosing the right orchestration in Chameleon

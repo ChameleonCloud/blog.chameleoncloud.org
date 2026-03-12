@@ -15,6 +15,7 @@ date: '2023-02-28 22:58:33+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/e8/ef/e8efbfe9-81bd-46c5-9c6f-85ef8bbac536/screenshot_2023-02-27_at_124858_pm.png
+related_posts: []
 slug: chameleon-user-meeting-call-for-presentations-is-up
 subtitle: ''
 title: 'Chameleon User Meeting: Call for Presentations is up!'

@@ -12,6 +12,7 @@ date: '2014-10-08 04:34:33+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: submissions-nsfcloud-workshop-now-open
 subtitle: ''
 title: Submissions to the NSFCloud Workshop now open

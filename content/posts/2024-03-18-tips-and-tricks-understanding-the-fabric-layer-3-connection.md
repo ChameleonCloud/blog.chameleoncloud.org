@@ -12,6 +12,12 @@ date: '2024-03-18 21:28:26+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/28/fe/28fe7fbc-8c87-4df2-b11a-e95387168c33/fabnet-diagram.png
+related_posts:
+- slug: fabric-updated-trovi-example-for-using-fabric-with-chameleon
+  title: 'FABRIC: Updated Trovi Example for using FABRIC with Chameleon'
+- slug: fabrics-first-facilitlyport-deploying-experiments-spanning-chameleon-and-fabric
+  title: "FABRIC\u2019s First FacilitlyPort: Deploying Experiments Spanning Chameleon\
+    \ and FABRIC"
 slug: tips-and-tricks-understanding-the-fabric-layer-3-connection
 subtitle: 'Multi-site experiments with FABRIC: Sometimes Layer 3 is all you need'
 title: Understanding the New FABRIC Layer 3 Connection

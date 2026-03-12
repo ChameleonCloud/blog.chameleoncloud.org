@@ -13,6 +13,7 @@ date: '2025-06-02 21:31:51+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/ac/ff/acffdfec-55d3-4036-aded-85a2332fd811/54511643985_3e38c03a32_w.jpg
+related_posts: []
 slug: chameleon-changelog-for-may-2025
 subtitle: ''
 title: Chameleon Changelog for May 2025

@@ -10,6 +10,15 @@ date: '2025-11-10 15:38:58+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/50/6f/506f21ac-2ab6-43c4-a5a4-42e377eb806b/sc25_black_hor_shaded4x.png
+related_posts:
+- slug: student-spotlight-three-chameleon-projects-heading-to-sc25
+  title: 'Student Spotlight: Three Chameleon Projects Heading to SC''25'
+- slug: announcing-sc24-artifact-tutorial-on-april-25-2024-save-the-date
+  title: Announcing SC24 Artifact Tutorial on April 25, 2024 - SAVE THE DATE!
+- slug: chameleon-presents-at-sc23
+  title: Chameleon presents AutoLearn, IndySCC'23 success, and more at SC'23
+- slug: sc-the-largest-reproducibility-laboratory
+  title: 'SC: The largest Reproducibility Laboratory'
 slug: chameleon-at-sc25
 subtitle: We're heading to SC25 in St. Louis. Read what we'll be up to!
 title: Chameleon at SC25

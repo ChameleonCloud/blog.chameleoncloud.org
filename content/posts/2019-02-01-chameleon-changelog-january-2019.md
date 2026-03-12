@@ -11,6 +11,7 @@ date: '2019-02-01 00:20:35+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: chameleon-changelog-january-2019
 subtitle: ''
 title: Chameleon Changelog for January 2019

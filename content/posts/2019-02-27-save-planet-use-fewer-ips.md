@@ -11,6 +11,7 @@ date: '2019-02-27 00:21:15+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: save-planet-use-fewer-ips
 subtitle: ''
 title: Save the Planet, Use Fewer IPs

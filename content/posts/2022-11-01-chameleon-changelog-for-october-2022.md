@@ -11,6 +11,7 @@ date: '2022-11-01 22:12:06+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/e6/1e/e61e99b3-da9a-477a-9fc7-caaa6b3e9b0a/chameleon-pumpkin-medium.png
+related_posts: []
 slug: chameleon-changelog-for-october-2022
 subtitle: ''
 title: Chameleon Changelog for October 2022

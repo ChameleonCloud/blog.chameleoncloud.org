@@ -12,6 +12,14 @@ date: '2026-01-26 16:18:51+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/8e/b7/8eb711ec-33a0-4725-917d-d3cb9e6a128f/screenshot_2026-02-02_at_102652am.png
+related_posts:
+- slug: fair-co2-fair-attribution-for-cloud-carbon-emissions
+  title: 'Fair-CO2: Fair Attribution for Cloud Carbon Emissions'
+- slug: power-patterns-understanding-the-energy-dynamics-of-io-for-parallel-storage-configurations
+  title: 'Power Patterns: Understanding the Energy Dynamics of I/O for Parallel Storage
+    Configurations'
+- slug: zeus-gpu-energy-as-a-first-class-resource-in-dnn-training
+  title: 'Zeus: GPU Energy as a First-Class Resource in DNN Training'
 slug: core-hours-and-carbon-credits-incentivizing-sustainability-in-hpc
 subtitle: Researchers demonstrate that linking resource costs to energy consumption
   can reduce HPC energy use by 40%

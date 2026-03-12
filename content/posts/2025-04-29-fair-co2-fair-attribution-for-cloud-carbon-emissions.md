@@ -14,6 +14,14 @@ date: '2025-04-29 20:29:37+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/fe/e1/fee18b7d-af29-43c5-8654-7c41f003ea25/leo_han.jpg
+related_posts:
+- slug: power-patterns-understanding-the-energy-dynamics-of-io-for-parallel-storage-configurations
+  title: 'Power Patterns: Understanding the Energy Dynamics of I/O for Parallel Storage
+    Configurations'
+- slug: power-measurement-and-management-on-chameleon
+  title: Power Measurement and Management on Chameleon
+- slug: maximizing-performance-distributed-system-power-budget
+  title: Maximizing Performance in Distributed Systems with a Power Budget
 slug: fair-co2-fair-attribution-for-cloud-carbon-emissions
 subtitle: Understanding and accurately distributing responsibility for carbon emissions
   in cloud computing

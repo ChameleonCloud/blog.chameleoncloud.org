@@ -13,6 +13,10 @@ date: '2024-09-25 14:32:09+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/4d/0e/4d0edd2d-013d-4b1b-b256-43b12846c70b/gemini_generated_image_p34pepp34pepp34p.jpg
+related_posts:
+- slug: early-bird-registration-open-until-sept-30-for-workshop-on-practical-reproducibility-in-hpc
+  title: Early Bird Registration Open Until Sept. 30 for Workshop on Practical Reproducibility
+    in HPC!
 slug: call-for-presentations-community-workshop-on-practical-reproducibility-in-hpc
 subtitle: Submit your proposals to present at our workshop in Atlanta, GA on November
   18, 2024

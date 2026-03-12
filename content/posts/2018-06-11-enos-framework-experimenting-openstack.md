@@ -11,6 +11,7 @@ date: '2018-06-11 22:35:51+00:00'
 featured: false
 hide_image: true
 image: ''
+related_posts: []
 slug: enos-framework-experimenting-openstack
 subtitle: ''
 title: 'ENOS: a Framework for Experimenting with OpenStack'

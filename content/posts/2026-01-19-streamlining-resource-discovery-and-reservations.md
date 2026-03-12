@@ -17,6 +17,13 @@ date: '2026-01-19 15:57:43+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/3b/44/3b440a6a-a470-4864-aee6-50b065ba3dc8/image2.png
+related_posts:
+- slug: composible-hardware-on-chameleon-now
+  title: Composable Hardware on Chameleon NOW!
+- slug: announcing-new-hardware-for-chiuc
+  title: New Experiments with New CHI@UC Hardware
+- slug: chameleon-legacy-hardware
+  title: Chameleon Legacy Hardware
 slug: streamlining-resource-discovery-and-reservations
 subtitle: Learn about our recent upgrades to resource discovery and reservations on
   Chameleon

@@ -14,6 +14,9 @@ date: '2024-10-21 19:07:30+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/ae/24/ae24a03c-284f-4642-91c3-af2405ea3c6c/python-chi-widget.png
+related_posts:
+- slug: cloud-wrangling-chameleons-python-library
+  title: Cloud-Wrangling with Chameleon's Python Library
 slug: packaging-your-experiments-on-chameleon-with-python-chi-10
 subtitle: Streamlining Chameleon Experiments with Enhanced Python Library
 title: Packaging Your Experiments on Chameleon with Python-chi 1.0

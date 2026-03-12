@@ -15,6 +15,12 @@ date: '2023-11-30 19:29:49+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/3a/09/3a09bc66-75a7-4f74-9eb7-2b9249b00939/call_for_experiments_header.png
+related_posts:
+- slug: announcing-virtual-reproducibility-hackathon-december-15th-2023-hold-the-date
+  title: "Announcing Virtual Reproducibility Hackathon \u2013 December 15th, 2023\
+    \ \u2013 HOLD THE DATE"
+- slug: running-experiments-inside-a-jupyter-notebook
+  title: Running experiments inside a Jupyter Notebook
 slug: join-us-in-advancing-scientific-research-through-reproducibility-on-chameleon-cloud
 subtitle: ''
 title: Join Us in Advancing Scientific Research through Reproducibility on Chameleon

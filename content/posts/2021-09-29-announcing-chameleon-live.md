@@ -12,6 +12,7 @@ date: '2021-09-29 16:31:28+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/f0/c0/f0c05fa9-2f6b-48ad-b323-c79a43b87b9b/live-streaming-events.jpg
+related_posts: []
 slug: announcing-chameleon-live
 subtitle: ''
 title: Announcing Chameleon Live!

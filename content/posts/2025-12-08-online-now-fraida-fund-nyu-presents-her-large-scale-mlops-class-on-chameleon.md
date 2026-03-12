@@ -21,6 +21,17 @@ date: '2025-12-08 16:47:11+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/2b/22/2b22db10-1bee-4c00-95c7-e7125c674bb6/ffund-800.jpg
+related_posts:
+- slug: back-to-school-graduating-from-the-getting-started-guide
+  title: 'Back to School: Graduating from the Getting Started Guide'
+- slug: teaching-cloud-computing-with-chameleon-making-complex-concepts-accessible
+  title: 'Teaching Cloud Computing with Chameleon: Making Complex Concepts Accessible'
+- slug: from-edge-to-cloud-at-the-university-of-missouri
+  title: Teaching from Edge to Cloud at the University of Missouri
+- slug: chiedge-webinar
+  title: CHI@Edge Webinars
+- slug: back-school-chameleon-webinars
+  title: Back to School Chameleon Webinars
 slug: online-now-fraida-fund-nyu-presents-her-large-scale-mlops-class-on-chameleon
 subtitle: Check out the full presentations, paper, and slides from Fund
 title: "Online Now \u2013 Fraida Fund (NYU) presents her large-scale MLOps Class on\

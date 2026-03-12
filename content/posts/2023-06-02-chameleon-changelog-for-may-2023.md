@@ -12,6 +12,7 @@ date: '2023-06-02 22:07:51+00:00'
 featured: false
 hide_image: true
 image: http://chameleoncloud.org/media/filer_public/a9/a3/a9a339ce-9f81-4d46-b417-19bfb884614d/img_0436.jpg
+related_posts: []
 slug: chameleon-changelog-for-may-2023
 subtitle: ''
 title: Chameleon Changelog for May 2023
