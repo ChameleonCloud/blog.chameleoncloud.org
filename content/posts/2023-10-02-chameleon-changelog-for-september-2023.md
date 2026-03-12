@@ -9,7 +9,7 @@ categories:
 date: '2023-10-02 21:48:56+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/c5/75/c575132d-315f-4f40-840b-2cf0f6686f07/sep_changelog.jpg
+image: https://chameleoncloud.org/media/filer_public/c5/75/c575132d-315f-4f40-840b-2cf0f6686f07/sep_changelog.jpg
 related_posts: []
 slug: chameleon-changelog-for-september-2023
 subtitle: ''
@@ -21,7 +21,7 @@ title: Chameleon Changelog for September 2023
 
 <p>Dear Chameleon Users,</p>
 
-<p>Last week, we hosted a reproducibility hackathon at <a href="https://conferences.computer.org/IC2E/2023/">IC2E 2023</a>, and were delighted to meet Chameleon users there. During the event, we presented on and worked with students to package artifacts for the <a href="http://chameleoncloud.org/experiment/share/">Trovi artifact repository</a>, which is a great way to share your experiment in such a way it can be run with one-click. We also encourage <a href="https://chameleoncloud.org/media/filer_public/25/18/25189b96-c3a2-4a55-b99b-c25322fe6682/reproducibility_on_chameleon-3.pdf">practical reproducibility</a>, meaning both the packaging and the reproduction of your experiment are cost-effect. If you are interested in learning more about this, see our <a href="https://www.youtube.com/watch?v=-kXNibXcC6U">webinar from last summer</a> or stay tuned for an upcoming virtual hackathon this winter. </p>
+<p>Last week, we hosted a reproducibility hackathon at <a href="https://conferences.computer.org/IC2E/2023/">IC2E 2023</a>, and were delighted to meet Chameleon users there. During the event, we presented on and worked with students to package artifacts for the <a href="https://chameleoncloud.org/experiment/share/">Trovi artifact repository</a>, which is a great way to share your experiment in such a way it can be run with one-click. We also encourage <a href="https://chameleoncloud.org/media/filer_public/25/18/25189b96-c3a2-4a55-b99b-c25322fe6682/reproducibility_on_chameleon-3.pdf">practical reproducibility</a>, meaning both the packaging and the reproduction of your experiment are cost-effect. If you are interested in learning more about this, see our <a href="https://www.youtube.com/watch?v=-kXNibXcC6U">webinar from last summer</a> or stay tuned for an upcoming virtual hackathon this winter. </p>
 
 <p><b>CHI@Edge new devices and networking improvements. </b><a href="https://chameleoncloud.org/experiment/chiedge/">CHI@Edge</a> is a version of the testbed where you can experiment with smaller, edge devices like Raspberry Pis and Jetson Nanos, even allowing you to <a href="https://chameleoncloud.gitbook.io/chi-edge/device-enrollment/edge-sdk">bring your own device</a>. This month, we added 18 new Raspberry Pis to the testbed, and revived a few others which had been unavailable, so you should now have an easier time finding free devices to use, especially when the testbed is busy. CHI@Edge also allows you to send traffic between your containers on different devices, even if they’re in different locations, using a wireguard tunnel backend. These tunnels also allow you to connect Chameleon’s Floating IPs to your device, accessing your container via one of our Public IPv4 Addresses. We’ve also improved the reliability of this networking backend in the past month, so you should find those two features to be more dependable.</p>
 

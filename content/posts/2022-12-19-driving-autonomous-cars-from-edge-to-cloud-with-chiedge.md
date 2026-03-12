@@ -8,7 +8,7 @@ categories:
 date: '2022-12-19 17:32:56+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/3e/e4/3ee49cf3-d554-4e12-ada6-3c363f8c3b73/image3.png
+image: https://chameleoncloud.org/media/filer_public/3e/e4/3ee49cf3-d554-4e12-ada6-3c363f8c3b73/image3.png
 related_posts:
 - slug: conducting-research-on-the-edge-chiedge
   title: 'Conducting Research on the Edge: CHI@Edge'

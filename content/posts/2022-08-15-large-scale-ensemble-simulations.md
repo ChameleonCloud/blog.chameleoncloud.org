@@ -9,7 +9,7 @@ categories:
 date: '2022-08-15 19:03:16+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/36/77/36772b62-691d-4afc-a064-bedc924eed1c/fig1.png
+image: https://chameleoncloud.org/media/filer_public/36/77/36772b62-691d-4afc-a064-bedc924eed1c/fig1.png
 related_posts: []
 slug: large-scale-ensemble-simulations
 subtitle: ''

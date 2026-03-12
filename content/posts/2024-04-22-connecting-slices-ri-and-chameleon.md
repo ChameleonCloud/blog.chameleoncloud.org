@@ -18,7 +18,7 @@ categories:
 date: '2024-04-22 21:59:54+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/db/1d/db1d009c-7123-49f0-acc6-8474af53c132/pos-slide.png
+image: https://chameleoncloud.org/media/filer_public/db/1d/db1d009c-7123-49f0-acc6-8474af53c132/pos-slide.png
 related_posts: []
 slug: connecting-slices-ri-and-chameleon
 subtitle: An Approach towards Portable, Reproducible Experiments
@@ -46,7 +46,7 @@ title: Connecting SLICES-RI and Chameleon
 
 <h1>Running the Experiment on Chameleon</h1>
 
-<p>To implement and test our approach, we rely on several features provided by Chameleon. Our work includes an example experiment to highlight that no changes to the experiment are required when moving across the infrastructure. <a href="http://chameleoncloud.org/experiment/share/0eae10cc-fd90-4583-8965-77989dfe4e69">This experiment</a> uses <a href="http://chameleoncloud.org/experiment/share">Trovi</a> to share experiments easily and the <a href="https://chameleoncloud.org/blog/2023/08/29/running-experiments-inside-a-jupyter-notebook/">Jupyter Interface</a> provided by Chameleon for seamless interaction with the experiment environment. Additionally, we used the virtual machines available through <a href="https://chameleoncloud.org/experiment/sites/kvm/">KVM@TACC</a> to evaluate our approach. There, we used the Python OpenStack API (<a href="https://chameleoncloud.org/blog/2021/03/15/cloud-wrangling-chameleons-python-library/">python-chi</a>) to automate interactions, such as host creation and configuration.</p>
+<p>To implement and test our approach, we rely on several features provided by Chameleon. Our work includes an example experiment to highlight that no changes to the experiment are required when moving across the infrastructure. <a href="https://chameleoncloud.org/experiment/share/0eae10cc-fd90-4583-8965-77989dfe4e69">This experiment</a> uses <a href="https://chameleoncloud.org/experiment/share">Trovi</a> to share experiments easily and the <a href="https://chameleoncloud.org/blog/2023/08/29/running-experiments-inside-a-jupyter-notebook/">Jupyter Interface</a> provided by Chameleon for seamless interaction with the experiment environment. Additionally, we used the virtual machines available through <a href="https://chameleoncloud.org/experiment/sites/kvm/">KVM@TACC</a> to evaluate our approach. There, we used the Python OpenStack API (<a href="https://chameleoncloud.org/blog/2021/03/15/cloud-wrangling-chameleons-python-library/">python-chi</a>) to automate interactions, such as host creation and configuration.</p>
 
 <p>The extension to <em>pos</em> made as part of this work interacts with Chameleon. For this interaction, we rely on the availability of an API to express our intent. Here, we found the OpenStack API provided by Chameleon particularly helpful. Though OpenStack is a well-known and proven software, to our knowledge, Chameleon is the sole testbed employing it. Yet, the mentioned OpenStack properties make for a pleasant user experience. A description that also fits the Jupyter Interface was used, as mentioned, to structure our sample experiment. Though other testbeds allow installing Jupyter instances, from our experience, only a few do. While not integrated into this work, we are interested in the long-term durability of experiments and reducing the overhead associated with replicating them. Trovi provides a valuable approach that we look forward to integrating into future work.</p>
 

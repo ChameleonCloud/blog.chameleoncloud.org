@@ -12,7 +12,7 @@ categories:
 date: '2023-03-20 20:45:12+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/ff/44/ff4460af-6a20-4587-9c19-ec490c2bc672/142655589_recursive_mirrors___photograph__matte_painting__hq__4k.png
+image: https://chameleoncloud.org/media/filer_public/ff/44/ff4460af-6a20-4587-9c19-ec490c2bc672/142655589_recursive_mirrors___photograph__matte_painting__hq__4k.png
 related_posts:
 - slug: sc-the-largest-reproducibility-laboratory
   title: 'SC: The largest Reproducibility Laboratory'

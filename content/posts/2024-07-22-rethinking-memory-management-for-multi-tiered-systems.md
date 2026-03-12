@@ -14,7 +14,7 @@ categories:
 date: '2024-07-22 20:35:42+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/4a/20/4a2029e8-f444-46cd-87af-b15141b9d2ac/dong-li-profile_1.png
+image: https://chameleoncloud.org/media/filer_public/4a/20/4a2029e8-f444-46cd-87af-b15141b9d2ac/dong-li-profile_1.png
 related_posts:
 - slug: exploring-process-in-memory-architecture-for-high-performance-graph-pattern-mining
   title: Exploring Process-in-memory Architecture for High-performance Graph Pattern

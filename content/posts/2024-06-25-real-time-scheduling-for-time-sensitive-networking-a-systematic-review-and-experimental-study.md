@@ -14,7 +14,7 @@ categories:
 date: '2024-06-25 22:08:34+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/a8/82/a882fe3f-eb26-4b47-9ba5-ad1c4380df27/image5.png
+image: https://chameleoncloud.org/media/filer_public/a8/82/a882fe3f-eb26-4b47-9ba5-ad1c4380df27/image5.png
 related_posts:
 - slug: using-paramiko-tune-network-performance
   title: Using Paramiko to Tune Network Performance

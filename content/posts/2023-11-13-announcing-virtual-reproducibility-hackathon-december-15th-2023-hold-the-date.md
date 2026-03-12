@@ -8,7 +8,7 @@ categories:
 date: '2023-11-13 22:19:23+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/05/2a/052a447f-0fde-42e0-857f-b3eac4b67d2d/dalle_2023-11-13_161804.png
+image: https://chameleoncloud.org/media/filer_public/05/2a/052a447f-0fde-42e0-857f-b3eac4b67d2d/dalle_2023-11-13_161804.png
 related_posts:
 - slug: running-experiments-inside-a-jupyter-notebook
   title: Running experiments inside a Jupyter Notebook

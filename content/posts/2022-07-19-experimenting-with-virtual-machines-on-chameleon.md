@@ -7,7 +7,7 @@ categories:
 date: '2022-07-19 01:41:28+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/33/dd/33dd28aa-add7-4361-bd56-2d047fc6fbad/pexels-photo-1089438.png
+image: https://chameleoncloud.org/media/filer_public/33/dd/33dd28aa-add7-4361-bd56-2d047fc6fbad/pexels-photo-1089438.png
 related_posts: []
 slug: experimenting-with-virtual-machines-on-chameleon
 subtitle: ''

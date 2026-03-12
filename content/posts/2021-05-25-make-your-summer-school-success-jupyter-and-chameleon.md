@@ -12,7 +12,7 @@ categories:
 date: '2021-05-25 18:17:53+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/6c/2e/6c2ead0c-6e6d-40ba-ae70-b47722718583/img_5889.jpeg
+image: https://chameleoncloud.org/media/filer_public/6c/2e/6c2ead0c-6e6d-40ba-ae70-b47722718583/img_5889.jpeg
 related_posts: []
 slug: make-your-summer-school-success-jupyter-and-chameleon
 subtitle: ''

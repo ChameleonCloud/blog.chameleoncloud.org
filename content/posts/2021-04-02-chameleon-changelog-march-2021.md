@@ -13,7 +13,7 @@ categories:
 date: '2021-04-02 22:43:22+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/76/1b/761bf7b6-98ea-43f1-8a94-7d253d80a925/chi-in-a-box-quickstart.png
+image: https://chameleoncloud.org/media/filer_public/76/1b/761bf7b6-98ea-43f1-8a94-7d253d80a925/chi-in-a-box-quickstart.png
 related_posts: []
 slug: chameleon-changelog-march-2021
 subtitle: ''

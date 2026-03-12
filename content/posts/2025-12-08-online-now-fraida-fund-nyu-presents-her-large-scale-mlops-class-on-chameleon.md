@@ -20,7 +20,7 @@ categories:
 date: '2025-12-08 16:47:11+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/2b/22/2b22db10-1bee-4c00-95c7-e7125c674bb6/ffund-800.jpg
+image: https://chameleoncloud.org/media/filer_public/2b/22/2b22db10-1bee-4c00-95c7-e7125c674bb6/ffund-800.jpg
 related_posts:
 - slug: back-to-school-graduating-from-the-getting-started-guide
   title: 'Back to School: Graduating from the Getting Started Guide'

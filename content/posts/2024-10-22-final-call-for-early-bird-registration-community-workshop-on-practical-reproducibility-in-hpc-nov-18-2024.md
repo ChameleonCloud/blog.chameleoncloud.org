@@ -9,7 +9,7 @@ categories:
 date: '2024-10-22 17:01:36+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/08/f5/08f53670-2ef5-4b28-a8f5-9e0d32bc8e27/workshop_header.png
+image: https://chameleoncloud.org/media/filer_public/08/f5/08f53670-2ef5-4b28-a8f5-9e0d32bc8e27/workshop_header.png
 related_posts:
 - slug: registration-extended-community-workshop-on-practical-reproducibility-in-hpc
   title: REGISTRATION EXTENDED - Community Workshop on Practical Reproducibility in

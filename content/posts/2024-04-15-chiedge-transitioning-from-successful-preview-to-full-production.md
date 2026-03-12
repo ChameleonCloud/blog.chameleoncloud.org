@@ -20,7 +20,7 @@ categories:
 date: '2024-04-15 17:33:11+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/d5/63/d5635bf0-774e-4a87-be06-73abf9d45524/chiedge_logo_resized.jpg
+image: https://chameleoncloud.org/media/filer_public/d5/63/d5635bf0-774e-4a87-be06-73abf9d45524/chiedge_logo_resized.jpg
 related_posts:
 - slug: driving-autonomous-cars-from-edge-to-cloud-with-chiedge
   title: Driving Autonomous Cars From Edge to Cloud with CHI@Edge
@@ -69,7 +69,7 @@ title: 'CHI@Edge: Transitioning from Successful Preview to Full Production'
 
 <p><img height="auto" src="https://chameleoncloud.org/media/filer_public/78/d1/78d1053f-bd76-49c3-bd29-960536dee14d/image1.png" width="80%"></p>
 
-<p><small><strong>Figure 2:</strong> You can run the interactive CHI@Edge tutorial through our <a href="http://chameleoncloud.org/experiment/share">Trovi service</a> to learn about the most important CHI@Edge features.</small></p>
+<p><small><strong>Figure 2:</strong> You can run the interactive CHI@Edge tutorial through our <a href="https://chameleoncloud.org/experiment/share">Trovi service</a> to learn about the most important CHI@Edge features.</small></p>
 
 <p>The above tutorial offers a comprehensive guide to using the CHI@Edge platform. It begins by walking you through the process of launching your first container on the platform, providing a foundational understanding of how to initiate and manage edge computing tasks. You will learn how to interact directly with your container, adjusting settings and configurations as needed for your specific project. The tutorial also covers how to assign a public IP to your container, enabling external access and connectivity—crucial for remote monitoring and control.</p>
 

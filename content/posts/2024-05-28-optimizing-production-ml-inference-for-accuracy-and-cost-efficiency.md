@@ -13,7 +13,7 @@ categories:
 date: '2024-05-28 16:43:55+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/c6/35/c63523d8-4140-4e92-9901-40d7abc7488d/collage.png
+image: https://chameleoncloud.org/media/filer_public/c6/35/c63523d8-4140-4e92-9901-40d7abc7488d/collage.png
 related_posts:
 - slug: baleen-ml-admission-prefetching-for-flash-caches
   title: 'Baleen: ML Admission & Prefetching for Flash Caches'

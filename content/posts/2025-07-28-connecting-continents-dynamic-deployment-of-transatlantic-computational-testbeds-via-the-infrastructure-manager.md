@@ -10,7 +10,7 @@ categories:
 date: '2025-07-28 18:04:09+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/0c/9c/0c9ca148-634a-4981-9cc4-bf96905f0243/headshot.png
+image: https://chameleoncloud.org/media/filer_public/0c/9c/0c9ca148-634a-4981-9cc4-bf96905f0243/headshot.png
 related_posts:
 - slug: infrastructure-without-scaling-limits
   title: Infrastructure without Scaling Limits

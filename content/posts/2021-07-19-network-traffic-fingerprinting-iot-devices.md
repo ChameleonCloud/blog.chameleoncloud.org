@@ -11,7 +11,7 @@ categories:
 date: '2021-07-19 21:48:51+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/66/70/66702097-b796-4fbe-8acf-f7fa4f6f8921/screen_shot_2021-07-19_at_24641_pm.png
+image: https://chameleoncloud.org/media/filer_public/66/70/66702097-b796-4fbe-8acf-f7fa4f6f8921/screen_shot_2021-07-19_at_24641_pm.png
 related_posts: []
 slug: network-traffic-fingerprinting-iot-devices
 subtitle: ''

@@ -11,7 +11,7 @@ categories:
 date: '2025-08-18 20:50:44+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/51/1d/511d0d87-5ae4-4457-8121-e713be049c5f/chameleon-at-work.png
+image: https://chameleoncloud.org/media/filer_public/51/1d/511d0d87-5ae4-4457-8121-e713be049c5f/chameleon-at-work.png
 related_posts:
 - slug: data-storage-management-and-sharing-on-chameleon
   title: Data Storage, Management, and Sharing on Chameleon

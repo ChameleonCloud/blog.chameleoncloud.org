@@ -16,7 +16,7 @@ categories:
 date: '2025-04-29 20:04:03+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/54/15/541526d6-c898-44c8-9d0a-1e6b5073eede/content-diagram.png
+image: https://chameleoncloud.org/media/filer_public/54/15/541526d6-c898-44c8-9d0a-1e6b5073eede/content-diagram.png
 related_posts:
 - slug: empowering-the-edge-breaking-heterogeneity-barriers-in-cloud-based-ml-training
   title: 'Empowering the Edge: Breaking Heterogeneity Barriers in Cloud-based ML Training'

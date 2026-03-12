@@ -10,7 +10,7 @@ categories:
 date: '2024-06-04 17:38:48+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/bb/06/bb06de7c-ff2d-4834-89ec-200442b94f0b/june_changelog.png
+image: https://chameleoncloud.org/media/filer_public/bb/06/bb06de7c-ff2d-4834-89ec-200442b94f0b/june_changelog.png
 related_posts: []
 slug: chameleon-changelog-for-may-2024
 subtitle: ''

@@ -11,7 +11,7 @@ abstract: '<p>Many folks in our community (now over 10,000 strong!) use our test
   rel="noopener noreferrer" style="cursor: pointer; color: inherit; text-decoration:
   inherit;" tabindex="0"><span class="link-annotation-unknown-block-id-932739406"
   style="">webinars</span></a>, and <a class="notion-link-token notion-focusable-token
-  notion-enable-hover" data-token-index="5" href="http://chameleoncloud.org/blog"
+  notion-enable-hover" data-token-index="5" href="https://chameleoncloud.org/blog"
   rel="noopener noreferrer" style="cursor: pointer; color: inherit; text-decoration:
   inherit;" tabindex="0"><span class="link-annotation-unknown-block-id--387995008"
   style="">blogs</span></a> demonstrating our features and latest updates, these tutorials
@@ -24,7 +24,7 @@ categories:
 date: '2024-05-20 22:03:49+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/cc/0d/cc0d9481-6c7d-420a-b042-b6d92b8db735/summerwithchameleon.png
+image: https://chameleoncloud.org/media/filer_public/cc/0d/cc0d9481-6c7d-420a-b042-b6d92b8db735/summerwithchameleon.png
 related_posts:
 - slug: summer-with-chameleon
   title: Summer with Chameleon

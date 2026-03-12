@@ -10,7 +10,7 @@ categories:
 date: '2021-06-01 23:01:20+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/c4/87/c487094c-a32a-436a-8c7b-9dc469f20998/chameleon-6181779_640.jpg
+image: https://chameleoncloud.org/media/filer_public/c4/87/c487094c-a32a-436a-8c7b-9dc469f20998/chameleon-6181779_640.jpg
 related_posts: []
 slug: chameleon-changelog-may-2021
 subtitle: ''

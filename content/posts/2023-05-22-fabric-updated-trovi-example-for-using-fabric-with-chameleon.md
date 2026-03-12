@@ -9,7 +9,7 @@ categories:
 date: '2023-05-22 18:26:57+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/ed/8d/ed8d4ca8-b883-4f39-a87d-1d43d449c68c/fabric.png
+image: https://chameleoncloud.org/media/filer_public/ed/8d/ed8d4ca8-b883-4f39-a87d-1d43d449c68c/fabric.png
 related_posts:
 - slug: fabrics-first-facilitlyport-deploying-experiments-spanning-chameleon-and-fabric
   title: "FABRIC\u2019s First FacilitlyPort: Deploying Experiments Spanning Chameleon\

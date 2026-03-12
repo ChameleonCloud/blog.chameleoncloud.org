@@ -9,7 +9,7 @@ categories:
 date: '2023-06-26 23:00:00+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/cf/d8/cfd8109c-8d5f-49b6-8f6e-598812560edb/cc-images.png
+image: https://chameleoncloud.org/media/filer_public/cf/d8/cfd8109c-8d5f-49b6-8f6e-598812560edb/cc-images.png
 related_posts: []
 slug: chameleon-images-overview
 subtitle: ''

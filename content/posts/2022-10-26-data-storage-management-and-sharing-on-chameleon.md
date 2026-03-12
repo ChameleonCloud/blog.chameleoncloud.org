@@ -8,7 +8,7 @@ categories:
 date: '2022-10-26 22:09:36+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/99/11/99118e34-aceb-469b-bb55-586edce34d05/chameleon-storage.png
+image: https://chameleoncloud.org/media/filer_public/99/11/99118e34-aceb-469b-bb55-586edce34d05/chameleon-storage.png
 related_posts:
 - slug: chameleon-changelog-for-july-2022
   title: Chameleon Changelog for July 2022

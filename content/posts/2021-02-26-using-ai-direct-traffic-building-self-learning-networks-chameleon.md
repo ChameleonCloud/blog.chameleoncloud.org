@@ -12,7 +12,7 @@ categories:
 date: '2021-02-26 16:26:31+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/e3/6c/e36c5714-49f4-4769-95ee-260084b005be/new-mk.jpeg
+image: https://chameleoncloud.org/media/filer_public/e3/6c/e36c5714-49f4-4769-95ee-260084b005be/new-mk.jpeg
 related_posts: []
 slug: using-ai-direct-traffic-building-self-learning-networks-chameleon
 subtitle: ''

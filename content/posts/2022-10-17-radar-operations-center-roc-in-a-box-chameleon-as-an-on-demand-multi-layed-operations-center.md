@@ -8,7 +8,7 @@ categories:
 date: '2022-10-17 18:01:32+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/af/6f/af6fd189-976e-4887-a04c-65463dd9771f/fig1.png
+image: https://chameleoncloud.org/media/filer_public/af/6f/af6fd189-976e-4887-a04c-65463dd9771f/fig1.png
 related_posts: []
 slug: radar-operations-center-roc-in-a-box-chameleon-as-an-on-demand-multi-layed-operations-center
 subtitle: ''

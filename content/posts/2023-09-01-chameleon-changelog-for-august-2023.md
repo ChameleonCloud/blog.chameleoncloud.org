@@ -8,7 +8,7 @@ categories:
 date: '2023-09-01 21:28:37+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/ef/43/ef43457c-8a6e-4958-a6a3-30d833089b33/fount_logo_with_text_backg.png
+image: https://chameleoncloud.org/media/filer_public/ef/43/ef43457c-8a6e-4958-a6a3-30d833089b33/fount_logo_with_text_backg.png
 related_posts: []
 slug: chameleon-changelog-for-august-2023
 subtitle: ''

@@ -14,7 +14,7 @@ categories:
 date: '2024-12-30 21:26:21+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/e9/a0/e9a0597e-d356-47b3-9583-83bc062c4233/image5.png
+image: https://chameleoncloud.org/media/filer_public/e9/a0/e9a0597e-d356-47b3-9583-83bc062c4233/image5.png
 related_posts:
 - slug: towards-characterizing-genomics-workload-performance-at-scale
   title: Towards Characterizing Genomics Workload Performance at Scale

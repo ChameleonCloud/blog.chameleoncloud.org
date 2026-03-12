@@ -7,7 +7,7 @@ categories:
 date: '2024-04-05 21:55:13+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/d7/68/d768085c-0f96-43fb-acdc-b7cfcd861bd7/sc-tutorial-image.png
+image: https://chameleoncloud.org/media/filer_public/d7/68/d768085c-0f96-43fb-acdc-b7cfcd861bd7/sc-tutorial-image.png
 related_posts:
 - slug: chameleon-presents-at-sc23
   title: Chameleon presents AutoLearn, IndySCC'23 success, and more at SC'23

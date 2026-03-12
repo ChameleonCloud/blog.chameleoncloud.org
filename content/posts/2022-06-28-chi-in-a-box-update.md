@@ -12,7 +12,7 @@ categories:
 date: '2022-06-28 01:21:47+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/47/c6/47c61298-faf0-4ec8-9287-11e569f0e0c3/chameleon_box.png
+image: https://chameleoncloud.org/media/filer_public/47/c6/47c61298-faf0-4ec8-9287-11e569f0e0c3/chameleon_box.png
 related_posts:
 - slug: chincar-an-interview-with-the-newest-associate-site
   title: 'CHI@NCAR: An Interview with the Newest Associate Site'

@@ -18,7 +18,7 @@ categories:
 date: '2025-12-13 18:52:05+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/49/52/4952af25-8244-4ba7-b223-cbc1e223373b/banner.png
+image: https://chameleoncloud.org/media/filer_public/49/52/4952af25-8244-4ba7-b223-cbc1e223373b/banner.png
 related_posts:
 - slug: call-for-presentations-community-workshop-on-practical-reproducibility-in-hpc
   title: Call for Presentations - Community Workshop on Practical Reproducibility

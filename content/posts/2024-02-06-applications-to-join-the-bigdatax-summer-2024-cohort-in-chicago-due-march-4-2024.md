@@ -14,7 +14,7 @@ categories:
 date: '2024-02-06 22:54:08+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/d4/78/d4780460-cc1b-45e7-95a1-87a29106f70b/dalle_2024-02-06_165049.png
+image: https://chameleoncloud.org/media/filer_public/d4/78/d4780460-cc1b-45e7-95a1-87a29106f70b/dalle_2024-02-06_165049.png
 related_posts: []
 slug: applications-to-join-the-bigdatax-summer-2024-cohort-in-chicago-due-march-4-2024
 subtitle: Apply now to be matched with a mentor, work on interesting CS research,

@@ -10,7 +10,7 @@ categories:
 date: '2025-05-01 21:59:32+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/ad/f6/adf620ad-a649-49cd-9c62-8f1698a20325/54482424167_a22739f815_w.jpg
+image: https://chameleoncloud.org/media/filer_public/ad/f6/adf620ad-a649-49cd-9c62-8f1698a20325/54482424167_a22739f815_w.jpg
 related_posts: []
 slug: chameleon-changelog-for-april-2025
 subtitle: ''

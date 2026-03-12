@@ -9,7 +9,7 @@ categories:
 date: '2022-09-26 19:00:18+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/3f/ef/3fef2f21-8267-4b7f-8a22-f0bb0ac70505/image.png
+image: https://chameleoncloud.org/media/filer_public/3f/ef/3fef2f21-8267-4b7f-8a22-f0bb0ac70505/image.png
 related_posts: []
 slug: experiment-patterns-making-complex-experiments-easy
 subtitle: ''

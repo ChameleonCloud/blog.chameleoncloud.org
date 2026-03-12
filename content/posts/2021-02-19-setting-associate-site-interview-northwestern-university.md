@@ -9,7 +9,7 @@ categories:
 date: '2021-02-19 17:00:17+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/44/63/446399a7-0265-43eb-a935-088be8cdb3d0/zoom_snowy-arch.jpg
+image: https://chameleoncloud.org/media/filer_public/44/63/446399a7-0265-43eb-a935-088be8cdb3d0/zoom_snowy-arch.jpg
 related_posts: []
 slug: setting-associate-site-interview-northwestern-university
 subtitle: ''

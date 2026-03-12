@@ -9,7 +9,7 @@ categories:
 date: '2022-05-09 17:39:59+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/0a/cc/0acc1c54-7fe2-45dd-aa48-e675c54643c6/untitled_design.png
+image: https://chameleoncloud.org/media/filer_public/0a/cc/0acc1c54-7fe2-45dd-aa48-e675c54643c6/untitled_design.png
 related_posts: []
 slug: summer-with-chameleon
 subtitle: ''

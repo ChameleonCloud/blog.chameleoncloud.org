@@ -13,7 +13,7 @@ categories:
 date: '2025-01-27 17:08:27+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/3a/d1/3ad10588-427b-4ccf-99aa-71d6605d75fd/avatar_huaeeec3b03949da7c9e65bafb346c02e7_1014633_270x270_fill_lanczos_center_3.png
+image: https://chameleoncloud.org/media/filer_public/3a/d1/3ad10588-427b-4ccf-99aa-71d6605d75fd/avatar_huaeeec3b03949da7c9e65bafb346c02e7_1014633_270x270_fill_lanczos_center_3.png
 related_posts:
 - slug: chameleon-takes-flight-at-sc24-advancing-research-and-collaboration
   title: 'Chameleon Takes Flight at SC24: Advancing Research and Collaboration'

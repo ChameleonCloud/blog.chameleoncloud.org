@@ -11,7 +11,7 @@ categories:
 date: '2025-04-21 16:19:52+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/d3/99/d399f8f0-4c85-4b41-8b93-587f8ae93e8e/trovi-json.png
+image: https://chameleoncloud.org/media/filer_public/d3/99/d399f8f0-4c85-4b41-8b93-587f8ae93e8e/trovi-json.png
 related_posts:
 - slug: fabric-updated-trovi-example-for-using-fabric-with-chameleon
   title: 'FABRIC: Updated Trovi Example for using FABRIC with Chameleon'

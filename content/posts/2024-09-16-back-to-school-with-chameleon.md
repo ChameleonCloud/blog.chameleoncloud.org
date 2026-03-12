@@ -12,7 +12,7 @@ categories:
 date: '2024-09-16 19:36:43+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/b0/c5/b0c5eb17-43e1-427c-90d9-bb8f0429ce58/gemini_generated_image_t2nxoft2nxoft2nx.jpg
+image: https://chameleoncloud.org/media/filer_public/b0/c5/b0c5eb17-43e1-427c-90d9-bb8f0429ce58/gemini_generated_image_t2nxoft2nxoft2nx.jpg
 related_posts:
 - slug: summer-with-chameleon-returns-june-11th-13th-virtual
   title: Summer with Chameleon Returns - June 11th & 13th (Virtual)

@@ -8,7 +8,7 @@ categories:
 date: '2024-09-30 17:16:40+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/b4/79/b4790644-2a5d-4e5b-a5f5-a77508eb613b/photo.jpg
+image: https://chameleoncloud.org/media/filer_public/b4/79/b4790644-2a5d-4e5b-a5f5-a77508eb613b/photo.jpg
 related_posts:
 - slug: power-measurement-and-management-on-chameleon
   title: Power Measurement and Management on Chameleon

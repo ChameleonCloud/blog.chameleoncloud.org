@@ -12,7 +12,7 @@ categories:
 date: '2023-12-13 21:44:49+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/c9/9d/c99d98a0-4c98-463c-894d-b2456201f377/indyscc-uc-boulder.jpg
+image: https://chameleoncloud.org/media/filer_public/c9/9d/c99d98a0-4c98-463c-894d-b2456201f377/indyscc-uc-boulder.jpg
 related_posts:
 - slug: chameleon-presents-at-sc23
   title: Chameleon presents AutoLearn, IndySCC'23 success, and more at SC'23
@@ -31,7 +31,7 @@ title: IndySCC Site Open to All Chameleon Users Until January 5th - Explore Now!
 
 <p>We have some exciting news that brings a unique opportunity for all our users! <strong>Thanks to the <a href="https://www.colorado.edu/rc/2023/11/29/empowering-diversity-and-inclusion-indyscc-broadens-access-high-performance-computing">University of Colorado Boulder</a>'s generous support, the IndySCC site, previously restricted to IndySCC teams, is now open to the general Chameleon users until the site shuts down on January 5th</strong>. This extension not only allows more of our community to access valuable resources but also is a testament to UC Boulder's commitment to fostering research and innovation.</p>
 
-<p>Full specifications are available via the <a href="https://chameleoncloud.org/hardware/">Chameleon Hardware Discovery</a> page, and the site can be accessed either directly, at <a href="https://chi.rc.colorado.edu/">https://chi.rc.colorado.edu/</a>, or via the “Experiment” dropdown menu at <a href="http://chameleoncloud.org">https://chameleoncloud.org/</a>.</p>
+<p>Full specifications are available via the <a href="https://chameleoncloud.org/hardware/">Chameleon Hardware Discovery</a> page, and the site can be accessed either directly, at <a href="https://chi.rc.colorado.edu/">https://chi.rc.colorado.edu/</a>, or via the “Experiment” dropdown menu at <a href="https://chameleoncloud.org">https://chameleoncloud.org/</a>.</p>
 
 <p><strong>IndySCC Site Highlights</strong>:</p>
 

@@ -11,7 +11,7 @@ categories:
 date: '2023-06-21 22:04:57+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/9e/46/9e464028-966d-4794-a0be-396c475c25ec/img_0469.jpeg
+image: https://chameleoncloud.org/media/filer_public/9e/46/9e464028-966d-4794-a0be-396c475c25ec/img_0469.jpeg
 related_posts: []
 slug: announcing-reproducibility-hackathon-at-acm-rep-23
 subtitle: ''

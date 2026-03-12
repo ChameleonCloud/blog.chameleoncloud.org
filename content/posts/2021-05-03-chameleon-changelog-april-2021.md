@@ -26,7 +26,7 @@ categories:
 date: '2021-05-03 22:20:49+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/db/47/db47f8e0-a5a6-416b-b09a-af4ca44f21d2/post_your_favorite_aot_visualization_1600x900.jpg
+image: https://chameleoncloud.org/media/filer_public/db/47/db47f8e0-a5a6-416b-b09a-af4ca44f21d2/post_your_favorite_aot_visualization_1600x900.jpg
 related_posts: []
 slug: chameleon-changelog-april-2021
 subtitle: ''

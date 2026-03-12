@@ -10,7 +10,7 @@ categories:
 date: '2024-08-27 03:02:03+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/8e/71/8e71e005-918a-435a-a0d8-0edf882371f5/martin_putra.jpg
+image: https://chameleoncloud.org/media/filer_public/8e/71/8e71e005-918a-435a-a0d8-0edf882371f5/martin_putra.jpg
 related_posts:
 - slug: rethinking-memory-management-for-multi-tiered-systems
   title: Rethinking Memory Management for Multi-Tiered Systems

@@ -14,7 +14,7 @@ categories:
 date: '2023-04-03 17:55:39+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/ae/c9/aec9f19a-c514-422f-a16a-30ed4a682e53/fraida-fund.png
+image: https://chameleoncloud.org/media/filer_public/ae/c9/aec9f19a-c514-422f-a16a-30ed4a682e53/fraida-fund.png
 related_posts: []
 slug: a-roadmap-to-deeper-learning-using-research-infrastructure
 subtitle: ''

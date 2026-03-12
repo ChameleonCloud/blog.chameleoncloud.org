@@ -12,7 +12,7 @@ categories:
 date: '2021-04-19 20:42:23+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/26/f3/26f3a8cc-ef56-4e5f-a637-3d9ef7d56496/chi-in-a-box.png
+image: https://chameleoncloud.org/media/filer_public/26/f3/26f3a8cc-ef56-4e5f-a637-3d9ef7d56496/chi-in-a-box.png
 related_posts: []
 slug: turn-your-hardware-chameleon-associate-site-chi-box
 subtitle: ''

@@ -11,7 +11,7 @@ categories:
 date: '2022-02-21 22:54:35+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/64/06/6406c30e-5961-4b19-b6e1-f4aa313f6f9c/screen_shot_2022-02-21_at_105226_pm.png
+image: https://chameleoncloud.org/media/filer_public/64/06/6406c30e-5961-4b19-b6e1-f4aa313f6f9c/screen_shot_2022-02-21_at_105226_pm.png
 related_posts: []
 slug: chiedge-as-a-baseline-for-ara-wireless-living-lab
 subtitle: ''

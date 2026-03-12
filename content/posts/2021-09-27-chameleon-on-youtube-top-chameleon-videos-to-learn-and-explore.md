@@ -11,7 +11,7 @@ categories:
 date: '2021-09-27 20:00:10+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/db/44/db44b7e7-7fbc-48a1-b6ed-b9ba059ff42a/screen_shot_2021-09-27_at_82042_pm.png
+image: https://chameleoncloud.org/media/filer_public/db/44/db44b7e7-7fbc-48a1-b6ed-b9ba059ff42a/screen_shot_2021-09-27_at_82042_pm.png
 related_posts: []
 slug: chameleon-on-youtube-top-chameleon-videos-to-learn-and-explore
 subtitle: ''

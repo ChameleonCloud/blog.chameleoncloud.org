@@ -11,7 +11,7 @@ categories:
 date: '2023-08-21 16:35:36+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/13/08/13081f4b-8668-4e29-917f-641dda0d9465/calyam.jpg
+image: https://chameleoncloud.org/media/filer_public/13/08/13081f4b-8668-4e29-917f-641dda0d9465/calyam.jpg
 related_posts: []
 slug: from-edge-to-cloud-at-the-university-of-missouri
 subtitle: This month, we're featuring an interview with Professor Prasad Calyam, a

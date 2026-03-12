@@ -11,7 +11,7 @@ categories:
 date: '2026-01-26 16:18:51+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/8e/b7/8eb711ec-33a0-4725-917d-d3cb9e6a128f/screenshot_2026-02-02_at_102652am.png
+image: https://chameleoncloud.org/media/filer_public/8e/b7/8eb711ec-33a0-4725-917d-d3cb9e6a128f/screenshot_2026-02-02_at_102652am.png
 related_posts:
 - slug: fair-co2-fair-attribution-for-cloud-carbon-emissions
   title: 'Fair-CO2: Fair Attribution for Cloud Carbon Emissions'

@@ -11,7 +11,7 @@ categories:
 date: '2022-01-24 23:59:06+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/a1/c6/a1c6e033-0490-4beb-be57-a55d36d45edf/screen_shot_2022-01-24_at_34736_pm.png
+image: https://chameleoncloud.org/media/filer_public/a1/c6/a1c6e033-0490-4beb-be57-a55d36d45edf/screen_shot_2022-01-24_at_34736_pm.png
 related_posts: []
 slug: interactive-science-made-easy-with-chameleon-daypass
 subtitle: ''

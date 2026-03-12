@@ -9,7 +9,7 @@ categories:
 date: '2023-04-03 22:07:48+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/f4/64/f464db1f-2190-4763-b3ec-8a4891271c1e/dom-fou-yrmwvcdyhmi-unsplash.jpg
+image: https://chameleoncloud.org/media/filer_public/f4/64/f464db1f-2190-4763-b3ec-8a4891271c1e/dom-fou-yrmwvcdyhmi-unsplash.jpg
 related_posts: []
 slug: chameleon-changelog-for-march-2023
 subtitle: ''

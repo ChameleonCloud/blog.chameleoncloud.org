@@ -13,7 +13,7 @@ categories:
 date: '2025-12-15 16:06:49+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/d8/f9/d8f9cd8c-c082-471b-a7ea-aff311bf011d/image.jpg
+image: https://chameleoncloud.org/media/filer_public/d8/f9/d8f9cd8c-c082-471b-a7ea-aff311bf011d/image.jpg
 related_posts:
 - slug: chameleon-tickets-of-the-year-2024
   title: Chameleon Tickets of the Year 2024

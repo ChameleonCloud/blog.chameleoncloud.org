@@ -12,7 +12,7 @@ categories:
 date: '2021-05-17 23:29:26+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/35/c7/35c7aeaf-5e67-4cb9-942f-a63299606549/system-overview.png
+image: https://chameleoncloud.org/media/filer_public/35/c7/35c7aeaf-5e67-4cb9-942f-a63299606549/system-overview.png
 related_posts: []
 slug: high-performance-federated-learning-systems
 subtitle: ''

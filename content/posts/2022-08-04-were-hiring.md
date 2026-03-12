@@ -7,7 +7,7 @@ categories:
 date: '2022-08-04 18:07:09+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/e0/db/e0db7172-5758-4441-b002-15416f913f0b/hiring_1.png
+image: https://chameleoncloud.org/media/filer_public/e0/db/e0db7172-5758-4441-b002-15416f913f0b/hiring_1.png
 related_posts: []
 slug: were-hiring
 subtitle: ''

@@ -9,7 +9,7 @@ categories:
 date: '2022-08-24 19:57:51+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/6b/4e/6b4e4a6f-4d52-41e6-a0c2-fca880f79561/fabric-map.png
+image: https://chameleoncloud.org/media/filer_public/6b/4e/6b4e4a6f-4d52-41e6-a0c2-fca880f79561/fabric-map.png
 related_posts:
 - slug: managing-multiple-external-links-stitched-single-chameleon-network
   title: Managing Multiple External Links Stitched to a Single Chameleon Network

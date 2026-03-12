@@ -11,7 +11,7 @@ categories:
 date: '2023-08-29 14:19:20+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/6c/a6/6ca6e73f-68ac-42b1-be86-de51bc6d59a4/hackathon-600x400.jpg
+image: https://chameleoncloud.org/media/filer_public/6c/a6/6ca6e73f-68ac-42b1-be86-de51bc6d59a4/hackathon-600x400.jpg
 related_posts: []
 slug: registration-grants-for-reproducibility-hackathon-at-the-ic2e-conference
 subtitle: ''

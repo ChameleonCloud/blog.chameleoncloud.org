@@ -9,7 +9,7 @@ categories:
 date: '2025-03-17 14:32:22+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/32/51/325117b9-2c4e-4ebf-8ecf-139b01358e1a/sunder-muthukumaran-n7ejhqwefei-unsplash.jpg
+image: https://chameleoncloud.org/media/filer_public/32/51/325117b9-2c4e-4ebf-8ecf-139b01358e1a/sunder-muthukumaran-n7ejhqwefei-unsplash.jpg
 related_posts:
 - slug: data-storage-management-and-sharing-on-chameleon
   title: Data Storage, Management, and Sharing on Chameleon

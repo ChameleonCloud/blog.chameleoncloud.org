@@ -15,7 +15,7 @@ categories:
 date: '2025-12-22 20:18:51+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/be/9d/be9db330-9698-4fbf-b67c-b7b76d89ba7b/screenshot_2026-01-04_at_110635pm.png
+image: https://chameleoncloud.org/media/filer_public/be/9d/be9db330-9698-4fbf-b67c-b7b76d89ba7b/screenshot_2026-01-04_at_110635pm.png
 related_posts:
 - slug: detecting-the-invisible-machine-learning-for-cloud-infrastructure-health
   title: 'Detecting the Invisible: Machine Learning for Cloud Infrastructure Health'

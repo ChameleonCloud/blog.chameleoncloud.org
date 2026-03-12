@@ -9,7 +9,7 @@ categories:
 date: '2021-10-26 03:36:34+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/91/18/911892eb-2318-4f01-b602-268af9b4e663/screen_shot_2021-10-26_at_54118_pm.png
+image: https://chameleoncloud.org/media/filer_public/91/18/911892eb-2318-4f01-b602-268af9b4e663/screen_shot_2021-10-26_at_54118_pm.png
 related_posts: []
 slug: announcing-new-hardware-for-chiuc
 subtitle: ''

@@ -11,7 +11,7 @@ categories:
 date: '2025-06-25 18:14:10+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/34/3d/343d6b4e-b7a0-4115-8608-095da3eb0473/justinshi.png
+image: https://chameleoncloud.org/media/filer_public/34/3d/343d6b4e-b7a0-4115-8608-095da3eb0473/justinshi.png
 related_posts:
 - slug: storage-research-experiment-patterns-on-chameleon-cloud-and-trovi
   title: Storage Research Experiment Patterns on Chameleon Cloud and Trovi

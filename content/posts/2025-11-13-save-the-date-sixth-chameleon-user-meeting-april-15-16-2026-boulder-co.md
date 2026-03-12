@@ -13,7 +13,7 @@ categories:
 date: '2025-11-13 16:54:02+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/b5/d7/b5d760e0-7689-417c-bd22-53cf0a0cc2a4/ncar20_a15712da-5056-a36a-075dad7f726536cf.jpg
+image: https://chameleoncloud.org/media/filer_public/b5/d7/b5d760e0-7689-417c-bd22-53cf0a0cc2a4/ncar20_a15712da-5056-a36a-075dad7f726536cf.jpg
 related_posts:
 - slug: chameleon-testbed-secures-12-million-in-funding-for-phase-4
   title: Chameleon Testbed Secures $12 Million in Funding for Phase 4

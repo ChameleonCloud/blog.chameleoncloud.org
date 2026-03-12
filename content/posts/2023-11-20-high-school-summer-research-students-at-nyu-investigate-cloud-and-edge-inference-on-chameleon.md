@@ -12,7 +12,7 @@ categories:
 date: '2023-11-20 15:20:08+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/f7/b1/f7b1b337-2788-4da0-816f-be2905625455/dalle_2023-11-15_144230.png
+image: https://chameleoncloud.org/media/filer_public/f7/b1/f7b1b337-2788-4da0-816f-be2905625455/dalle_2023-11-15_144230.png
 related_posts: []
 slug: high-school-summer-research-students-at-nyu-investigate-cloud-and-edge-inference-on-chameleon
 subtitle: 'Exploring Cloud and Edge Inference: High School Students'' Journey Through

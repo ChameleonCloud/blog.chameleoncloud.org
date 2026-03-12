@@ -11,7 +11,7 @@ categories:
 date: '2024-11-18 20:34:58+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/6f/f0/6ff0d773-8864-48f9-9fbc-d5ce1f5be834/open-mpi-logo.png
+image: https://chameleoncloud.org/media/filer_public/6f/f0/6ff0d773-8864-48f9-9fbc-d5ce1f5be834/open-mpi-logo.png
 related_posts:
 - slug: packaging-your-experiments-on-chameleon-with-python-chi-10
   title: Packaging Your Experiments on Chameleon with Python-chi 1.0

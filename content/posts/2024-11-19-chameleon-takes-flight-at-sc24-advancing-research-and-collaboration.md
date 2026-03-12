@@ -11,7 +11,7 @@ categories:
 date: '2024-11-19 17:18:04+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/aa/d3/aad3a1fd-fc92-4cc5-a609-de0b7f7e4097/sc24_h_black_shaded.png
+image: https://chameleoncloud.org/media/filer_public/aa/d3/aad3a1fd-fc92-4cc5-a609-de0b7f7e4097/sc24_h_black_shaded.png
 related_posts:
 - slug: full-agenda-out-now-community-workshop-on-reproducibility-in-atl-nov-18
   title: "Full Agenda Out Now \u2013 Community Workshop on Reproducibility in ATL\

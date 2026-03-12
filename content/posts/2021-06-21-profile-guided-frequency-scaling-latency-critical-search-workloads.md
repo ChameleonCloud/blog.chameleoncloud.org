@@ -11,7 +11,7 @@ categories:
 date: '2021-06-21 22:58:16+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/ff/a3/ffa359cb-3d44-4a1c-aceb-c5f56f8e45a3/screen_shot_2021-06-21_at_35708_pm.png
+image: https://chameleoncloud.org/media/filer_public/ff/a3/ffa359cb-3d44-4a1c-aceb-c5f56f8e45a3/screen_shot_2021-06-21_at_35708_pm.png
 related_posts: []
 slug: profile-guided-frequency-scaling-latency-critical-search-workloads
 subtitle: ''

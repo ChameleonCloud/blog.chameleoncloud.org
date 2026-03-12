@@ -9,7 +9,7 @@ categories:
 date: '2022-03-22 00:38:26+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/63/c8/63c82313-069d-4ebe-ade2-65bd8e7a8dfb/screen_shot_2022-03-22_at_123406_am.png
+image: https://chameleoncloud.org/media/filer_public/63/c8/63c82313-069d-4ebe-ade2-65bd8e7a8dfb/screen_shot_2022-03-22_at_123406_am.png
 related_posts: []
 slug: understanding-reliability-on-shared-edge
 subtitle: ''

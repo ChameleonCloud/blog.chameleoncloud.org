@@ -9,7 +9,7 @@ categories:
 date: '2025-05-19 16:02:19+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/00/51/0051406d-b53e-4289-b43b-03b908cc9fe4/chameleon-images-headline.png
+image: https://chameleoncloud.org/media/filer_public/00/51/0051406d-b53e-4289-b43b-03b908cc9fe4/chameleon-images-headline.png
 related_posts:
 - slug: chameleon-images-overview
   title: Chameleon Images Overview

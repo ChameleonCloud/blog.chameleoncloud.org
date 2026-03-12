@@ -10,7 +10,7 @@ categories:
 date: '2022-05-23 22:21:29+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/b4/eb/b4eb24b8-d531-4208-b1ab-8b6bc06b5912/screen_shot_2022-05-23_at_31042_pm.png
+image: https://chameleoncloud.org/media/filer_public/b4/eb/b4eb24b8-d531-4208-b1ab-8b6bc06b5912/screen_shot_2022-05-23_at_31042_pm.png
 related_posts: []
 slug: automated-fast-flux-detection-using-machine-learning-and-genetic-algorithms
 subtitle: ''

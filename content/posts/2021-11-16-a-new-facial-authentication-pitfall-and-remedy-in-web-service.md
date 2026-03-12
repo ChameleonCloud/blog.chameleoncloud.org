@@ -10,7 +10,7 @@ categories:
 date: '2021-11-16 18:53:50+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/0e/1b/0e1b4cc4-dcc8-452a-bdf9-7ccc1a3be6cb/screen_shot_2021-11-16_at_64035_pm.png
+image: https://chameleoncloud.org/media/filer_public/0e/1b/0e1b4cc4-dcc8-452a-bdf9-7ccc1a3be6cb/screen_shot_2021-11-16_at_64035_pm.png
 related_posts: []
 slug: a-new-facial-authentication-pitfall-and-remedy-in-web-service
 subtitle: ''

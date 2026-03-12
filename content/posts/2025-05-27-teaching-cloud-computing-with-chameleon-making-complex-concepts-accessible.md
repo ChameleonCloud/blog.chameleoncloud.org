@@ -12,7 +12,7 @@ categories:
 date: '2025-05-27 16:55:40+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/e3/79/e3795ae1-7bf6-43a7-abba-9eb15d9db8da/coruna2025.png
+image: https://chameleoncloud.org/media/filer_public/e3/79/e3795ae1-7bf6-43a7-abba-9eb15d9db8da/coruna2025.png
 related_posts:
 - slug: from-edge-to-cloud-at-the-university-of-missouri
   title: Teaching from Edge to Cloud at the University of Missouri

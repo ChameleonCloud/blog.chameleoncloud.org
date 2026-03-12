@@ -8,7 +8,7 @@ categories:
 date: '2023-06-30 21:29:12+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/ac/1b/ac1b9568-cf97-4919-84b8-4df3384a3a1d/seri-zugl4avqnaw-unsplash.jpg
+image: https://chameleoncloud.org/media/filer_public/ac/1b/ac1b9568-cf97-4919-84b8-4df3384a3a1d/seri-zugl4avqnaw-unsplash.jpg
 related_posts: []
 slug: chameleon-changelog-for-june-2023
 subtitle: ''

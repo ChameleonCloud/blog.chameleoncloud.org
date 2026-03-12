@@ -12,7 +12,7 @@ categories:
 date: '2026-02-24 16:26:22+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/63/ca/63ca65ca-d3d6-42a9-9ba6-02ae1a064226/macleod_headshot.jpeg
+image: https://chameleoncloud.org/media/filer_public/63/ca/63ca65ca-d3d6-42a9-9ba6-02ae1a064226/macleod_headshot.jpeg
 related_posts:
 - slug: online-now-fraida-fund-nyu-presents-her-large-scale-mlops-class-on-chameleon
   title: "Online Now \u2013 Fraida Fund (NYU) presents her large-scale MLOps Class\

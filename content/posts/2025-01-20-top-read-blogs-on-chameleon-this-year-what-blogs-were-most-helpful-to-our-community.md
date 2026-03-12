@@ -12,7 +12,7 @@ categories:
 date: '2025-01-20 18:57:32+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/bb/37/bb379255-923c-4308-8e9b-a39bee006e7d/chameleon_light_bulb.jpg
+image: https://chameleoncloud.org/media/filer_public/bb/37/bb379255-923c-4308-8e9b-a39bee006e7d/chameleon_light_bulb.jpg
 related_posts:
 - slug: composible-hardware-on-chameleon-now
   title: Composable Hardware on Chameleon NOW!

@@ -1,7 +1,7 @@
 ---
 abstract: "<p>This past month brings 2025 to a close and also exciting updates, including\
   \ a year in review, Trovi improvements, and a CHI@Edge artifact, along with announcements\
-  \ about <a href=\"http://chameleoncloud.org/learn/webinars\">upcoming webinars</a>\
+  \ about <a href=\"https://chameleoncloud.org/learn/webinars\">upcoming webinars</a>\
   \ (next up: <a href=\"https://uchicago.zoom.us/webinar/register/WN_TTUYO1o8QRC3AFyuHKU4lA\"\
   >How to Organize Artifact Evaluations (AEs) with Shared Infrastructure</a> on Jan.\
   \ 13th), our <a href=\"https://chameleoncloud.org/blog/2025/12/13/call-for-presentations-chameleon-user-meeting-2026/\"\
@@ -15,7 +15,7 @@ categories:
 date: '2026-01-05 22:53:15+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/71/3b/713ba884-f6c7-4720-a3f0-a5748421eee5/chameleon.jpg
+image: https://chameleoncloud.org/media/filer_public/71/3b/713ba884-f6c7-4720-a3f0-a5748421eee5/chameleon.jpg
 related_posts: []
 slug: chameleon-newsletter-changelog-december-2025
 subtitle: Testbed updates, new features, webinars, and other exciting news from our
@@ -29,7 +29,7 @@ title: Chameleon Newsletter & Changelog - December 2025
 
 <p>Chameleon December Newsletter</p>
 
-<p>This past month brings 2025 to a close and also exciting updates, including a year in review, Trovi improvements, and a CHI@Edge artifact, along with announcements about <a href="http://chameleoncloud.org/learn/webinars">upcoming webinars</a> (next up: <a href="https://uchicago.zoom.us/webinar/register/WN_TTUYO1o8QRC3AFyuHKU4lA">How to Organize Artifact Evaluations (AEs) with Shared Infrastructure</a> on Jan. 13th), our <a href="https://chameleoncloud.org/blog/2025/12/13/call-for-presentations-chameleon-user-meeting-2026/">call for presentations</a> for our <a href="https://chameleoncloud.org/blog/2025/11/13/save-the-date-sixth-chameleon-user-meeting-april-15-16-2026-boulder-co/">sixth user meeting at NCAR’s campus in Boulder</a>, and highlights from our newly appointed reproducibility ambassadors.</p>
+<p>This past month brings 2025 to a close and also exciting updates, including a year in review, Trovi improvements, and a CHI@Edge artifact, along with announcements about <a href="https://chameleoncloud.org/learn/webinars">upcoming webinars</a> (next up: <a href="https://uchicago.zoom.us/webinar/register/WN_TTUYO1o8QRC3AFyuHKU4lA">How to Organize Artifact Evaluations (AEs) with Shared Infrastructure</a> on Jan. 13th), our <a href="https://chameleoncloud.org/blog/2025/12/13/call-for-presentations-chameleon-user-meeting-2026/">call for presentations</a> for our <a href="https://chameleoncloud.org/blog/2025/11/13/save-the-date-sixth-chameleon-user-meeting-april-15-16-2026-boulder-co/">sixth user meeting at NCAR’s campus in Boulder</a>, and highlights from our newly appointed reproducibility ambassadors.</p>
 
 <h1>Publication Reporting Reminder</h1>
 
@@ -107,7 +107,7 @@ title: Chameleon Newsletter & Changelog - December 2025
 	</tbody>
 </table>
 
-<p>Keep an eye on our <a href="http://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months.</p>
+<p>Keep an eye on our <a href="https://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months.</p>
 
 <h1>Community News &amp; Resources</h1>
 

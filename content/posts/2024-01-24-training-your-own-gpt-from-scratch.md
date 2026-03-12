@@ -25,7 +25,7 @@ categories:
 date: '2024-01-24 20:51:34+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/1e/40/1e401d69-d2ce-470d-b875-46b583b8d987/akash_kundu.jpg
+image: https://chameleoncloud.org/media/filer_public/1e/40/1e401d69-d2ce-470d-b875-46b583b8d987/akash_kundu.jpg
 related_posts:
 - slug: reproduce-rerun-repeat-the-fun-way-to-learn-machine-learning
   title: 'Reproduce, Rerun, Repeat: The Fun Way to Learn Machine Learning!'

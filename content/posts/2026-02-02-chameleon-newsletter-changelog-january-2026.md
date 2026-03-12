@@ -5,7 +5,7 @@ abstract: "<p>2026 is in full swing now. The Chameleon team in Chicago is strugg
   \ with announcements about <a href=\"https://chameleoncloud.org/blog/2026/01/30/join-us-in-boulder-co-registration-now-open-for-6th-chameleon-user-meeting/\"\
   >open registration</a> for the 6th Chameleon User Meeting (Boulder, CO, April 15-16),\
   \ a reminder to submit to the <a href=\"https://chameleoncloud.org/blog/2025/12/13/call-for-presentations-chameleon-user-meeting-2026/\"\
-  >call for presentations</a>, and <a href=\"http://chameleoncloud.org/learn/webinars\"\
+  >call for presentations</a>, and <a href=\"https://chameleoncloud.org/learn/webinars\"\
   >upcoming webinars</a> (next up: <a href=\"https://uchicago.zoom.us/webinar/register/WN_Irf32cHvRM-78QW2EZ0W-w\"\
   >How to Use CHI@Edge to Enable Edge to Cloud Experimentation</a> on Feb. 17th).</p>"
 authors:
@@ -15,7 +15,7 @@ categories:
 date: '2026-02-02 21:08:27+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/df/b7/dfb73484-5466-401e-ae7a-db9d9902e832/chameleon_feb_2026.jpg
+image: https://chameleoncloud.org/media/filer_public/df/b7/dfb73484-5466-401e-ae7a-db9d9902e832/chameleon_feb_2026.jpg
 related_posts: []
 slug: chameleon-newsletter-changelog-january-2026
 subtitle: Testbed updates, new features, webinars, and other exciting news from our
@@ -25,7 +25,7 @@ title: Chameleon Newsletter & Changelog - January 2026
 
 <p style="text-align: center;"><img src="https://chameleoncloud.org/media/filer_public/df/b7/dfb73484-5466-401e-ae7a-db9d9902e832/chameleon_feb_2026.jpg" width="600"></p>
 
-<p>2026 is in full swing now. The Chameleon team in Chicago is struggling to keep warm, but the cold isn’t slowing down our momentum as we enter a new year. This newsletter brings upcoming changes to Trovi and the appliance catalog, with announcements about <a href="https://chameleoncloud.org/blog/2026/01/30/join-us-in-boulder-co-registration-now-open-for-6th-chameleon-user-meeting/">open registration</a> for the 6th Chameleon User Meeting (Boulder, CO, April 15-16), a reminder to submit to the <a href="https://chameleoncloud.org/blog/2025/12/13/call-for-presentations-chameleon-user-meeting-2026/">call for presentations</a>, and <a href="http://chameleoncloud.org/learn/webinars">upcoming webinars</a> (next up: <a href="https://uchicago.zoom.us/webinar/register/WN_Irf32cHvRM-78QW2EZ0W-w">How to Use CHI@Edge to Enable Edge to Cloud Experimentation</a> on Feb. 17th).</p>
+<p>2026 is in full swing now. The Chameleon team in Chicago is struggling to keep warm, but the cold isn’t slowing down our momentum as we enter a new year. This newsletter brings upcoming changes to Trovi and the appliance catalog, with announcements about <a href="https://chameleoncloud.org/blog/2026/01/30/join-us-in-boulder-co-registration-now-open-for-6th-chameleon-user-meeting/">open registration</a> for the 6th Chameleon User Meeting (Boulder, CO, April 15-16), a reminder to submit to the <a href="https://chameleoncloud.org/blog/2025/12/13/call-for-presentations-chameleon-user-meeting-2026/">call for presentations</a>, and <a href="https://chameleoncloud.org/learn/webinars">upcoming webinars</a> (next up: <a href="https://uchicago.zoom.us/webinar/register/WN_Irf32cHvRM-78QW2EZ0W-w">How to Use CHI@Edge to Enable Edge to Cloud Experimentation</a> on Feb. 17th).</p>
 
 <h1>Community News &amp; Resources</h1>
 
@@ -74,6 +74,6 @@ title: Chameleon Newsletter & Changelog - January 2026
 	</tbody>
 </table>
 
-<p>Keep an eye on our <a href="http://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months.</p>
+<p>Keep an eye on our <a href="https://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months.</p>
 
 <p> </p>

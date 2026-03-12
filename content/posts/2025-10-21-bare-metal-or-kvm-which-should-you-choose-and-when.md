@@ -13,7 +13,7 @@ categories:
 date: '2025-10-21 20:49:14+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/51/c8/51c8abe2-e544-45cc-a442-5fe108795396/group_8.png
+image: https://chameleoncloud.org/media/filer_public/51/c8/51c8abe2-e544-45cc-a442-5fe108795396/group_8.png
 related_posts:
 - slug: accelerate-your-research-with-nvidia-h100-gpus-on-kvmtacc
   title: Accelerate Your Research with NVIDIA H100 GPUs on KVM@TACC

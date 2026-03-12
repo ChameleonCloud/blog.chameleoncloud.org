@@ -10,7 +10,7 @@ categories:
 date: '2023-03-01 22:41:57+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/17/e2/17e29bf9-4b67-4f72-bfaf-185322ea1415/juan-carlos-fernandez-rodriguez-lidrieeo4d0-unsplash.jpg
+image: https://chameleoncloud.org/media/filer_public/17/e2/17e29bf9-4b67-4f72-bfaf-185322ea1415/juan-carlos-fernandez-rodriguez-lidrieeo4d0-unsplash.jpg
 related_posts: []
 slug: chameleon-changelog-for-february-2023
 subtitle: ''

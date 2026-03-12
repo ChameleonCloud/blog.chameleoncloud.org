@@ -12,7 +12,7 @@ categories:
 date: '2022-02-01 22:26:47+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/f4/9f/f49fe1d2-6587-42f0-95fc-a4133d01b366/group_1.png
+image: https://chameleoncloud.org/media/filer_public/f4/9f/f49fe1d2-6587-42f0-95fc-a4133d01b366/group_1.png
 related_posts: []
 slug: chameleon-changelog-for-january-2022
 subtitle: ''

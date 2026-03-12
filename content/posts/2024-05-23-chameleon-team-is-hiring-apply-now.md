@@ -9,7 +9,7 @@ categories:
 date: '2024-05-23 19:06:46+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/51/1d/511d0d87-5ae4-4457-8121-e713be049c5f/chameleon-at-work.png
+image: https://chameleoncloud.org/media/filer_public/51/1d/511d0d87-5ae4-4457-8121-e713be049c5f/chameleon-at-work.png
 related_posts: []
 slug: chameleon-team-is-hiring-apply-now
 subtitle: Seeking out a talented Senior Research Software Engineer to boost our team

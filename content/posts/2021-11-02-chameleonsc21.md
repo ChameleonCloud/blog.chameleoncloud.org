@@ -9,7 +9,7 @@ categories:
 date: '2021-11-02 22:37:59+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/c4/d0/c4d08b40-f31b-4c0a-ab39-a05e32e673fb/sc21_og_fb1200x630.png
+image: https://chameleoncloud.org/media/filer_public/c4/d0/c4d08b40-f31b-4c0a-ab39-a05e32e673fb/sc21_og_fb1200x630.png
 related_posts: []
 slug: chameleonsc21
 subtitle: ''

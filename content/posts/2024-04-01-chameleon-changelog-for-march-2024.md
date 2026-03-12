@@ -9,7 +9,7 @@ categories:
 date: '2024-04-01 22:14:12+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/2e/18/2e18c9db-23c5-4eb2-b11e-b13bacee0114/2024_march_changelog.jpg
+image: https://chameleoncloud.org/media/filer_public/2e/18/2e18c9db-23c5-4eb2-b11e-b13bacee0114/2024_march_changelog.jpg
 related_posts: []
 slug: chameleon-changelog-for-march-2024
 subtitle: ''

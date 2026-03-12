@@ -11,7 +11,7 @@ categories:
 date: '2024-01-16 18:08:09+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/0e/ec/0eec0c6f-c7f5-4e26-9938-db9126323cb4/dalle_2024-01-16_120534.png
+image: https://chameleoncloud.org/media/filer_public/0e/ec/0eec0c6f-c7f5-4e26-9938-db9126323cb4/dalle_2024-01-16_120534.png
 related_posts:
 - slug: 2021-chameleon-user-survey
   title: 2021 Chameleon User Survey

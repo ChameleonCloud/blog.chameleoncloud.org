@@ -9,7 +9,7 @@ categories:
 date: '2021-12-21 00:44:32+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/28/57/28570fc7-d67e-4ce5-bea5-b34ec623506e/pegasus.png
+image: https://chameleoncloud.org/media/filer_public/28/57/28570fc7-d67e-4ce5-bea5-b34ec623506e/pegasus.png
 related_posts: []
 slug: pegasus-at-the-edge
 subtitle: ''

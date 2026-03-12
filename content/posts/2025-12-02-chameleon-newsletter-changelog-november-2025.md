@@ -1,7 +1,7 @@
 ---
 abstract: "<p dir=\"ltr\">This month brings exciting updates including enhanced hardware\
   \ browser integration, CHI@Edge stability improvements, and expanded support for\
-  \ distributed training on AMD GPUs, along with announcements about <a href=\"http://chameleoncloud.org/learn/webinars\"\
+  \ distributed training on AMD GPUs, along with announcements about <a href=\"https://chameleoncloud.org/learn/webinars\"\
   >upcoming webinars</a> and our <a href=\"https://chameleoncloud.org/blog/2025/11/13/save-the-date-sixth-chameleon-user-meeting-april-15-16-2026-boulder-co/\"\
   >sixth user meeting at NCAR\u2019s campus in Boulder</a>.</p>"
 authors:
@@ -11,7 +11,7 @@ categories:
 date: '2025-12-02 22:14:04+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/45/ab/45ab956c-92bc-4375-b5cd-eb480bda1831/54227546483_d8ec90edd8_w.jpg
+image: https://chameleoncloud.org/media/filer_public/45/ab/45ab956c-92bc-4375-b5cd-eb480bda1831/54227546483_d8ec90edd8_w.jpg
 related_posts:
 - slug: chameleon-newsletter-changelog-october-2025
   title: Chameleon Newsletter & Changelog - October 2025
@@ -24,7 +24,7 @@ title: Chameleon Newsletter & Changelog - November 2025
 <p style="text-align: center;"><img src="https://chameleoncloud.org/media/filer_public/45/ab/45ab956c-92bc-4375-b5cd-eb480bda1831/54227546483_d8ec90edd8_w.jpg"><br>
 <a href="https://www.flickr.com/photos/196141305@N06/54227546483/in/photolist-2r9r2AC-2r7SSq3-2qCRKVv-2qCK4FS-2qCPDNF-2qCPDMP-2qBVYTm-2qBVYTr-2qBNtWa-2qBUnjc-2qBNtG2-2qBVa2A-2qBT8sZ-2qBV9iS-2qBUixU-2qBUisJ-2qBUmem-2qBNy3X-2qBUryE-2qBUrpM-2qBUogS-2qBVdDa-2qBTco4-2qBUqWs-2qBTca8-2qBUqHG-2qBUnFU-2qBUpVj-2qBNw4r-2qBTaYv-2qBVc5i-2qBUmiZ-2qBUoPS-2qBUoMN-2qBTa5M-2qBUosu-2qBVbaC-2qBNuKz-2qBVb5h-2qBUoeP-2qBNuDT-2qBVaFS-2qBVaFw-2qBT99U-2qBVawZ-2qBT981-2qBNuaB-2qBdjK7">Rhett Butler via Flickr</a></p>
 
-<p>Welcome to the November Chameleon newsletter! This month brings exciting updates including enhanced hardware browser integration, CHI@Edge stability improvements, and expanded support for distributed training on AMD GPUs, along with announcements about <a href="http://chameleoncloud.org/learn/webinars">upcoming webinars</a> and our <a href="https://chameleoncloud.org/blog/2025/11/13/save-the-date-sixth-chameleon-user-meeting-april-15-16-2026-boulder-co/">sixth user meeting at NCAR’s campus in Boulder</a>.</p>
+<p>Welcome to the November Chameleon newsletter! This month brings exciting updates including enhanced hardware browser integration, CHI@Edge stability improvements, and expanded support for distributed training on AMD GPUs, along with announcements about <a href="https://chameleoncloud.org/learn/webinars">upcoming webinars</a> and our <a href="https://chameleoncloud.org/blog/2025/11/13/save-the-date-sixth-chameleon-user-meeting-april-15-16-2026-boulder-co/">sixth user meeting at NCAR’s campus in Boulder</a>.</p>
 
 <h1>Changelog</h1>
 
@@ -76,7 +76,7 @@ title: Chameleon Newsletter & Changelog - November 2025
 
 <p> </p>
 
-<p>Keep an eye on our <a href="http://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months.</p>
+<p>Keep an eye on our <a href="https://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months.</p>
 
 <h1>Community News &amp; Resources</h1>
 

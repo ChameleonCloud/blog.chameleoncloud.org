@@ -14,7 +14,7 @@ categories:
 date: '2021-08-27 15:05:34+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/00/12/00120af7-64bd-435a-a3b4-4bf73d4b355b/dino-croppedjpg__1170x1170_q85_crop_subsampling-2_upscale.jpg
+image: https://chameleoncloud.org/media/filer_public/00/12/00120af7-64bd-435a-a3b4-4bf73d4b355b/dino-croppedjpg__1170x1170_q85_crop_subsampling-2_upscale.jpg
 related_posts: []
 slug: chameleonedge-community-workshop
 subtitle: ''

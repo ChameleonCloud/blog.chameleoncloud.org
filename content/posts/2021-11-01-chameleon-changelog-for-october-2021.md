@@ -11,7 +11,7 @@ categories:
 date: '2021-11-01 22:56:47+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/9a/50/9a501577-7fad-4b2d-8be1-9b2a189e2be6/chi_uc_p3.jpg
+image: https://chameleoncloud.org/media/filer_public/9a/50/9a501577-7fad-4b2d-8be1-9b2a189e2be6/chi_uc_p3.jpg
 related_posts: []
 slug: chameleon-changelog-for-october-2021
 subtitle: ''

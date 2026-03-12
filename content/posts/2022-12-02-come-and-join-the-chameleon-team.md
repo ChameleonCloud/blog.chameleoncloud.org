@@ -13,7 +13,7 @@ categories:
 date: '2022-12-02 00:16:43+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/c4/e3/c4e301a7-0fea-47a6-8c24-0557c38e604d/hiring.jpeg
+image: https://chameleoncloud.org/media/filer_public/c4/e3/c4e301a7-0fea-47a6-8c24-0557c38e604d/hiring.jpeg
 related_posts: []
 slug: come-and-join-the-chameleon-team
 subtitle: ''

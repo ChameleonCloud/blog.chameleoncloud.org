@@ -9,7 +9,7 @@ categories:
 date: '2022-12-12 18:01:47+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/f0/20/f02006b1-afb1-4582-993e-f9e9e3ae5d54/christmas-santa-vintage-letter.jpg
+image: https://chameleoncloud.org/media/filer_public/f0/20/f02006b1-afb1-4582-993e-f9e9e3ae5d54/christmas-santa-vintage-letter.jpg
 related_posts:
 - slug: tickets-of-the-year-2021-edition
   title: 'Tickets of the Year: 2021 Edition'

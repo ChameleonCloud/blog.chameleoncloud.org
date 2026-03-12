@@ -11,7 +11,7 @@ categories:
 date: '2024-09-03 21:22:02+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/e9/00/e9003369-18e4-4ced-8604-a10e7d6fa2c7/dsc00537_1.jpg
+image: https://chameleoncloud.org/media/filer_public/e9/00/e9003369-18e4-4ced-8604-a10e7d6fa2c7/dsc00537_1.jpg
 related_posts: []
 slug: chameleon-changelog-for-august-2024
 subtitle: ''

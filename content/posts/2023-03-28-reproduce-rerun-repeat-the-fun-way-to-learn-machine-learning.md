@@ -7,7 +7,7 @@ categories:
 date: '2023-03-28 21:34:23+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/fe/f6/fef6b9f0-0703-4a5b-9c57-69b81039c301/repro-diagram.png
+image: https://chameleoncloud.org/media/filer_public/fe/f6/fef6b9f0-0703-4a5b-9c57-69b81039c301/repro-diagram.png
 related_posts: []
 slug: reproduce-rerun-repeat-the-fun-way-to-learn-machine-learning
 subtitle: ''

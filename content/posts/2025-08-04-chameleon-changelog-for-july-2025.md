@@ -12,7 +12,7 @@ categories:
 date: '2025-08-04 14:32:26+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/bc/54/bc54607f-0d5e-4060-996c-087b2da5ef86/54680578838_af0a05f319_w.jpg
+image: https://chameleoncloud.org/media/filer_public/bc/54/bc54607f-0d5e-4060-996c-087b2da5ef86/54680578838_af0a05f319_w.jpg
 related_posts: []
 slug: chameleon-changelog-for-july-2025
 subtitle: ''

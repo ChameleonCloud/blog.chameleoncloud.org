@@ -9,7 +9,7 @@ categories:
 date: '2025-11-03 22:49:32+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/d4/b0/d4b00b88-60b5-425e-9a69-2bd1ea8dbb95/chameleon_nov_2025.jpg
+image: https://chameleoncloud.org/media/filer_public/d4/b0/d4b00b88-60b5-425e-9a69-2bd1ea8dbb95/chameleon_nov_2025.jpg
 related_posts:
 - slug: chameleon-changelog-for-september-2025
   title: Chameleon Changelog for September 2025
@@ -67,7 +67,7 @@ title: Chameleon Newsletter & Changelog - October 2025
 
 <p><em>The Chameleon team hosts <a href="https://chameleoncloud.org/learn/webinars/">webinars</a> on a variety of topics ranging from how to use the testbed to showcasing specific tools, research workflows, and educational projects that users built on Chameleon. Register for an upcoming webinar below! All our past webinars are available to view on the <a href="https://www.youtube.com/channel/UCVP_TxAjuCiMoQRxC68Pt_A/">Chameleon Youtube channel</a>.</em></p>
 
-<p><em>If you've developed artifacts or tools that could make research or teaching on Chameleon easier for others and are interested in presenting a webinar on that work, we'd love to hear from you! Reach out to us at the <a href="http://chameleoncloud.org/user/help">Help Desk</a> to discuss your ideas.</em></p>
+<p><em>If you've developed artifacts or tools that could make research or teaching on Chameleon easier for others and are interested in presenting a webinar on that work, we'd love to hear from you! Reach out to us at the <a href="https://chameleoncloud.org/user/help">Help Desk</a> to discuss your ideas.</em></p>
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-family: Arial, sans-serif;">
 	<thead>
@@ -91,7 +91,7 @@ title: Chameleon Newsletter & Changelog - October 2025
 	</tbody>
 </table>
 
-<p>Keep an eye on our <a href="http://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months. We already have two additional webinars scheduled for future months on creating MPI appliances and organizing artifact evaluations on Chameleon for HPC and computer systems.</p>
+<p>Keep an eye on our <a href="https://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months. We already have two additional webinars scheduled for future months on creating MPI appliances and organizing artifact evaluations on Chameleon for HPC and computer systems.</p>
 </section>
 
 <section>
@@ -105,7 +105,7 @@ title: Chameleon Newsletter & Changelog - October 2025
 
 <p><em>Featured news and resources from Chameleon users for this month.</em></p>
 
-<p>This month, we are excited to feature a <a href="https://trovi.chameleoncloud.org/dashboard/artifacts/7424a8dc-0688-4383-9d67-1e40ff37de17"><strong>NEW Trovi artifact</strong></a> that Chameleon user Ken Raffenetti (ANL) and his student, Rohan Babbar (University of Delhi), built during the <a href="http://repeto.cs.uchicago.edu/sor">Summer of Reproducibility 2025</a>. This artifact is the focus of an <a href="http://chameleoncloud.org/learn/webinars">upcoming webinar</a> on MPI appliances in December 2025 that Ken Raffanetti will lead. The webinar will walkthrough the details of using the MPI artifact to <strong>set up a ready-to-use HPC cluster in the cloud</strong> with required libraries for running and managing MPI-based applications. Try it out and then come to the <a href="https://uchicago.zoom.us/webinar/register/WN_8fFbWZ7GQGaIz41NtN5CQw">webinar</a> to share your questions and feedback!</p>
+<p>This month, we are excited to feature a <a href="https://trovi.chameleoncloud.org/dashboard/artifacts/7424a8dc-0688-4383-9d67-1e40ff37de17"><strong>NEW Trovi artifact</strong></a> that Chameleon user Ken Raffenetti (ANL) and his student, Rohan Babbar (University of Delhi), built during the <a href="http://repeto.cs.uchicago.edu/sor">Summer of Reproducibility 2025</a>. This artifact is the focus of an <a href="https://chameleoncloud.org/learn/webinars">upcoming webinar</a> on MPI appliances in December 2025 that Ken Raffanetti will lead. The webinar will walkthrough the details of using the MPI artifact to <strong>set up a ready-to-use HPC cluster in the cloud</strong> with required libraries for running and managing MPI-based applications. Try it out and then come to the <a href="https://uchicago.zoom.us/webinar/register/WN_8fFbWZ7GQGaIz41NtN5CQw">webinar</a> to share your questions and feedback!</p>
 
 <p>Lastly, don't miss out on these <strong>useful reads and resources from this month</strong>:</p>
 

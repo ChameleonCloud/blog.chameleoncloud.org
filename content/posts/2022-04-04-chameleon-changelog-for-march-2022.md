@@ -8,7 +8,7 @@ categories:
 date: '2022-04-04 22:54:50+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/80/b7/80b7c541-1374-49ec-842a-19637afa0629/screen_shot_2022-04-05_at_95145_am.png
+image: https://chameleoncloud.org/media/filer_public/80/b7/80b7c541-1374-49ec-842a-19637afa0629/screen_shot_2022-04-05_at_95145_am.png
 related_posts: []
 slug: chameleon-changelog-for-march-2022
 subtitle: ''

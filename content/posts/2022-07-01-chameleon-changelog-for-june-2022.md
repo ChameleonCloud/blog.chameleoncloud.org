@@ -9,7 +9,7 @@ categories:
 date: '2022-07-01 14:17:51+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/a3/14/a314189a-1c07-43ae-b473-a93e21e8f0a4/july_chameleon.png
+image: https://chameleoncloud.org/media/filer_public/a3/14/a314189a-1c07-43ae-b473-a93e21e8f0a4/july_chameleon.png
 related_posts: []
 slug: chameleon-changelog-for-june-2022
 subtitle: ''

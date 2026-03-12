@@ -12,7 +12,7 @@ categories:
 date: '2023-08-01 22:29:36+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/76/ad/76ad6fde-1a8f-4941-9c92-d8127fc39341/chameleon_2.png
+image: https://chameleoncloud.org/media/filer_public/76/ad/76ad6fde-1a8f-4941-9c92-d8127fc39341/chameleon_2.png
 related_posts: []
 slug: chameleon-changelog-for-july-2023
 subtitle: ''

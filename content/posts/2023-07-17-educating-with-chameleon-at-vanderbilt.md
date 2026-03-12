@@ -13,7 +13,7 @@ categories:
 date: '2023-07-17 17:00:00+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/3d/3d/3d3dc1aa-7791-41ce-a621-31389d46ea12/lecture.png
+image: https://chameleoncloud.org/media/filer_public/3d/3d/3d3dc1aa-7791-41ce-a621-31389d46ea12/lecture.png
 related_posts: []
 slug: educating-with-chameleon-at-vanderbilt
 subtitle: ''

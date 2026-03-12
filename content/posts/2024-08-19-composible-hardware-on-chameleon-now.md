@@ -13,7 +13,7 @@ categories:
 date: '2024-08-19 20:14:54+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/0c/d0/0cd0107c-c751-4b74-8252-8f207a9728b9/uc-hardware.png
+image: https://chameleoncloud.org/media/filer_public/0c/d0/0cd0107c-c751-4b74-8252-8f207a9728b9/uc-hardware.png
 related_posts:
 - slug: chameleon-testbed-secures-12-million-in-funding-for-phase-4
   title: Chameleon Testbed Secures $12 Million in Funding for Phase 4

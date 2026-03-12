@@ -12,7 +12,7 @@ categories:
 date: '2025-09-30 18:38:27+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/49/1a/491aca35-f6c0-4c4d-9a43-ca4ce7946107/echoes_install.png
+image: https://chameleoncloud.org/media/filer_public/49/1a/491aca35-f6c0-4c4d-9a43-ca4ce7946107/echoes_install.png
 related_posts:
 - slug: chameleon-takes-flight-at-sc24-advancing-research-and-collaboration
   title: 'Chameleon Takes Flight at SC24: Advancing Research and Collaboration'
@@ -77,4 +77,4 @@ title: 'Student Spotlight: Three Chameleon Projects Heading to SC''25'
 <hr>
 <p>These projects demonstrate the diverse capabilities of the Chameleon testbed—from supporting edge computing and real-time data processing to enabling large-scale performance benchmarking and GPU-accelerated AI workloads. The students' innovative approaches to real-world problems showcase how Chameleon empowers the next generation of researchers.</p>
 
-<p>Join us at SC'25 in St. Louis this November to see these posters in person at the ACM Student Research Competition. Stop by to meet the students, learn more about their work, and discover what's possible with Chameleon. And don't miss Kate Keahey's presentation at the EduHPC workshop discussing our <a href="https://nimbusproject.org/wp-content/uploads/sites/116/2025/09/The_Cost_of_Teaching_Operational_ML_EduHPC.pdf">recent paper with Chameleon User Fraida Fund</a> on her experiences and lessons learned from teaching a 200-student course on machine learning operations with the testbed in Spring 2025. She is hosting a <a href="http://chameleoncloud.org/learn/webinars">webinar</a> on this experience as well on Nov. 25th, 2025. <strong><a href="https://uchicago.zoom.us/webinar/register/WN_ZN4PtuwhTY-lwG1SY6ICWA">Register here</a></strong>!</p>
+<p>Join us at SC'25 in St. Louis this November to see these posters in person at the ACM Student Research Competition. Stop by to meet the students, learn more about their work, and discover what's possible with Chameleon. And don't miss Kate Keahey's presentation at the EduHPC workshop discussing our <a href="https://nimbusproject.org/wp-content/uploads/sites/116/2025/09/The_Cost_of_Teaching_Operational_ML_EduHPC.pdf">recent paper with Chameleon User Fraida Fund</a> on her experiences and lessons learned from teaching a 200-student course on machine learning operations with the testbed in Spring 2025. She is hosting a <a href="https://chameleoncloud.org/learn/webinars">webinar</a> on this experience as well on Nov. 25th, 2025. <strong><a href="https://uchicago.zoom.us/webinar/register/WN_ZN4PtuwhTY-lwG1SY6ICWA">Register here</a></strong>!</p>

@@ -11,7 +11,7 @@ categories:
 date: '2024-10-21 20:02:10+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/4b/65/4b65fb1e-abac-4f3b-9997-ad09d9f7e109/stoica-bogdan-resize-250x250.jpg
+image: https://chameleoncloud.org/media/filer_public/4b/65/4b65fb1e-abac-4f3b-9997-ad09d9f7e109/stoica-bogdan-resize-250x250.jpg
 related_posts:
 - slug: alert-accurate-anytime-learning-for-energy-and-timeliness-in-software-systems
   title: 'ALERT: Accurate Anytime Learning for energy and timeliness in software systems'

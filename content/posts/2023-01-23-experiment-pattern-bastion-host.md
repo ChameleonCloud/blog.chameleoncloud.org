@@ -9,7 +9,7 @@ categories:
 date: '2023-01-23 17:04:39+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/a3/74/a374ce7b-6d1e-4dc3-b989-d3410c30cd3d/high_castle_and_bastions_in_malbork.jpg
+image: https://chameleoncloud.org/media/filer_public/a3/74/a374ce7b-6d1e-4dc3-b989-d3410c30cd3d/high_castle_and_bastions_in_malbork.jpg
 related_posts:
 - slug: best-practices-making-your-experiments-secure
   title: Best Practices for Making Your Experiments Secure

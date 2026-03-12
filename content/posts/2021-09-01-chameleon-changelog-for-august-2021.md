@@ -10,7 +10,7 @@ categories:
 date: '2021-09-01 23:09:28+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/cb/a5/cba50b97-73c8-4048-9afd-90e052ed1b9b/15751_5a.jpg
+image: https://chameleoncloud.org/media/filer_public/cb/a5/cba50b97-73c8-4048-9afd-90e052ed1b9b/15751_5a.jpg
 related_posts: []
 slug: chameleon-changelog-for-august-2021
 subtitle: ''

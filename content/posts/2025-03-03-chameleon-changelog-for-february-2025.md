@@ -9,7 +9,7 @@ categories:
 date: '2025-03-03 23:00:24+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/f4/03/f4031955-8fa9-4649-9089-231b3fb18731/54360124363_333796a2b0_w.jpg
+image: https://chameleoncloud.org/media/filer_public/f4/03/f4031955-8fa9-4649-9089-231b3fb18731/54360124363_333796a2b0_w.jpg
 related_posts: []
 slug: chameleon-changelog-for-february-2025
 subtitle: ''

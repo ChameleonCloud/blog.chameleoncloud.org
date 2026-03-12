@@ -13,7 +13,7 @@ categories:
 date: '2021-08-03 15:07:52+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/5c/c3/5cc37301-b443-4c64-bbba-60e9c01fa08e/pxfuelcom1.jpg
+image: https://chameleoncloud.org/media/filer_public/5c/c3/5cc37301-b443-4c64-bbba-60e9c01fa08e/pxfuelcom1.jpg
 related_posts: []
 slug: chameleon-changelog-july-2021
 subtitle: ''

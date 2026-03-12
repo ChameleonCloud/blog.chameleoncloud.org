@@ -15,7 +15,7 @@ categories:
 date: '2022-11-04 19:40:58+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/10/e4/10e4039d-4562-4409-96d8-63258f955c34/image_2.png
+image: https://chameleoncloud.org/media/filer_public/10/e4/10e4039d-4562-4409-96d8-63258f955c34/image_2.png
 related_posts: []
 slug: indyscc-2022-on-chameleon
 subtitle: ''

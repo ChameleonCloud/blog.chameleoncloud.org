@@ -10,7 +10,7 @@ categories:
 date: '2022-01-04 19:45:21+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/3f/f5/3ff5a652-a869-45f9-8d9f-9deb313c50f8/img_5895.jpeg
+image: https://chameleoncloud.org/media/filer_public/3f/f5/3ff5a652-a869-45f9-8d9f-9deb313c50f8/img_5895.jpeg
 related_posts: []
 slug: chameleon-changelog-for-december-2021
 subtitle: ''

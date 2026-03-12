@@ -15,7 +15,7 @@ categories:
 date: '2026-01-30 18:52:59+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/6f/d0/6fd04df3-2a41-4293-b0a9-2c53ad5ed87c/mesa_lab.png
+image: https://chameleoncloud.org/media/filer_public/6f/d0/6fd04df3-2a41-4293-b0a9-2c53ad5ed87c/mesa_lab.png
 related_posts:
 - slug: call-for-presentations-chameleon-user-meeting-2026
   title: 'Call for Presentations: Chameleon User Meeting 2026'

@@ -14,7 +14,7 @@ categories:
 date: '2025-05-01 15:20:10+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/b2/34/b234b2c5-a2ec-4699-8a78-99d6facc0e90/cwpr2024.jpeg
+image: https://chameleoncloud.org/media/filer_public/b2/34/b234b2c5-a2ec-4699-8a78-99d6facc0e90/cwpr2024.jpeg
 related_posts:
 - slug: importing-github-repositories-to-trovi-a-step-by-step-guide
   title: 'Importing GitHub Repositories to Trovi: A Step-by-Step Guide'
@@ -47,6 +47,6 @@ title: REPETO Releases Report on Challenges of Practical Reproducibility for Sys
 	<li>Defining reproducibility conditions</li>
 </ul>
 
-<p>Most importantly, the report provides actionable recommendations for authors, reviewers, organizations, and the broader community, including detailed checklists for experiment packaging and style guidelines that can immediately improve artifact quality. This work was supported by the National Science Foundation <a href="http://repeto.cs.uchicago.edu">REPETO project</a> (NSF award 2226406) and indirectly by the <a href="http://chameleoncloud.org">Chameleon project</a> (NSF award 2027170). </p>
+<p>Most importantly, the report provides actionable recommendations for authors, reviewers, organizations, and the broader community, including detailed checklists for experiment packaging and style guidelines that can immediately improve artifact quality. This work was supported by the National Science Foundation <a href="http://repeto.cs.uchicago.edu">REPETO project</a> (NSF award 2226406) and indirectly by the <a href="https://chameleoncloud.org">Chameleon project</a> (NSF award 2027170). </p>
 
 <p><img alt="" height="450" src="https://www.chameleoncloud.org/media/filer_public/b2/34/b234b2c5-a2ec-4699-8a78-99d6facc0e90/cwpr2024.jpeg" width="600"></p>

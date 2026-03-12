@@ -10,7 +10,7 @@ categories:
 date: '2026-03-02 22:54:41+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/33/7b/337bbae3-a02e-45d0-838a-562f93ef3728/sunira-moses-mlqzti51lta-unsplash.jpg
+image: https://chameleoncloud.org/media/filer_public/33/7b/337bbae3-a02e-45d0-838a-562f93ef3728/sunira-moses-mlqzti51lta-unsplash.jpg
 related_posts:
 - slug: chameleon-newsletter-changelog-january-2026
   title: Chameleon Newsletter & Changelog - January 2026
@@ -81,4 +81,4 @@ title: Chameleon Newsletter & Changelog February 2026
 	</tbody>
 </table>
 
-<p>Keep an eye on our <a href="http://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months.</p>
+<p>Keep an eye on our <a href="https://chameleoncloud.org/learn/webinars">webinar calendar</a> as we announce new webinars for upcoming months.</p>

@@ -10,7 +10,7 @@ categories:
 date: '2021-07-28 17:09:46+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/0b/73/0b73c49f-69c9-4f51-9a68-3b18474b4607/screen_shot_2021-07-28_at_100905_am.png
+image: https://chameleoncloud.org/media/filer_public/0b/73/0b73c49f-69c9-4f51-9a68-3b18474b4607/screen_shot_2021-07-28_at_100905_am.png
 related_posts: []
 slug: reproducibility-chameleon-trovi-meets-youtube
 subtitle: ''

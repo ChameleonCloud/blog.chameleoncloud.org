@@ -11,7 +11,7 @@ categories:
 date: '2022-03-02 00:12:31+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/dc/1f/dc1f5f54-4074-4f45-8eac-827eadcde53b/group_2.png
+image: https://chameleoncloud.org/media/filer_public/dc/1f/dc1f5f54-4074-4f45-8eac-827eadcde53b/group_2.png
 related_posts: []
 slug: chameleon-changelog-for-february-2022
 subtitle: ''

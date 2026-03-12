@@ -12,7 +12,7 @@ categories:
 date: '2021-11-12 17:19:11+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/9b/37/9b375f59-cc2d-4cff-8397-37abe719e233/screen_shot_2021-11-12_at_61810_pm.png
+image: https://chameleoncloud.org/media/filer_public/9b/37/9b375f59-cc2d-4cff-8397-37abe719e233/screen_shot_2021-11-12_at_61810_pm.png
 related_posts: []
 slug: summary-of-indyscc-2021-chameleon-usage
 subtitle: ''

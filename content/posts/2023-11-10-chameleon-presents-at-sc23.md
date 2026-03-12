@@ -15,7 +15,7 @@ categories:
 date: '2023-11-10 23:05:12+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/ac/c8/acc8c67f-9e2c-40b6-be48-5e5655810a9d/sc23_ver_blackcolor4x.png
+image: https://chameleoncloud.org/media/filer_public/ac/c8/acc8c67f-9e2c-40b6-be48-5e5655810a9d/sc23_ver_blackcolor4x.png
 related_posts:
 - slug: chameleon-at-sc-23
   title: Chameleon at SC '23

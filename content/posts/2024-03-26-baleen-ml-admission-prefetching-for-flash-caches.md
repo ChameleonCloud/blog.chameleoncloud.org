@@ -13,7 +13,7 @@ categories:
 date: '2024-03-26 16:52:05+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/2c/bd/2cbdb44b-4a01-4356-ad17-d3a140a60649/image5.jpg
+image: https://chameleoncloud.org/media/filer_public/2c/bd/2cbdb44b-4a01-4356-ad17-d3a140a60649/image5.jpg
 related_posts:
 - slug: metis-unleashed-a-new-dawn-for-file-system-integrity
   title: 'Metis Unleashed: A New Dawn for File System Integrity'

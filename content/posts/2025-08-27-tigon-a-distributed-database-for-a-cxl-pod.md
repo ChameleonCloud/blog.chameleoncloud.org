@@ -15,7 +15,7 @@ categories:
 date: '2025-08-27 20:34:34+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/b6/d2/b6d24f18-c96a-4a8e-b930-b31e3e997a1a/yibo_huang.jpg
+image: https://chameleoncloud.org/media/filer_public/b6/d2/b6d24f18-c96a-4a8e-b930-b31e3e997a1a/yibo_huang.jpg
 related_posts:
 - slug: minimizing-out-of-memory-failures-in-genomics-workflow-execution
   title: Minimizing Out-of-Memory Failures in Genomics Workflow Execution

@@ -10,7 +10,7 @@ categories:
 date: '2022-02-28 16:49:30+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/35/df/35df30f9-3eac-4ee4-9f52-ac0df364d8c9/8c9a4695.jpg
+image: https://chameleoncloud.org/media/filer_public/35/df/35df30f9-3eac-4ee4-9f52-ac0df364d8c9/8c9a4695.jpg
 related_posts: []
 slug: chincar-an-interview-with-the-newest-associate-site
 subtitle: ''

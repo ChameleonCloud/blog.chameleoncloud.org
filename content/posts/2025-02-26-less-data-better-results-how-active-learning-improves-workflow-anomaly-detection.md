@@ -9,7 +9,7 @@ categories:
 date: '2025-02-26 22:14:53+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/79/b6/79b6b3dd-ddcd-4794-b4aa-4309a63d0edc/screenshot_2025-02-26_at_40629pm.png
+image: https://chameleoncloud.org/media/filer_public/79/b6/79b6b3dd-ddcd-4794-b4aa-4309a63d0edc/screenshot_2025-02-26_at_40629pm.png
 related_posts:
 - slug: if-at-first-you-dont-succeed-try-try-again-insights-and-llm-informed-tooling-for-detecting-retry-bugs-in-software-systems
   title: If At First You Don't Succeed, Try, Try, Again...? Insights and LLM-Informed

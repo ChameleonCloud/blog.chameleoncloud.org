@@ -11,7 +11,7 @@ categories:
 date: '2021-10-18 17:05:35+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/5f/36/5f36126d-a47d-42b8-8113-490c3cd2f0d3/screen_shot_2021-10-18_at_65547_pm.png
+image: https://chameleoncloud.org/media/filer_public/5f/36/5f36126d-a47d-42b8-8113-490c3cd2f0d3/screen_shot_2021-10-18_at_65547_pm.png
 related_posts: []
 slug: alert-accurate-anytime-learning-for-energy-and-timeliness-in-software-systems
 subtitle: ''

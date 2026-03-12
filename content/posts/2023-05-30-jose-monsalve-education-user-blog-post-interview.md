@@ -13,7 +13,7 @@ categories: []
 date: '2023-05-30 21:28:38+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/f8/d3/f8d3639c-1e2a-4ac2-aeaf-213653b88998/jose.jpeg
+image: https://chameleoncloud.org/media/filer_public/f8/d3/f8d3639c-1e2a-4ac2-aeaf-213653b88998/jose.jpeg
 related_posts: []
 slug: jose-monsalve-education-user-blog-post-interview
 subtitle: ''

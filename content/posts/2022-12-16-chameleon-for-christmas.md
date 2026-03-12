@@ -14,7 +14,7 @@ categories:
 date: '2022-12-16 00:35:19+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/29/1e/291e5086-18e6-4126-8533-f57fbfd39257/chameleon-solo-christmas_medium.png
+image: https://chameleoncloud.org/media/filer_public/29/1e/291e5086-18e6-4126-8533-f57fbfd39257/chameleon-solo-christmas_medium.png
 related_posts: []
 slug: chameleon-for-christmas
 subtitle: ''

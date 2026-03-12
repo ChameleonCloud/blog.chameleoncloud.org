@@ -11,7 +11,7 @@ categories:
 date: '2025-09-15 18:02:30+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/f3/77/f377c6f9-de57-45ff-9487-12224af93f28/head.jpg
+image: https://chameleoncloud.org/media/filer_public/f3/77/f377c6f9-de57-45ff-9487-12224af93f28/head.jpg
 related_posts:
 - slug: chameleon-changelog-for-august-2025
   title: Chameleon Changelog for August 2025
@@ -94,7 +94,7 @@ title: 'Chameleon Authentication Demystified: Common Issues and Solutions'
 
 <h3>Need Help?</h3>
 
-<p>If you're experiencing authentication issues that aren't resolved by the troubleshooting steps above, our support team is here to help. Most account-related issues can be resolved quickly with the right guidance from our <a href="http://chameleoncloud.org/help">help desk</a>.</p>
+<p>If you're experiencing authentication issues that aren't resolved by the troubleshooting steps above, our support team is here to help. Most account-related issues can be resolved quickly with the right guidance from our <a href="https://chameleoncloud.org/help">help desk</a>.</p>
 
 <p><strong>Remember:</strong> for password resets and primary account management, you'll need to work with your identity provider (your institution or Globus directly). For project access and Chameleon-specific permissions, our support team can assist you or connect you with the right project administrators.</p>
 

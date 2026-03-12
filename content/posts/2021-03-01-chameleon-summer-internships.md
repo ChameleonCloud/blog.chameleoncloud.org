@@ -9,7 +9,7 @@ categories:
 date: '2021-03-01 21:35:00+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/1c/85/1c85d371-3067-4266-9e28-092172b1f32b/cc_summer_cropped.jpg
+image: https://chameleoncloud.org/media/filer_public/1c/85/1c85d371-3067-4266-9e28-092172b1f32b/cc_summer_cropped.jpg
 related_posts: []
 slug: chameleon-summer-internships
 subtitle: ''

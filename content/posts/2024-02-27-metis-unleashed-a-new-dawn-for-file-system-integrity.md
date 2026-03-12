@@ -17,7 +17,7 @@ categories:
 date: '2024-02-27 18:42:47+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/83/63/83633785-178a-43a5-8e5f-287ffd60f5b7/author_image.jpg
+image: https://chameleoncloud.org/media/filer_public/83/63/83633785-178a-43a5-8e5f-287ffd60f5b7/author_image.jpg
 related_posts:
 - slug: chameleon-is-coming-to-fast-2024
   title: Chameleon Is Coming to FAST 2024

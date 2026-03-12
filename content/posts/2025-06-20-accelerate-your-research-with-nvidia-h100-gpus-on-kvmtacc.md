@@ -10,7 +10,7 @@ categories:
 date: '2025-06-20 17:44:12+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/b2/45/b245516b-3014-43db-868a-0a2d4e177ed8/h100_nodes.png
+image: https://chameleoncloud.org/media/filer_public/b2/45/b245516b-3014-43db-868a-0a2d4e177ed8/h100_nodes.png
 related_posts:
 - slug: teaching-cloud-computing-with-chameleon-making-complex-concepts-accessible
   title: 'Teaching Cloud Computing with Chameleon: Making Complex Concepts Accessible'

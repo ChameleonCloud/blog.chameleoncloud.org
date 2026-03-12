@@ -12,7 +12,7 @@ categories:
 date: '2025-07-21 16:53:55+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/6c/a6/6ca6e73f-68ac-42b1-be86-de51bc6d59a4/hackathon-600x400.jpg
+image: https://chameleoncloud.org/media/filer_public/6c/a6/6ca6e73f-68ac-42b1-be86-de51bc6d59a4/hackathon-600x400.jpg
 related_posts:
 - slug: chameleon-changelog-for-may-2025
   title: Chameleon Changelog for May 2025

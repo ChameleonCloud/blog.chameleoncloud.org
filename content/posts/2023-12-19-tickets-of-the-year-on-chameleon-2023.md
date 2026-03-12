@@ -9,7 +9,7 @@ categories:
 date: '2023-12-19 00:39:19+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/b3/d7/b3d7b535-0b78-49e0-ba7f-16c6f8669bcc/dalle_2023-12-18_155045_-_a_digital_illustration_featuring_a_group_of_chameleons.png
+image: https://chameleoncloud.org/media/filer_public/b3/d7/b3d7b535-0b78-49e0-ba7f-16c6f8669bcc/dalle_2023-12-18_155045_-_a_digital_illustration_featuring_a_group_of_chameleons.png
 related_posts:
 - slug: tickets-of-the-year-2022
   title: 'Tickets of the Year: 2022'

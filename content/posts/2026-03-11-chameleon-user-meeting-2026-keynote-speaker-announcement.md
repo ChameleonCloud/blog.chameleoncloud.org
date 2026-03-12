@@ -9,7 +9,7 @@ categories:
 date: '2026-03-11 17:49:38+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/3d/9c/3d9c01c4-18dc-4251-8c20-4ab247c4a3a0/valerie_taylor.jpg
+image: https://chameleoncloud.org/media/filer_public/3d/9c/3d9c01c4-18dc-4251-8c20-4ab247c4a3a0/valerie_taylor.jpg
 related_posts:
 - slug: join-us-in-boulder-co-registration-now-open-for-6th-chameleon-user-meeting
   title: Join us in Boulder, CO - Registration now OPEN for 6th Chameleon User Meeting

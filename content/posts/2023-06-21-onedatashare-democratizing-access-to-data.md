@@ -11,7 +11,7 @@ categories:
 date: '2023-06-21 21:01:30+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/1c/74/1c749ea8-a31b-4546-b74f-f9f72075a723/jacob.jpg
+image: https://chameleoncloud.org/media/filer_public/1c/74/1c749ea8-a31b-4546-b74f-f9f72075a723/jacob.jpg
 related_posts: []
 slug: onedatashare-democratizing-access-to-data
 subtitle: ''

@@ -16,7 +16,7 @@ categories:
 date: '2026-01-19 15:57:43+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/3b/44/3b440a6a-a470-4864-aee6-50b065ba3dc8/image2.png
+image: https://chameleoncloud.org/media/filer_public/3b/44/3b440a6a-a470-4864-aee6-50b065ba3dc8/image2.png
 related_posts:
 - slug: composible-hardware-on-chameleon-now
   title: Composable Hardware on Chameleon NOW!

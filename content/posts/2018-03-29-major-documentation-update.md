@@ -1,6 +1,6 @@
 ---
 abstract: <p>To better serve the user community, we have completed a major update
-  of the documentation for Chameleon. It's available at <a href="http://chameleoncloud.org/docs">http://chameleoncloud.org/docs</a></p>
+  of the documentation for Chameleon. It's available at <a href="https://chameleoncloud.org/docs">https://chameleoncloud.org/docs</a></p>
 authors:
 - Joon Yee Chuah
 categories:
@@ -15,7 +15,7 @@ subtitle: ''
 title: A (Major) Documentation Update
 ---
 
-<p>To better serve the user community, we have completed a major update of the documentation for Chameleon. It's available at <a href="http://chameleoncloud.org/docs">http://chameleoncloud.org/docs</a>. </p>
+<p>To better serve the user community, we have completed a major update of the documentation for Chameleon. It's available at <a href="https://chameleoncloud.org/docs">https://chameleoncloud.org/docs</a>. </p>
 
 <p>We want to make sure that you have an in-depth technical guide for new features that come online. With that in mind, we have reorganized the documentation with special attention to organization and consistency.</p>
 

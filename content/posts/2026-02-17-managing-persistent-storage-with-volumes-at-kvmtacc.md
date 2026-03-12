@@ -13,7 +13,7 @@ categories:
 date: '2026-02-17 21:43:41+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/7a/81/7a81f256-1aa3-421a-a293-ca93608bfc80/figure1.png
+image: https://chameleoncloud.org/media/filer_public/7a/81/7a81f256-1aa3-421a-a293-ca93608bfc80/figure1.png
 related_posts:
 - slug: bare-metal-or-kvm-which-should-you-choose-and-when
   title: Bare Metal or KVM? Which Should You Choose and When

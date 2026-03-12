@@ -13,7 +13,7 @@ categories:
 date: '2023-02-06 20:25:07+00:00'
 featured: false
 hide_image: true
-image: http://chameleoncloud.org/media/filer_public/0e/62/0e62cbbf-3456-498e-bb73-0226b0797d32/conference_image.png
+image: https://chameleoncloud.org/media/filer_public/0e/62/0e62cbbf-3456-498e-bb73-0226b0797d32/conference_image.png
 related_posts: []
 slug: save-the-date-chameleon-user-meeting
 subtitle: ''
