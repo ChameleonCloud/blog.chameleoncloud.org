@@ -90,28 +90,10 @@ h1 {
   padding-bottom: 0.3em;
 }
 
-h1::after {
-  content: "";
-  display: block;
-  width: 50px;
-  height: 3px;
-  background-color: var(--brand-info);
-  margin-top: 0.3em;
-}
-
 h2 {
   color: var(--brand-success);
   font-size: 1.5em;
   padding-bottom: 0.2em;
-}
-
-h2::after {
-  content: "";
-  display: block;
-  width: 40px;
-  height: 2px;
-  background-color: var(--brand-success);
-  margin-top: 0.25em;
 }
 
 h3 {
