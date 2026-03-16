@@ -9,7 +9,6 @@ authors:
 - Mark Powers
 categories:
 - Tips and Tricks
-- Featured
 date: '2026-02-17 21:43:41+00:00'
 featured: false
 hide_image: true
