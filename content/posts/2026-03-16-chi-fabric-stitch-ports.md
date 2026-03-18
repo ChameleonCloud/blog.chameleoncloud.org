@@ -20,8 +20,7 @@ subtitle: A Trovi artifact for cross-testbed GPU workflows using Chameleon and F
 title: 'Running LLMs on Chameleon GPUs from FABRIC via Stitch Ports'
 ---
 
-<p>What if you could combine Chameleon's bare-metal GPU servers with FABRIC's programmable network fabric — and access the GPU over a private network without ever assigning a public IP? That's exactly what Chameleon's <strong>stitch port</strong> feature enables, and we've published a Trovi artifact that demonstrates the full workflow end to end.</p>
-
+<p>What if you could combine Chameleon's bare-metal GPU servers with FABRIC's programmable network fabric — and access the GPU over a private network without ever assigning a public IP? That's exactly what Chameleon's <strong>stitch port</strong> feature enables, and we've published a <a href="https://trovi.chameleoncloud.org/dashboard/artifacts/9b738237-f9ac-4a4b-9bc5-5f4bebbf9a04">Trovi artifact that demonstrates the full workflow end to end</a>.</p>
 <p>The artifact provisions an RTX 6000 GPU server on Chameleon, connects it to a FABRIC slice over <code>fabnetv4</code>, installs Ollama with a DeepSeek-R1 model on the GPU, and queries the LLM from a FABRIC node — all through the private stitched network. You can use it as-is to run LLM inference, or adapt it as a starting point for your own cross-testbed experiments.</p>
 
 <h2>Why Stitch Ports?</h2>
@@ -31,6 +30,8 @@ title: 'Running LLMs on Chameleon GPUs from FABRIC via Stitch Ports'
 <p>This is especially valuable for GPU workloads. You get Chameleon's bare-metal GPU performance with FABRIC's network programmability, and you can orchestrate both sides from a single notebook.</p>
 
 <h2>What the Artifact Does</h2>
+
+Find the artifact on Trovi at https://trovi.chameleoncloud.org/dashboard/artifacts/9b738237-f9ac-4a4b-9bc5-5f4bebbf9a04.
 
 <p>The notebook walks through five stages:</p>
 
