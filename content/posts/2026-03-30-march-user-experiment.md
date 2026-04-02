@@ -9,6 +9,7 @@ authors:
   name: Tawhid Bhuiyan
 categories:
 - User Experiments
+- Featured
 date: '2026-03-30'
 featured: true
 hide_image: false
