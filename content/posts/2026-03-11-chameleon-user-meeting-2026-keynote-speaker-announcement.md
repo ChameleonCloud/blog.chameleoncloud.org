@@ -5,7 +5,6 @@ abstract: <p>This April, we're bringing together researchers, educators, and inf
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-03-11 17:49:38+00:00'
 featured: false
 hide_image: true

@@ -8,9 +8,8 @@ authors:
 - Ganesh C. Sankaran
 categories:
 - Tips and Tricks
-- Featured
 date: '2026-03-16 00:00:00+00:00'
-featured: true
+featured: false
 image: 'https://chameleoncloud.org/media/filer_public/80/48/8048c9bf-a0f6-4362-9dfd-4d420f9232f2/chameleon_fabric.png'
 related_posts:
 - slug: fabric-updated-trovi-example-for-using-fabric-with-chameleon

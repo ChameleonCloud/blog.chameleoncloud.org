@@ -7,7 +7,6 @@ authors:
 - M MacLeod
 categories:
 - User Experiments
-- Featured
 - Education
 date: '2026-02-24 16:26:22+00:00'
 featured: false
