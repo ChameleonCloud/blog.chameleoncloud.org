@@ -8,6 +8,7 @@ authors:
 - Marc Richardson
 categories:
 - Tips and Tricks
+- Featured
 date: '2026-04-21'
 featured: true
 hide_image: true
