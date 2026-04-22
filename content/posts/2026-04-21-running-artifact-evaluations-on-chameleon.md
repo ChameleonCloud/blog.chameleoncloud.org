@@ -12,7 +12,7 @@ categories:
 date: '2026-04-21'
 featured: true
 hide_image: true
-image: https://chameleoncloud.org/media/filer_public/6e/46/6e467660-a92d-40e7-b3c6-8f404d66643c/artifacts_over_time.png
+image: https://chameleoncloud.org/media/filer_public/ba/18/ba18782e-1296-4c59-b40f-28fb93d8a0b9/trovi_growth.png
 related_posts:
 - slug: using-chameleon-for-artifact-evaluation
   title: Using Chameleon for Artifact Evaluation
