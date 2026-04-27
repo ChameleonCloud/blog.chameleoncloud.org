@@ -57,6 +57,17 @@ title: 'OpenMCP: A Reproducible Benchmarking Harness for Evaluating Computer-Use
 
 <h2>How do you build your experiment on Chameleon?</h2>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-bottom: 1.5em;">
+  <iframe
+    src="https://www.youtube.com/embed/CBL8B3-d3IU?start=2"
+    title="OpenMCP demo — Chameleon User Meeting 2026"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
 <p>OpenMCP is fully containerized. Once an instance is provisioned, a complete experiment launches from a single configuration file with a handful of commands, and the whole setup is published as a <a href="https://trovi.chameleoncloud.org/dashboard/artifacts/31fc62a4-1996-4719-957e-4c1b4e47b1b6">Trovi artifact</a> so the environment can be reproduced on Chameleon without manual reconstruction.</p>
 
 <p>Running experiments is a straightforward process. Once the instance is provisioned, users modify one single configuration file, where they define the parameters for their experiments — selecting models, applications, agent runtime types (what the agent is allowed to do), and timeout limits, among others. Once the configuration file is ready, OpenMCP automatically brings up the necessary services according to the user's specifications and starts the experiment. During the experiment, OpenMCP collects rich data for each task: metadata, metrics, raw events (the steps taken by the agent), and GPU hardware telemetry. Users can access this data as structured JSON files, ready to be processed for analysis.</p>
