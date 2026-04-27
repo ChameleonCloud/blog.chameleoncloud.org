@@ -9,9 +9,8 @@ authors:
   name: Tawhid Bhuiyan
 categories:
 - User Experiments
-- Featured
 date: '2026-03-30'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/bf/5b/bf5b5989-81e0-463b-967b-c4037760eed0/wax-banner.png
 related_posts:
