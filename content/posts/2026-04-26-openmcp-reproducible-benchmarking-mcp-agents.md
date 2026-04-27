@@ -5,10 +5,8 @@ abstract: <p>MCP-enabled computer-use agents are proliferating faster than our a
   harness built by NYU researchers that lets anyone reproducibly evaluate MCP agents
   across diverse hardware, from H100 datacenter GPUs to a Raspberry Pi 5 at the edge.</p>
 authors:
-- slug: agustin-leon
-  name: Agustin Leon
-- slug: anup-raj-niroula
-  name: Anup Raj Niroula
+- Agustin Leon
+- Anup Raj Niroula
 categories:
 - Featured
 - User Experiments
