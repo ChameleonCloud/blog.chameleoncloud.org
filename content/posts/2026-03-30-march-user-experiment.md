@@ -5,8 +5,7 @@ abstract: <p>Data centers waste enormous performance potential because software 
   of fresh-profile performance gains from stale profiles—outperforming the state of
   the art by up to 7.86 percentage points across five real-world data center applications.</p>
 authors:
-- slug: tawhid-bhuiyan
-  name: Tawhid Bhuiyan
+- Tawhid Bhuiyan
 categories:
 - User Experiments
 date: '2026-03-30'
