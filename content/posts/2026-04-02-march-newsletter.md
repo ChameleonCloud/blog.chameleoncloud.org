@@ -6,9 +6,8 @@ abstract: <p>This month we're highlighting the last chance to register for the S
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-04-02'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/4a/1d/4a1df331-a28e-4f72-b542-1e966d389e09/laura-hayek-8_lwfkp0-zo-unsplash.jpg
 related_posts:
