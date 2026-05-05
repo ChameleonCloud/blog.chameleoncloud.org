@@ -5,7 +5,7 @@ abstract: <p>This month we're highlighting the last chance to register for the S
   improvements, and several testbed usability enhancements.</p>
 authors: []
 categories:
-- Announcements
+- Chameleon Changelog
 date: '2026-04-02'
 featured: false
 hide_image: false

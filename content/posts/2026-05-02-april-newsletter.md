@@ -6,7 +6,7 @@ abstract: <p>This month we're welcoming CHI@NCAR as a full Chameleon site with 4
   along with upcoming community events at NSDI '26.</p>
 authors:
 categories:
-- Announcements
+- Chameleon Changelog
 - Featured
 date: '2026-05-01'
 featured: true

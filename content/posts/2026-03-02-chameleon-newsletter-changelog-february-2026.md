@@ -5,7 +5,7 @@ abstract: <p>This month we're highlighting an exciting keynote announcement for 
   and python-chi.</p>
 authors: []
 categories:
-- Announcements
+- Chameleon Changelog
 date: '2026-03-02 22:54:41+00:00'
 featured: false
 hide_image: true
