@@ -8,9 +8,8 @@ authors:
 - Marc Richardson
 categories:
 - Tips and Tricks
-- Featured
 date: '2026-04-21'
-featured: true
+featured: false
 hide_image: true
 image: https://chameleoncloud.org/media/filer_public/ba/18/ba18782e-1296-4c59-b40f-28fb93d8a0b9/trovi_growth.png
 related_posts:
