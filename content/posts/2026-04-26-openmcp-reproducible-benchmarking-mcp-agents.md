@@ -8,10 +8,9 @@ authors:
 - Agustin Leon
 - Anup Raj Niroula
 categories:
-- Featured
 - User Experiments
 date: '2026-04-26'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/22/e3/22e357af-c8fa-432e-8338-2a775cef9c13/openmcp_pic2.png
 related_posts:

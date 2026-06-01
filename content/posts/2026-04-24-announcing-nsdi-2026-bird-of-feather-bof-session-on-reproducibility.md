@@ -6,9 +6,8 @@ abstract: <p>A PhD student selected through the Reproducibility Ambassador progr
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-04-24 00:00:00+00:00'
-featured: true
+featured: false
 hide_image: true
 image: https://chameleoncloud.org/media/filer_public/25/c8/25c89bc3-2ff8-4362-aa4e-04d969b61548/nsdi26-bof-banner.png
 related_posts:

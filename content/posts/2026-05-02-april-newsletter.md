@@ -7,9 +7,8 @@ abstract: <p>This month we're welcoming CHI@NCAR as a full Chameleon site with 4
 authors:
 categories:
 - Chameleon Changelog
-- Featured
 date: '2026-05-01'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/66/89/6689b9d9-5d40-4cd7-a161-239c68d1c5d5/april_chameleon_2026.jpg
 related_posts:
