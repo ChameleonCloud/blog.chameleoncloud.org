@@ -33,8 +33,6 @@ title: Chameleon Newsletter & Changelog May 2026
 
 <p><strong>New Nodes Available — Limited Time!:</strong> <strong>Ponte Vecchio GPUs</strong> are now available on Chameleon for a <strong>limited time only!</strong> More information below in the changelog.</p>
 
-<p><strong>Thunder Nodes (ARM) — Let Us Know If You Use Them:</strong> Our <strong>ARM-based Thunder nodes</strong> at NCAR are currently in maintenance and may be removed from Chameleon service in the near future. If your research depends on these nodes, please reach out to us at our <a href="https://forum.chameleoncloud.org/t/arm-thunder-nodes-let-us-know-if-you-use-them/185">Forum thread</a> or directly to our project manager, Marc Richardson (<a href="mailto:mtrichardson@uchicago.edu">mtrichardson@uchicago.edu</a>) by the end of May 2026.</p>
-
 <p><strong>CHI@NCAR — Ready for Your Workloads:</strong> A reminder that <a href="https://chi.hpc.ucar.edu/project/"><strong>CHI@NCAR</strong></a> is now a full Chameleon site, and we've got plenty of capacity ready for your experiments and students. If you have a large class coming up in Fall 2027, this site could be useful for spinning up large clusters. The site now features <strong>40 new Compute Zen 5 nodes</strong>, each equipped with:</p>
 
 <ul>
