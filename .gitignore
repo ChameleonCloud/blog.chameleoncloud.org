@@ -4,3 +4,6 @@ blog-chi-vs-fabric.html.docx
 .gitignore
 .gitignore
 Chameleon-Fabric-fabnetv4.ipynb
+.DS_Store
+content/.DS_Store
+static/.DS_Store
