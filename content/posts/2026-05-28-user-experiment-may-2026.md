@@ -10,10 +10,9 @@ abstract: <p>Distributed storage systems are upgraded constantly, and one subtle
 authors:
 - Ke Han
 categories:
-- Featured
 - User Experiments
 date: '2026-05-28'
-featured: true
+featured: false
 hide_image: true
 image: 'https://chameleoncloud.org/media/filer_public/8e/02/8e022415-21c1-4987-bb12-f4febcc0372a/ke_han.jpeg'
 related_posts:
