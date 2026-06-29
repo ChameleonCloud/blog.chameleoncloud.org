@@ -8,9 +8,8 @@ authors:
 - Paul Marshall
 categories:
 - Tips and Tricks
-- Featured
 date: '2026-05-18'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/62/f5/62f5db0c-462f-4608-b376-67e4a1442169/external-artifact-page.png
 related_posts:
