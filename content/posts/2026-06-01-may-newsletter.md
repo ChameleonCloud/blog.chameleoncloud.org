@@ -8,9 +8,8 @@ abstract: <p>This month we're introducing a dedicated Resource Updates section t
 authors:
 categories:
 - Chameleon Changelog
-- Featured
 date: '2026-06-01'
-featured: true
+featured: false
 hide_image: false
 image: 'https://chameleoncloud.org/media/filer_public/62/f3/62f3840e-41d4-484f-b5c4-0c1f3cbf987a/may_newsletter_2026.jpg'
 related_posts:
