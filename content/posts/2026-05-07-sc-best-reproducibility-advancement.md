@@ -6,9 +6,8 @@ abstract: <p>The RAPTOR team from Argonne National Laboratory and collaborating 
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-05-07'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/f8/e5/f8e5667e-3d2a-48fd-9041-0b3013df8208/sc25_reproducibility_award.png
 related_posts:
