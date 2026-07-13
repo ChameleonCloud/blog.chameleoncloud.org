@@ -1,5 +1,6 @@
 ---
-abstract:
+abstract: <p>Join the REPETO project's BoF session at OSDI '26 on July 13 to learn
+  how to package and reproduce systems experiments on Chameleon and Trovi.</p>
 authors: []
 categories:
 - Announcements
@@ -14,7 +15,7 @@ related_posts:
 - slug: announcing-fast-2026-bird-of-feather-bof-session-on-reproducibility
   title: Announcing FAST 2026 Bird-of-Feather (BoF) Session on Reproducibility
 slug: announcing-osdi-2026-bird-of-feather-bof-session-on-reproducibility
-subtitle:
+subtitle: Package and Reproduce Your Experiments with Us at OSDI '26
 title: Announcing OSDI 2026 Bird-of-Feather (BoF) Session on Reproducibility
 ---
 
