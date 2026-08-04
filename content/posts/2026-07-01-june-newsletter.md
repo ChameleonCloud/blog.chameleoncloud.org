@@ -8,9 +8,8 @@ abstract: <p>This month we're reminding you not to miss out on limited-time Pont
 authors: []
 categories:
 - Chameleon Changelog
-- Featured
 date: '2026-07-01'
-featured: true
+featured: false
 hide_image: false
 image: 'https://chameleoncloud.org/media/filer_public/38/ce/38ce5c45-dfa5-421a-95c2-a283e31854a9/newsletter-june-2026.jpg'
 related_posts:
