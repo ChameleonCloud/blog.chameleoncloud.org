@@ -5,12 +5,7 @@ abstract: '<p>Great news on Chameleon! I hope everybody is enjoying the vacation
   and hope to see you at the MERIF workshop – read on, if you would like to represent
   Chameleon as a user. Our changelog has important announcements of upcoming changes
   in how bare metal versus VM instances are managed, news of base Chameleon Infrastructure
-  (CHI) upgrades, and resource discovery for VM flavors. It''s been a super busy and
-  productive summer and as a result we have two important migrations ongoing: one for
-  the resource discovery capabilities and one for bare metal vs VM management – make
-  sure to familiarize yourself with the new ways of doing things because the old ones
-  will go away at the end of the fall semester/quarter. Don''t forget that the Ponte
-  Veccio nodes are available for limited time only – use them while you can!</p>'
+  (CHI) upgrades, and resource discovery for VM flavors.</p>'
 authors: []
 categories:
 - Chameleon Changelog
