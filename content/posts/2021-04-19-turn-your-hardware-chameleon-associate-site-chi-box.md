@@ -123,4 +123,4 @@ title: Turn Your Hardware into a Chameleon Associate Site with CHI-in-a-Box
 
 <p dir="ltr">For starters, read through the repository for more information. We’ve tried to address common use cases, but we’re always interested to learn about more. If you’re interested in a feature that’s not described, it may be in the works. Letting us know helps us prioritize which features to focus on next. This is especially true if you’re able to contribute development time.</p>
 
-<p dir="ltr">Whether you’re interested in setting up a full associate site, or using the infrastructure for your own, more independent use-case, please let us know! Send an email to <a href="mailto:contact@chameleoncloud.org">contact@chameleoncloud.org</a>.</p>
+<p dir="ltr">Whether you’re interested in setting up a full associate site, or using the infrastructure for your own, more independent use-case, please let us know! Send an email to <a href="mailto:help@chameleoncloud.org">help@chameleoncloud.org</a>.</p>

@@ -72,7 +72,7 @@ title: Packaging Experiments for Reproducibility
 
 <p dir="ltr"> </p>
 
-<p dir="ltr">If you would like to try out this packaging method, our <a href="https://chameleoncloud.readthedocs.io/en/latest/technical/jupyter.html">Jupyter documentation</a> is a good place to start. Feel free also to explore the examples above — some elements, like the creation of an experimental container or certain data analysis patterns — could be generic to many experiments and will allow you to get started faster. And if you do package your experiment using this method, please <a href="mailto:contact@chameleoncloud.org">let us know</a> — we’d love to profile it on our blog!  </p>
+<p dir="ltr">If you would like to try out this packaging method, our <a href="https://chameleoncloud.readthedocs.io/en/latest/technical/jupyter.html">Jupyter documentation</a> is a good place to start. Feel free also to explore the examples above — some elements, like the creation of an experimental container or certain data analysis patterns — could be generic to many experiments and will allow you to get started faster. And if you do package your experiment using this method, please <a href="mailto:help@chameleoncloud.org">let us know</a> — we’d love to profile it on our blog!  </p>
 
 <p><br>
  </p>

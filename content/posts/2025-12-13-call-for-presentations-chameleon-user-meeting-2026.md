@@ -114,6 +114,6 @@ title: 'Call for Presentations: Chameleon User Meeting 2026'
 
 <p>Follow updates on the User Meeting from our website: https://chameleoncloud.org/chameleon-cloud-users-meeting/sixth-chameleon-user-meeting</p>
 
-<p>Contact us at contact@chameleoncloud.org or via the Chameleon users mailing list.</p>
+<p>Contact us at help@chameleoncloud.org.</p>
 
 <p>We look forward to learning from your experiences and working together to build better infrastructure for AI research!</p>

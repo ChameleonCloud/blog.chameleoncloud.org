@@ -76,4 +76,4 @@ title: 'Chameleon Takes Flight at SC24: Advancing Research and Collaboration'
 
 <p>We look forward to seeing you at SC24 in Atlanta. Whether you're a long-time Chameleon user or new to our platform, these events offer valuable opportunities to learn, collaborate, and contribute to the future of high-performance computing and cloud research.</p>
 
-<p>For more information on our SC24 activities or to schedule a meeting with our team, please reach out to <a href="mailto:contact@chameleoncloud.org">contact@chameleoncloud.org</a>.</p>
+<p>For more information on our SC24 activities or to schedule a meeting with our team, please reach out to <a href="mailto:help@chameleoncloud.org">help@chameleoncloud.org</a>.</p>

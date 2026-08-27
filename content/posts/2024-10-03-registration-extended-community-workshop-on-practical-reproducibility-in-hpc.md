@@ -43,4 +43,4 @@ title: REGISTRATION EXTENDED - Community Workshop on Practical Reproducibility i
 
 <p>Ready to join us? <a href="http://reproduciblehpc.org">Register now</a></p>
 
-<p>Questions? Contact us at <a href="mailto:contact@chameleoncloud.org">contact@chameleoncloud.org</a>.</p>
+<p>Questions? Contact us at <a href="mailto:help@chameleoncloud.org">help@chameleoncloud.org</a>.</p>

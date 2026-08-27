@@ -17,7 +17,7 @@ title: Join Chameleon at SC19
 
 <p>Chameleon team members will be attending the Supercomputing Conference (SC19) in Denver from Nov. 18-22. Follow <a href="https://twitter.com/ChameleonCloud">@chameleoncloud</a> on Twitter to keep up with what’s going on each day. </p>
 
-<p>If you are presenting, showing a poster, or doing anything at all that is Chameleon related and you don't see it on this list, please let us know by emailing contact@chameleoncloud.org. We would love to tell everybody about it and hopefully have a chance to come by to see you!<br>
+<p>If you are presenting, showing a poster, or doing anything at all that is Chameleon related and you don't see it on this list, please let us know by emailing help@chameleoncloud.org. We would love to tell everybody about it and hopefully have a chance to come by to see you!<br>
  </p>
 
 <h3>Visit Chameleon partner booths</h3>

@@ -92,6 +92,6 @@ title: Call for Presentations - Community Workshop on Practical Reproducibility 
 
 <p>The workshop aims to produce a report capturing the community's collective knowledge and recommendations for advancing practical reproducibility in HPC. Your presentations and participation will directly contribute to this valuable resource for the HPC community.</p>
 
-<p>Please send your submissions to <a href="mailto:presentations@chameleoncloud.org">presentations@chameleoncloud.org</a>. For any questions, contact us at <a href="mailto:contact@chameleoncloud.org">contact@chameleoncloud.org</a> or via the Chameleon users list.</p>
+<p>Please send your submissions to <a href="mailto:presentations@chameleoncloud.org">presentations@chameleoncloud.org</a>. For any questions, contact us at <a href="mailto:help@chameleoncloud.org">help@chameleoncloud.org</a> or via the Chameleon users list.</p>
 
 <p>We look forward to your contributions and to seeing you in Atlanta this November!</p>

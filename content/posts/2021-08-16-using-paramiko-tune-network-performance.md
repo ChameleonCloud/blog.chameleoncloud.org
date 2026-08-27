@@ -72,4 +72,4 @@ title: Using Paramiko to Tune Network Performance
 <p dir="ltr"><b id="docs-internal-guid-1995d753-7fff-f28d-10aa-41319ba7505f"><img height="311" src="https://lh3.googleusercontent.com/9gwBPC6i9FCeXyZ_hCQlD6xaVxlIz0Bk0BHY3M_kFaxNziOcWTLMt8HFQDzIqyS5EPS9NRa6kKlcmhJIB-D7XRkhIbMxsXL9ZMVPAfsRA_1CVkN2zC1drIyozZSSd9SRzIgfUXhy" width="624"></b></p>
 
 <p><br>
-We invite anyone interested in learning about these tips and tricks to look at the notebook. If you have questions about deploying an experiment using host tuning, please contact us (contact@chameleoncloud.org) so that we can help you get started with this capability.</p>
+We invite anyone interested in learning about these tips and tricks to look at the notebook. If you have questions about deploying an experiment using host tuning, please contact us (help@chameleoncloud.org) so that we can help you get started with this capability.</p>

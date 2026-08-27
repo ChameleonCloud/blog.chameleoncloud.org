@@ -46,7 +46,7 @@ title: '"Back to School" with Chameleon'
 
 <p>Whether you are introducing someone new to Chameleon, or just want a refresher yourself, the revamped Getting Started guide is available to help move your research forward.</p>
 
-<p>We are always looking to improve. If you have comments or suggestions for us, regarding our Getting Started guide, other documentation, or the testbed itself, please reach out at <a href="mailto:contact@chameleoncloud.org">contact@chameleoncloud.org</a>.</p>
+<p>We are always looking to improve. If you have comments or suggestions for us, regarding our Getting Started guide, other documentation, or the testbed itself, please reach out at <a href="mailto:help@chameleoncloud.org">help@chameleoncloud.org</a>.</p>
 
 <h3>New Trovi Artifacts &amp; Tutorials!</h3>
 

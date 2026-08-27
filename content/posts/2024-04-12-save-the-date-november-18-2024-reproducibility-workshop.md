@@ -44,4 +44,4 @@ title: 'SAVE THE DATE: November 18, 2024 - Reproducibility Workshop in Atlanta, 
 
 <p><strong>Stay Informed</strong> as we finalize the details of our agenda, featured speakers, and registration information. We will post future announcements relating to the workshop in our blog to ensure you receive all the necessary information as soon as it becomes available.</p>
 
-<p>For any inquiries, or to express your interest in presenting or attending, please contact us at <a href="mailto:contact@chameleoncloud.org">contact@chameleoncloud.org</a>.</p>
+<p>For any inquiries, or to express your interest in presenting or attending, please contact us at <a href="mailto:help@chameleoncloud.org">help@chameleoncloud.org</a>.</p>

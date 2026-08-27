@@ -56,4 +56,4 @@ title: Early Bird Registration Open Until Sept. 30 for Workshop on Practical Rep
 
 <p>Don't miss this opportunity to be part of the conversation shaping the future of reproducibility in HPC. <a href="https://www.eventbrite.com/e/community-workshop-on-practical-reproducibility-in-hpc-tickets-1000658535617">Register now</a> to secure your spot and take advantage of the early bird discount!</p>
 
-<p>For more information, visit our <a href="https://reproduciblehpc.org">workshop website</a> or contact us at <a href="mailto:contact@chameleoncloud.org">contact@chameleoncloud.org</a>.</p>
+<p>For more information, visit our <a href="https://reproduciblehpc.org">workshop website</a> or contact us at <a href="mailto:help@chameleoncloud.org">help@chameleoncloud.org</a>.</p>
