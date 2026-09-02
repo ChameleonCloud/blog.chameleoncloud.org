@@ -9,9 +9,8 @@ abstract: '<p>Great news on Chameleon! I hope everybody is enjoying the vacation
 authors: []
 categories:
 - Chameleon Changelog
-- Featured
 date: '2026-08-01'
-featured: true
+featured: false
 hide_image: false
 image: 'https://chameleoncloud.org/media/filer_public/02/5b/025bf2c5-14bc-43e0-84a4-55a74d67aa79/hasmik-ghazaryan-olson-n_grr8c2emk-unsplash1.jpg'
 related_posts:
