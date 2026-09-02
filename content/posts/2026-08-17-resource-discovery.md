@@ -8,6 +8,7 @@ categories:
 date: '2026-08-17'
 featured: true
 hide_image: false
+image: https://chameleoncloud.org/media/filer_public/5e/49/5e498e58-1c7c-48a0-8b03-5799a28256eb/resource-discovery-new-ui.png
 related_posts:
 - slug: major-updates-to-chameleon-resource-discovery
   title: Redesigned Chameleon Resource Discovery in Preview Now
