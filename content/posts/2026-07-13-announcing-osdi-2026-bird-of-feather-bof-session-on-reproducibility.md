@@ -4,7 +4,6 @@ abstract: <p>Join the REPETO project's BoF session at OSDI '26 on July 13 to lea
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-07-13 00:00:00+00:00'
 featured: true
 hide_image: false

@@ -8,7 +8,6 @@ authors:
 - Xiaoyang Lu
 categories:
 - User Experiments
-- Featured
 date: '2026-06-29'
 featured: true
 hide_image: false

@@ -6,7 +6,6 @@ abstract: <p>Chameleon's redesigned resource discovery service is now in preview
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-06-18'
 featured: true
 hide_image: true
