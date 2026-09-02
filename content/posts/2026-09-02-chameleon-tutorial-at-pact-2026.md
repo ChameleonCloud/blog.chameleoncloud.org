@@ -10,7 +10,7 @@ categories:
 date: '2026-09-02 00:00:00+00:00'
 featured: true
 hide_image: false
-image: https://chameleoncloud.org/media/filer_public/04/82/04820d04-0c93-400d-8238-5415bd2f4b44/antonio-gabola-srp5wl4ak88-unsplash.jpg
+image: https://chameleoncloud.org/media/filer_public/a5/b0/a5b0377b-7731-42bd-b960-354efe24bbfd/antonio-gabola-srp5wl4ak88-unsplash.png
 slug: chameleon-tutorial-at-pact-2026
 title: Chameleon Tutorial at PACT 2026
 ---
