@@ -5,7 +5,6 @@ abstract: <p>Join the REPETO project's BoF session at VLDB '26 on September 3 to
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-08-30 00:00:00+00:00'
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/af/ff/afffd060-9415-484e-b7c5-ff8a791329f4/vldb.webp

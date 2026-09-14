@@ -8,7 +8,7 @@ categories:
 - Announcements
 - Featured
 date: '2026-09-02 00:00:00+00:00'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/a5/b0/a5b0377b-7731-42bd-b960-354efe24bbfd/antonio-gabola-srp5wl4ak88-unsplash.png
 slug: chameleon-tutorial-at-pact-2026
