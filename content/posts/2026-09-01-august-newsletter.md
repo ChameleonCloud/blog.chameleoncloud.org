@@ -7,9 +7,8 @@ abstract: '<p>Fantastic news on Chameleon: our users are back in force – welco
 authors: []
 categories:
 - Chameleon Changelog
-- Featured
 date: '2026-09-02  00:00:00+00:00'
-featured: true
+featured: false
 hide_image: false
 image: 'https://chameleoncloud.org/media/filer_public/0d/5e/0d5e685b-0691-4476-bfd4-c24a06304c0c/pierre-bamin-k3qqlulqvvg-unsplash.jpg'
 related_posts:
