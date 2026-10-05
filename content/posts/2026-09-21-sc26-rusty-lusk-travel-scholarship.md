@@ -6,9 +6,8 @@ abstract: <p>ACM SIGHPC is accepting applications for the Ewing "Rusty" Lusk Tra
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-09-21 14:00:00+00:00'
-featured: true
+featured: false
 hide_image: false
 image:  https://chameleoncloud.org/media/filer_public/b1/8e/b18e27e3-cd1d-4cd1-b02c-97c74d85f702/sigphc_scholarship.jpg
 slug: sc26-rusty-lusk-travel-scholarship
