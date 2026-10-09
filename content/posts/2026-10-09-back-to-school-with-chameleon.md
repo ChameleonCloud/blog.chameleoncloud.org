@@ -11,7 +11,7 @@ categories:
 date: '2026-10-09 14:00:00+00:00'
 featured: true
 hide_image: false
-image:
+image: https://chameleoncloud.org/media/filer_public/04/2f/042f0836-b505-4763-9d8b-75b3b1ce8c44/alisa-anton-ba8buakjywg-unsplash.jpg
 related_posts:
 - slug: one-place-to-plan-an-experiment-bare-metal-vms-and-availability
   title: "One Place to Plan an Experiment: Bare Metal, VMs, and Availability"
