@@ -4,9 +4,8 @@ authors:
 - Paul Marshall
 categories:
 - Tips and Tricks
-- Featured
 date: '2026-08-17'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/5e/49/5e498e58-1c7c-48a0-8b03-5799a28256eb/resource-discovery-new-ui.png
 related_posts:
