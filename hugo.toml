@@ -15,6 +15,7 @@ home = ["HTML", "FeaturedJSON"]
 description = "The Chameleon Blog"
 mainSections = ["posts"]
 baseForumURL = "https://forum.chameleoncloud.org"
+basePortalURL = "https://www.chameleoncloud.org"
 
 [taxonomies]
 category = "categories"
