@@ -7,9 +7,8 @@ authors:
 - Kate Keahey
 categories:
 - Tips and Tricks
-- Featured
 date: '2026-10-09 14:00:00+00:00'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/04/2f/042f0836-b505-4763-9d8b-75b3b1ce8c44/alisa-anton-ba8buakjywg-unsplash.jpg
 related_posts:
