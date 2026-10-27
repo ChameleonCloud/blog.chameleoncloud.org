@@ -6,7 +6,6 @@ abstract: <p>Join the Chameleon team in person at PACT 2026 in Chicago on Octobe
 authors: []
 categories:
 - Announcements
-- Featured
 date: '2026-09-02 00:00:00+00:00'
 featured: false
 hide_image: false

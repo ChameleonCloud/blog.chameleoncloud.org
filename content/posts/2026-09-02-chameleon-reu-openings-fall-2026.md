@@ -8,9 +8,8 @@ authors:
 - Paul Marshall
 categories:
 - Announcements
-- Featured
 date: '2026-09-02 14:00:00+00:00'
-featured: true
+featured: false
 hide_image: false
 image: https://chameleoncloud.org/media/filer_public/51/cf/51cf2baf-03f8-4e29-a938-ddf2be37bd03/reu-fall-2026.png
 related_posts:
