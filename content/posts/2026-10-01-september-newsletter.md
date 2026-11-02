@@ -6,9 +6,8 @@ abstract: '<p>Great news from Chameleon! Our new site at NCAR just got even bett
 authors: []
 categories:
 - Chameleon Changelog
-- Featured
 date: '2026-10-01'
-featured: true
+featured: false
 hide_image: false
 image: 'https://chameleoncloud.org/media/filer_public/50/b2/50b28623-6af0-44c0-a8dc-6fdab4887e04/ante-hamersmit-5mhmfz_cmy-unsplash.jpg'
 related_posts:
